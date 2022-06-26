@@ -1,0 +1,1700 @@
+1;30/03/2003;18h00;Domingo;Corinthians;Atletico-MG;ATLETICO-MG;Pacaembu;0;3;SP;MG;MG
+2;05/04/2003;16h00;Sábado;Coritiba;Internacional;INTERNACIONAL;Couto Pereira;0;1;PR;RS;RS
+2;06/04/2003;18h00;Domingo;São Paulo;Cruzeiro;CRUZEIRO;Morumbi;2;4;SP;MG;MG
+2;06/04/2003;16h00;Domingo;Bahia;Flamengo;FLAMENGO;Fonte Nova;1;2;BA;RJ;RJ
+2;06/04/2003;16h00;Domingo;Paysandu;Vitória;VITÓRIA;Mangueirão;1;2;PA;ES;ES
+3;12/04/2003;16h00;Sábado;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;1;2;PR;MG;MG
+4;16/04/2003;21h40;Quarta-feira;Coritiba;Cruzeiro;CRUZEIRO;Couto Pereira;3;4;PR;MG;MG
+5;19/04/2003;16h00;Sábado;Bahia;Atletico-MG;ATLETICO-MG;Fonte Nova;2;4;BA;MG;MG
+5;19/04/2003;18h00;Sábado;Flamengo;Santos;SANTOS;Maracanã;0;2;RJ;SP;SP
+6;26/04/2003;16h00;Sábado;Atletico-MG;Coritiba;CORITIBA;Mineirão;1;2;MG;PR;PR
+6;26/04/2003;16h00;Sábado;Vitória;Internacional;INTERNACIONAL;Barradão;0;3;ES;RS;RS
+6;27/04/2003;16h00;Domingo;Grêmio;Fluminense;FLUMINENSE;Olímpico Monumental;0;1;RS;RJ;RJ
+7;04/05/2003;16h00;Domingo;Fortaleza;Corinthians;CORINTHIANS;Castelão;1;2;CE;SP;SP
+7;04/05/2003;18h00;Domingo;Criciúma;Santos;SANTOS;Heriberto Hulse;1;3;SC;SP;SP
+8;10/05/2003;16h00;Sábado;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;0;2;SP;MG;MG
+10;25/05/2003;16h00;Domingo;Paysandu;Coritiba;CORITIBA;Mangueirão;1;3;PA;PR;PR
+10;25/05/2003;16h00;Domingo;Goiás;Criciúma;CRICIÚMA;Serra Dourada;0;2;GO;SC;SC
+10;25/05/2003;16h00;Domingo;Grêmio;São Paulo;SÃO PAULO;Olímpico Monumental;1;2;RS;SP;SP
+12;07/06/2003;16h00;Sábado;Guarani;Santos;SANTOS;Brinco de Ouro;1;2;SP;SP;SP
+12;08/06/2003;16h00;Domingo;Goiás;Coritiba;CORITIBA;Serra Dourada;1;2;GO;PR;PR
+13;14/06/2003;16h00;Sábado;Fluminense;Goiás;GOIÁS;Maracanã;2;3;RJ;GO;GO
+13;14/06/2003;16h00;Sábado;Ponte Preta;Guarani;GUARANI;Moisés Lucarelli;0;2;SP;SP;SP
+13;15/06/2003;18h00;Domingo;Vasco;Flamengo;FLAMENGO;Maracanã;1;2;RJ;RJ;RJ
+13;15/06/2003;16h00;Domingo;Paraná;Juventude;JUVENTUDE;Pinheirão;1;2;PR;RS;RS
+13;15/06/2003;16h00;Domingo;Fortaleza;Paysandu;PAYSANDU;Presidente Vargas;1;2;CE;PA;PA
+13;15/06/2003;16h00;Domingo;Santos;São Caetano;SÃO CAETANO;Vila Belmiro;0;1;SP;SP;SP
+13;15/06/2003;16h00;Domingo;Corinthians;São Paulo;SÃO PAULO;Morumbi;1;2;SP;SP;SP
+14;22/06/2003;18h00;Domingo;Juventude;Cruzeiro;CRUZEIRO;Alfredo Jaconi;0;1;RS;MG;MG
+15;28/06/2003;18h00;Sábado;Flamengo;Figueirense;FIGUEIRENSE;Maracanã;0;2;RJ;SC;SC
+15;28/06/2003;16h00;Sábado;Grêmio;Juventude;JUVENTUDE;Olímpico Monumental;1;4;RS;RS;RS
+15;28/06/2003;16h00;Sábado;Fortaleza;Vasco;VASCO;Castelão;0;1;CE;RJ;RJ
+15;29/06/2003;16h00;Domingo;Guarani;São Paulo;SÃO PAULO;Brinco de Ouro;0;1;SP;SP;SP
+16;05/07/2003;16h00;Sábado;Vasco;Paraná;PARANÁ;São Januário;1;4;RJ;PR;PR
+16;06/07/2003;16h00;Domingo;Fortaleza;Criciúma;CRICIÚMA;Presidente Vargas;0;1;CE;SC;SC
+16;06/07/2003;16h00;Domingo;Vitória;Ponte Preta;PONTE PRETA;Barradão;1;4;ES;SP;SP
+17;09/07/2003;21h40;Quarta-feira;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;0;2;PR;SP;SP
+18;12/07/2003;18h00;Sábado;Vasco;Paysandu;PAYSANDU;São Januário;0;2;RJ;PA;PA
+18;13/07/2003;16h00;Domingo;Corinthians;Coritiba;CORITIBA;Morumbi;0;1;SP;PR;PR
+18;13/07/2003;18h00;Domingo;Grêmio;Cruzeiro;CRUZEIRO;Olímpico Monumental;0;1;RS;MG;MG
+18;13/07/2003;16h00;Domingo;São Caetano;Guarani;GUARANI;Anacleto Campanella;0;2;SP;SP;SP
+18;13/07/2003;16h00;Domingo;Fluminense;São Paulo;SÃO PAULO;Maracanã;1;3;RJ;SP;SP
+19;16/07/2003;20h30;Quarta-feira;Juventude;Figueirense;FIGUEIRENSE;Alfredo Jaconi;1;2;RS;SC;SC
+19;16/07/2003;20h30;Quarta-feira;Flamengo;Fortaleza;FORTALEZA;Maracanã;0;2;RJ;CE;CE
+20;19/07/2003;16h00;Sábado;Fluminense;Santos;SANTOS;Giulite Coutinho;1;4;RJ;SP;SP
+20;20/07/2003;16h00;Domingo;Vitória;São Paulo;SÃO PAULO;Barradão;0;2;ES;SP;SP
+21;24/07/2003;20h30;Quinta-feira;Grêmio;Criciúma;CRICIÚMA;Olímpico Monumental;0;2;RS;SC;SC
+21;24/07/2003;20h30;Quinta-feira;São Paulo;Ponte Preta;PONTE PRETA;Morumbi;1;2;SP;SP;SP
+22;27/07/2003;16h00;Domingo;Criciúma;Coritiba;CORITIBA;Heriberto Hulse;2;3;SC;PR;PR
+22;27/07/2003;16h00;Domingo;Vitória;Paraná;PARANÁ;Barradão;0;3;ES;PR;PR
+22;27/07/2003;09h00;Domingo;Fortaleza;Ponte Preta;PONTE PRETA;Castelão;2;3;CE;SP;SP
+15;30/07/2003;20h30;Quarta-feira;Athlético-PR;Santos;SANTOS;Arena da Baixada;0;2;PR;SP;SP
+23;02/08/2003;18h00;Sábado;São Paulo;Internacional;INTERNACIONAL;Morumbi;0;2;SP;RS;RS
+23;03/08/2003;16h00;Domingo;Figueirense;Goiás;GOIÁS;Orlando Scarpelli;0;1;SC;GO;GO
+24;06/08/2003;20h30;Quarta-feira;Criciúma;São Caetano;SÃO CAETANO;Heriberto Hulse;0;1;SC;SP;SP
+24;07/08/2003;20h30;Quinta-feira;Corinthians;Figueirense;FIGUEIRENSE;Pacaembu;0;1;SP;SC;SC
+25;09/08/2003;16h00;Sábado;Paraná;Santos;SANTOS;Couto Pereira;1;2;PR;SP;SP
+25;10/08/2003;16h00;Domingo;Atletico-MG;Corinthians;CORINTHIANS;Mineirão;2;3;MG;SP;SP
+25;10/08/2003;16h00;Domingo;Ponte Preta;Internacional;INTERNACIONAL;Moisés Lucarelli;1;4;SP;RS;RS
+25;10/08/2003;16h00;Domingo;Figueirense;Vitória;VITÓRIA;Orlando Scarpelli;1;2;SC;ES;ES
+26;16/08/2003;18h00;Sábado;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Mineirão;1;2;MG;PR;PR
+26;16/08/2003;16h00;Sábado;Bahia;Internacional;INTERNACIONAL;Fonte Nova;1;3;BA;RS;RS
+26;17/08/2003;16h00;Domingo;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;1;3;SP;MG;MG
+26;17/08/2003;18h00;Domingo;Fluminense;Flamengo;FLAMENGO;Maracanã;0;1;RJ;RJ;RJ
+26;17/08/2003;16h00;Domingo;Grêmio;Goiás;GOIÁS;Olímpico Monumental;0;1;RS;GO;GO
+27;20/08/2003;20h30;Quarta-feira;Athlético-PR;Figueirense;FIGUEIRENSE;Arena da Baixada;1;2;PR;SC;SC
+27;20/08/2003;21h40;Quarta-feira;Fortaleza;São Paulo;SÃO PAULO;Castelão;0;2;CE;SP;SP
+27;21/08/2003;15h00;Quinta-feira;Internacional;Fluminense;FLUMINENSE;Beira Rio;0;1;RS;RJ;RJ
+28;24/08/2003;16h00;Domingo;Figueirense;Coritiba;CORITIBA;Orlando Scarpelli;1;2;SC;PR;PR
+29;30/08/2003;16h00;Sábado;Internacional;Vitória;VITÓRIA;Beira Rio;0;1;RS;ES;ES
+29;31/08/2003;16h00;Domingo;Juventude;Goiás;GOIÁS;Alfredo Jaconi;0;2;RS;GO;GO
+30;13/09/2003;16h00;Sábado;Athlético-PR;Cruzeiro;CRUZEIRO;Arena da Baixada;1;4;PR;MG;MG
+30;14/09/2003;16h00;Domingo;Paraná;Coritiba;CORITIBA;Couto Pereira;2;3;PR;PR;PR
+31;21/09/2003;16h00;Domingo;São Caetano;Figueirense;FIGUEIRENSE;Anacleto Campanella;0;2;SP;SC;SC
+32;24/09/2003;21h40;Quarta-feira;Corinthians;Cruzeiro;CRUZEIRO;Pacaembu;0;1;SP;MG;MG
+32;24/09/2003;20h30;Quarta-feira;Goiás;Fortaleza;FORTALEZA;Serra Dourada;0;1;GO;CE;CE
+33;28/09/2003;18h00;Domingo;Fluminense;Atletico-MG;ATLETICO-MG;Giulite Coutinho;0;1;RJ;MG;MG
+34;04/10/2003;18h00;Sábado;São Paulo;Santos;SANTOS;Morumbi;1;2;SP;SP;SP
+34;05/10/2003;16h00;Domingo;Vitória;Corinthians;CORINTHIANS;Barradão;1;2;ES;SP;SP
+34;05/10/2003;18h00;Domingo;Criciúma;Cruzeiro;CRUZEIRO;Heriberto Hulse;1;3;SC;MG;MG
+34;05/10/2003;18h00;Domingo;Flamengo;Paraná;PARANÁ;Maracanã;0;3;RJ;PR;PR
+35;08/10/2003;20h30;Quarta-feira;Corinthians;São Caetano;SÃO CAETANO;Pacaembu;0;3;SP;SP;SP
+35;09/10/2003;20h30;Quinta-feira;Figueirense;Atletico-MG;ATLETICO-MG;Orlando Scarpelli;0;1;SC;MG;MG
+36;11/10/2003;16h00;Sábado;Guarani;Ponte Preta;PONTE PRETA;Brinco de Ouro;1;3;SP;SP;SP
+36;12/10/2003;16h00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Mineirão;0;1;MG;MG;MG
+36;12/10/2003;18h00;Domingo;Internacional;Grêmio;GRÊMIO;Beira Rio;0;1;RS;RS;RS
+37;19/10/2003;18h00;Domingo;Cruzeiro;Juventude;JUVENTUDE;Mineirão;1;2;MG;RS;RS
+38;22/10/2003;20h30;Quarta-feira;Ponte Preta;Goiás;GOIÁS;Moisés Lucarelli;0;2;SP;GO;GO
+38;22/10/2003;21h40;Quarta-feira;Bahia;Santos;SANTOS;Fonte Nova;4;7;BA;SP;SP
+38;22/10/2003;20h30;Quarta-feira;Athlético-PR;Vitória;VITÓRIA;Estádio do Café;1;2;PR;ES;ES
+38;23/10/2003;20h30;Quinta-feira;Juventude;Grêmio;GRÊMIO;Alfredo Jaconi;1;2;RS;RS;RS
+39;25/10/2003;16h00;Sábado;Coritiba;Santos;SANTOS;Couto Pereira;0;4;PR;SP;SP
+39;26/10/2003;16h00;Domingo;Corinthians;Athlético-PR;ATHLÉTICO-PR;Pacaembu;2;3;SP;PR;PR
+39;26/10/2003;16h00;Domingo;São Caetano;São Paulo;SÃO PAULO;Anacleto Campanella;0;1;SP;SP;SP
+40;01/11/2003;16h00;Sábado;Grêmio;Paraná;PARANÁ;Olímpico Monumental;0;2;RS;PR;PR
+40;02/11/2003;16h00;Domingo;Fortaleza;Cruzeiro;CRUZEIRO;Castelão;1;2;CE;MG;MG
+40;02/11/2003;17h00;Domingo;Vitória;Goiás;GOIÁS;Barradão;3;4;ES;GO;GO
+40;02/11/2003;18h00;Domingo;Vasco;Internacional;INTERNACIONAL;Batistão;0;1;RJ;RS;RS
+41;05/11/2003;21h30;Quarta-feira;Paysandu;Vasco;VASCO;Mangueirão;1;2;PA;RJ;RJ
+41;06/11/2003;20h30;Quinta-feira;Guarani;São Caetano;SÃO CAETANO;Brinco de Ouro;0;1;SP;SP;SP
+42;08/11/2003;18h00;Sábado;Criciúma;Paraná;PARANÁ;Ressacada;1;2;SC;PR;PR
+42;09/11/2003;16h00;Domingo;Vasco;Cruzeiro;CRUZEIRO;Pedro Pedrossian;0;1;RJ;MG;MG
+42;09/11/2003;18h00;Domingo;Atletico-MG;Internacional;INTERNACIONAL;Independência;1;2;MG;RS;RS
+42;09/11/2003;16h00;Domingo;Ponte Preta;Santos;SANTOS;Moisés Lucarelli;3;4;SP;SP;SP
+43;23/11/2003;17h00;Domingo;Bahia;Athlético-PR;ATHLÉTICO-PR;Fonte Nova;0;2;BA;PR;PR
+43;23/11/2003;18h00;Domingo;Guarani;Corinthians;CORINTHIANS;Brinco de Ouro;0;1;SP;SP;SP
+43;23/11/2003;16h00;Domingo;Paraná;Cruzeiro;CRUZEIRO;Pinheirão;1;3;PR;MG;MG
+44;30/11/2003;18h00;Domingo;Corinthians;Bahia;BAHIA;Pacaembu;1;2;SP;BA;BA
+44;30/11/2003;16h00;Domingo;Criciúma;Grêmio;GRÊMIO;Heriberto Hulse;0;2;SC;RS;RS
+44;30/11/2003;18h00;Domingo;Ponte Preta;São Paulo;SÃO PAULO;Moisés Lucarelli;1;2;SP;SP;SP
+45;06/12/2003;17h00;Sábado;Vitória;Atletico-MG;ATLETICO-MG;Barradão;0;1;ES;MG;MG
+45;06/12/2003;17h00;Sábado;Goiás;Figueirense;FIGUEIRENSE;Serra Dourada;0;3;GO;SC;SC
+46;14/12/2003;16h00;Domingo;Bahia;Cruzeiro;CRUZEIRO;Fonte Nova;0;7;BA;MG;MG
+46;14/12/2003;18h00;Domingo;São Paulo;Flamengo;FLAMENGO;Morumbi;1;3;SP;RJ;RJ
+1;21/04/2004;16h00;Quarta-feira;Botafogo-RJ;Goiás;GOIÁS;Caio Martins;1;4;RJ;GO;GO
+1;22/04/2004;20h30;Quinta-feira;Vasco;Criciúma;CRICIÚMA;São Januário;0;1;RJ;SC;SC
+2;25/04/2004;16h00;Domingo;Athlético-PR;Figueirense;FIGUEIRENSE;Arena da Baixada;0;3;PR;SC;SC
+3;28/04/2004;20h30;Quarta-feira;Paysandu;Athlético-PR;ATHLÉTICO-PR;Mangueirão;0;3;PA;PR;PR
+3;29/04/2004;20h30;Quinta-feira;Vasco;Guarani;GUARANI;São Januário;0;1;RJ;SP;SP
+4;01/05/2004;18h00;Sábado;Atletico-MG;Ponte Preta;PONTE PRETA;Independência;1;2;MG;SP;SP
+4;02/05/2004;16h00;Domingo;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;1;3;SP;MG;MG
+4;02/05/2004;16h00;Domingo;Corinthians;Palmeiras;PALMEIRAS;Morumbi;0;4;SP;SP;SP
+4;02/05/2004;18h00;Domingo;Guarani;São Paulo;SÃO PAULO;Brinco de Ouro;2;3;SP;SP;SP
+5;09/05/2004;18h00;Domingo;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;1;2;PR;SP;SP
+6;15/05/2004;18h00;Sábado;Paysandu;Vasco;VASCO;Mangueirão;1;2;PA;RJ;RJ
+6;16/05/2004;16h00;Domingo;Flamengo;Internacional;INTERNACIONAL;Raulino de Oliveira;1;2;RJ;RS;RS
+7;22/05/2004;18h00;Sábado;Coritiba;Atletico-MG;ATLETICO-MG;Couto Pereira;0;1;PR;MG;MG
+7;22/05/2004;16h00;Sábado;Paysandu;Grêmio;GRÊMIO;Mangueirão;1;3;PA;RS;RS
+7;23/05/2004;18h00;Domingo;Corinthians;Athlético-PR;ATHLÉTICO-PR;Pacaembu;0;5;SP;PR;PR
+7;23/05/2004;16h00;Domingo;Flamengo;Fluminense;FLUMINENSE;Maracanã;1;2;RJ;RJ;RJ
+7;23/05/2004;16h00;Domingo;Santos;Palmeiras;PALMEIRAS;Vila Belmiro;0;4;SP;SP;SP
+7;23/05/2004;16h00;Domingo;Paraná;Ponte Preta;PONTE PRETA;Pinheirão;0;1;PR;SP;SP
+8;29/05/2004;16h00;Sábado;Ponte Preta;Juventude;JUVENTUDE;Moisés Lucarelli;0;1;SP;RS;RS
+8;30/05/2004;18h00;Domingo;Grêmio;São Caetano;SÃO CAETANO;Olímpico Monumental;1;2;RS;SP;SP
+9;13/06/2004;16h00;Domingo;Ponte Preta;Figueirense;FIGUEIRENSE;Moisés Lucarelli;0;2;SP;SC;SC
+9;13/06/2004;18h00;Domingo;Vitória;Santos;SANTOS;Barradão;1;2;ES;SP;SP
+10;19/06/2004;16h00;Sábado;Athlético-PR;Vitória;VITÓRIA;Arena da Baixada;1;3;PR;ES;ES
+10;20/06/2004;16h00;Domingo;Botafogo-RJ;Ponte Preta;PONTE PRETA;Caio Martins;0;1;RJ;SP;SP
+11;26/06/2004;18h00;Sábado;Flamengo;Figueirense;FIGUEIRENSE;Raulino de Oliveira;0;3;RJ;SC;SC
+11;26/06/2004;16h00;Sábado;Criciúma;Grêmio;GRÊMIO;Heriberto Hulse;1;2;SC;RS;RS
+11;27/06/2004;18h00;Domingo;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;1;MG;PR;PR
+11;27/06/2004;16h00;Domingo;Internacional;Vasco;VASCO;Beira Rio;1;3;RS;RJ;RJ
+12;04/07/2004;16h00;Domingo;São Caetano;Botafogo-RJ;BOTAFOGO-RJ;Anacleto Campanella;1;2;SP;RJ;RJ
+12;04/07/2004;18h00;Domingo;Cruzeiro;Coritiba;CORITIBA;Mineirão;0;3;MG;PR;PR
+12;04/07/2004;16h00;Domingo;Paraná;Palmeiras;PALMEIRAS;Pinheirão;1;2;PR;SP;SP
+12;04/07/2004;16h00;Domingo;Corinthians;Santos;SANTOS;Pacaembu;2;3;SP;SP;SP
+13;07/07/2004;21h45;Quarta-feira;Coritiba;Corinthians;CORINTHIANS;Couto Pereira;1;2;PR;SP;SP
+13;07/07/2004;21h45;Quarta-feira;Ponte Preta;Santos;SANTOS;Moisés Lucarelli;0;4;SP;SP;SP
+14;10/07/2004;16h00;Sábado;Flamengo;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+15;13/07/2004;20h30;Terça-feira;Vasco;Coritiba;CORITIBA;São Januário;2;3;RJ;PR;PR
+15;13/07/2004;20h30;Terça-feira;Grêmio;Cruzeiro;CRUZEIRO;Olímpico Monumental;2;3;RS;MG;MG
+16;17/07/2004;18h00;Sábado;Flamengo;Juventude;JUVENTUDE;Raulino de Oliveira;0;1;RJ;RS;RS
+16;17/07/2004;16h00;Sábado;Paraná;São Caetano;SÃO CAETANO;Pinheirão;0;1;PR;SP;SP
+17;20/07/2004;20h30;Terça-feira;Guarani;Flamengo;FLAMENGO;Brinco de Ouro;0;1;SP;RJ;RJ
+17;20/07/2004;20h30;Terça-feira;Atletico-MG;Goiás;GOIÁS;Mineirão;0;2;MG;GO;GO
+17;20/07/2004;20h30;Terça-feira;São Caetano;Ponte Preta;PONTE PRETA;Anacleto Campanella;0;1;SP;SP;SP
+18;24/07/2004;16h00;Sábado;Internacional;Juventude;JUVENTUDE;Beira Rio;1;2;RS;RS;RS
+18;24/07/2004;18h00;Sábado;Cruzeiro;São Caetano;SÃO CAETANO;Mineirão;0;1;MG;SP;SP
+19;28/07/2004;21h45;Quarta-feira;Juventude;São Paulo;SÃO PAULO;Alfredo Jaconi;1;2;RS;SP;SP
+20;01/08/2004;18h00;Domingo;Guarani;Botafogo-RJ;BOTAFOGO-RJ;Brinco de Ouro;0;2;SP;RJ;RJ
+20;01/08/2004;16h00;Domingo;Flamengo;Palmeiras;PALMEIRAS;Raulino de Oliveira;0;1;RJ;SP;SP
+21;04/08/2004;20h30;Quarta-feira;São Caetano;Athlético-PR;ATHLÉTICO-PR;Anacleto Campanella;0;3;SP;PR;PR
+21;04/08/2004;21h45;Quarta-feira;Vasco;Corinthians;CORINTHIANS;São Januário;1;3;RJ;SP;SP
+21;04/08/2004;20h30;Quarta-feira;Paraná;Criciúma;CRICIÚMA;Pinheirão;0;3;PR;SC;SC
+21;04/08/2004;20h30;Quarta-feira;Palmeiras;Goiás;GOIÁS;Parque Antártica;0;3;SP;GO;GO
+21;05/08/2004;20h30;Quinta-feira;Botafogo-RJ;Juventude;JUVENTUDE;Caio Martins;0;1;RJ;RS;RS
+22;07/08/2004;16h00;Sábado;Goiás;Coritiba;CORITIBA;Serra Dourada;1;2;GO;PR;PR
+22;07/08/2004;16h00;Sábado;Santos;São Caetano;SÃO CAETANO;Vila Belmiro;0;1;SP;SP;SP
+22;08/08/2004;18h00;Domingo;Criciúma;Palmeiras;PALMEIRAS;Heriberto Hulse;1;2;SC;SP;SP
+22;08/08/2004;16h00;Domingo;Internacional;Ponte Preta;PONTE PRETA;Beira Rio;1;2;RS;SP;SP
+23;11/08/2004;21h45;Quarta-feira;Figueirense;Corinthians;CORINTHIANS;Orlando Scarpelli;0;1;SC;SP;SP
+23;11/08/2004;20h30;Quarta-feira;Paraná;Internacional;INTERNACIONAL;Pinheirão;1;2;PR;RS;RS
+23;11/08/2004;20h30;Quarta-feira;Paysandu;Juventude;JUVENTUDE;Mangueirão;0;1;PA;RS;RS
+23;11/08/2004;21h45;Quarta-feira;Vasco;Santos;SANTOS;São Januário;2;3;RJ;SP;SP
+24;15/08/2004;16h00;Domingo;Atletico-MG;Palmeiras;PALMEIRAS;Mineirão;1;2;MG;SP;SP
+24;15/08/2004;17h00;Domingo;Vitória;São Caetano;SÃO CAETANO;Barradão;1;2;ES;SP;SP
+25;18/08/2004;20h30;Quarta-feira;Cruzeiro;Goiás;GOIÁS;Mineirão;1;3;MG;GO;GO
+25;18/08/2004;20h30;Quarta-feira;Grêmio;Juventude;JUVENTUDE;Olímpico Monumental;2;4;RS;RS;RS
+26;22/08/2004;16h00;Domingo;Criciúma;Cruzeiro;CRUZEIRO;Heriberto Hulse;1;2;SC;MG;MG
+27;28/08/2004;16h00;Sábado;Paraná;Juventude;JUVENTUDE;Pinheirão;1;2;PR;RS;RS
+27;29/08/2004;16h00;Domingo;Coritiba;Athlético-PR;ATHLÉTICO-PR;Couto Pereira;1;2;PR;PR;PR
+27;29/08/2004;16h00;Domingo;Palmeiras;Corinthians;CORINTHIANS;Morumbi;0;1;SP;SP;SP
+27;29/08/2004;16h00;Domingo;São Caetano;Flamengo;FLAMENGO;Anacleto Campanella;0;1;SP;RJ;RJ
+28;01/09/2004;20h30;Quarta-feira;São Paulo;Coritiba;CORITIBA;Morumbi;2;3;SP;PR;PR
+28;01/09/2004;20h30;Quarta-feira;Cruzeiro;Paraná;PARANÁ;Mineirão;1;4;MG;PR;PR
+28;01/09/2004;21h50;Quarta-feira;Juventude;Santos;SANTOS;Alfredo Jaconi;1;2;RS;SP;SP
+28;01/09/2004;20h30;Quarta-feira;Criciúma;São Caetano;SÃO CAETANO;Heriberto Hulse;0;4;SC;SP;SP
+28;02/09/2004;20h30;Quinta-feira;Grêmio;Vasco;VASCO;Olímpico Monumental;1;2;RS;RJ;RJ
+29;07/09/2004;16h00;Terça-feira;Palmeiras;Cruzeiro;CRUZEIRO;Parque Antártica;1;3;SP;MG;MG
+29;07/09/2004;16h00;Terça-feira;Vasco;Paysandu;PAYSANDU;São Januário;0;1;RJ;PA;PA
+29;08/09/2004;21h50;Quarta-feira;Guarani;Corinthians;CORINTHIANS;Brinco de Ouro;0;1;SP;SP;SP
+29;08/09/2004;20h30;Quarta-feira;Paraná;São Paulo;SÃO PAULO;Pinheirão;0;2;PR;SP;SP
+29;09/09/2004;20h30;Quinta-feira;Vitória;Fluminense;FLUMINENSE;Barradão;2;3;ES;RJ;RJ
+30;11/09/2004;16h00;Sábado;Vasco;São Caetano;SÃO CAETANO;Maracanã;1;2;RJ;SP;SP
+30;12/09/2004;16h00;Domingo;Ponte Preta;Paraná;PARANÁ;Moisés Lucarelli;0;2;SP;PR;PR
+30;12/09/2004;16h00;Domingo;Palmeiras;Santos;SANTOS;Pacaembu;1;2;SP;SP;SP
+31;18/09/2004;18h00;Sábado;Criciúma;Fluminense;FLUMINENSE;Heriberto Hulse;0;2;SC;RJ;RJ
+31;19/09/2004;18h00;Domingo;Cruzeiro;Athlético-PR;ATHLÉTICO-PR;Mineirão;2;4;MG;PR;PR
+31;19/09/2004;16h00;Domingo;Juventude;Ponte Preta;PONTE PRETA;Alfredo Jaconi;1;2;RS;SP;SP
+32;24/09/2004;20h30;Sexta-feira;Figueirense;Ponte Preta;PONTE PRETA;Orlando Scarpelli;0;1;SC;SP;SP
+32;26/09/2004;16h00;Domingo;Vasco;Palmeiras;PALMEIRAS;São Januário;2;5;RJ;SP;SP
+33;29/09/2004;20h30;Quarta-feira;Vitória;Athlético-PR;ATHLÉTICO-PR;Barradão;2;3;ES;PR;PR
+33;29/09/2004;20h30;Quarta-feira;Goiás;Juventude;JUVENTUDE;Serra Dourada;1;2;GO;RS;RS
+34;02/10/2004;16h00;Sábado;Fluminense;Botafogo-RJ;BOTAFOGO-RJ;Maracanã;1;4;RJ;RJ;RJ
+34;02/10/2004;20h30;Sábado;Corinthians;Juventude;JUVENTUDE;Pacaembu;1;2;SP;RS;RS
+34;02/10/2004;18h00;Sábado;Guarani;Santos;SANTOS;Brinco de Ouro;0;1;SP;SP;SP
+35;06/10/2004;21h50;Quarta-feira;Grêmio;Fluminense;FLUMINENSE;Olímpico Monumental;2;3;RS;RJ;RJ
+35;06/10/2004;21h50;Quarta-feira;Ponte Preta;São Paulo;SÃO PAULO;Moisés Lucarelli;0;1;SP;SP;SP
+36;16/10/2004;18h00;Sábado;Fluminense;Goiás;GOIÁS;Maracanã;1;4;RJ;GO;GO
+36;17/10/2004;18h00;Domingo;Juventude;Palmeiras;PALMEIRAS;Alfredo Jaconi;0;2;RS;SP;SP
+36;17/10/2004;16h00;Domingo;Atletico-MG;São Paulo;SÃO PAULO;Independência;0;5;MG;SP;SP
+37;23/10/2004;16h00;Sábado;Cruzeiro;Atletico-MG;ATLETICO-MG;Mineirão;0;3;MG;MG;MG
+37;23/10/2004;16h00;Sábado;Grêmio;Internacional;INTERNACIONAL;Olímpico Monumental;1;3;RS;RS;RS
+37;23/10/2004;16h00;Sábado;Coritiba;Juventude;JUVENTUDE;Couto Pereira;2;3;PR;RS;RS
+37;24/10/2004;18h00;Domingo;Paraná;Corinthians;CORINTHIANS;Pinheirão;1;2;PR;SP;SP
+38;27/10/2004;20h30;Quarta-feira;Internacional;Guarani;GUARANI;Beira Rio;1;3;RS;SP;SP
+38;27/10/2004;21h50;Quarta-feira;Coritiba;Vasco;VASCO;Couto Pereira;0;1;PR;RJ;RJ
+39;30/10/2004;18h10;Sábado;Grêmio;Palmeiras;PALMEIRAS;Bento Freitas;2;3;RS;SP;SP
+40;07/11/2004;16h00;Domingo;Fluminense;Athlético-PR;ATHLÉTICO-PR;Maracanã;1;2;RJ;PR;PR
+40;07/11/2004;18h00;Domingo;Ponte Preta;São Caetano;SÃO CAETANO;Moisés Lucarelli;0;3;SP;SP;SP
+41;14/11/2004;18h00;Domingo;Juventude;Internacional;INTERNACIONAL;Colosso da Lagoa;2;3;RS;RS;RS
+41;14/11/2004;18h00;Domingo;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;0;1;SC;SP;SP
+42;20/11/2004;16h00;Sábado;Fluminense;Figueirense;FIGUEIRENSE;Raulino de Oliveira;0;2;RJ;SC;SC
+42;20/11/2004;18h10;Sábado;Palmeiras;Guarani;GUARANI;Parque Antártica;0;2;SP;SP;SP
+42;21/11/2004;16h00;Domingo;Ponte Preta;Athlético-PR;ATHLÉTICO-PR;Moisés Lucarelli;2;3;SP;PR;PR
+42;21/11/2004;16h00;Domingo;Cruzeiro;Corinthians;CORINTHIANS;Mineirão;0;1;MG;SP;SP
+42;21/11/2004;16h00;Domingo;Coritiba;Santos;SANTOS;Couto Pereira;0;1;PR;SP;SP
+43;27/11/2004;18h10;Sábado;Cruzeiro;Fluminense;FLUMINENSE;Mineirão;2;3;MG;RJ;RJ
+43;28/11/2004;16h00;Domingo;Palmeiras;Flamengo;FLAMENGO;Parque Antártica;1;2;SP;RJ;RJ
+44;04/12/2004;16h00;Sábado;Criciúma;Paraná;PARANÁ;Heriberto Hulse;1;2;SC;PR;PR
+44;05/12/2004;16h00;Domingo;Vitória;São Paulo;SÃO PAULO;Barradão;1;4;ES;SP;SP
+45;11/12/2004;16h00;Sábado;Grêmio;Atletico-MG;ATLETICO-MG;Colosso da Lagoa;0;1;RS;MG;MG
+45;11/12/2004;18h10;Sábado;Paraná;Fluminense;FLUMINENSE;Pinheirão;0;1;PR;RJ;RJ
+45;12/12/2004;16h00;Domingo;Botafogo-RJ;Corinthians;CORINTHIANS;Caio Martins;1;2;RJ;SP;SP
+45;12/12/2004;18h00;Domingo;Ponte Preta;Internacional;INTERNACIONAL;Moisés Lucarelli;1;2;SP;RS;RS
+45;12/12/2004;16h00;Domingo;São Caetano;Santos;SANTOS;Anacleto Campanella;0;3;SP;SP;SP
+46;19/12/2004;16h00;Domingo;Juventude;Paysandu;PAYSANDU;Alfredo Jaconi;1;2;RS;PA;PA
+46;19/12/2004;16h00;Domingo;Vitória;Ponte Preta;PONTE PRETA;Barradão;1;2;ES;SP;SP
+1;23/04/2005;16h00;Sábado;Paraná;Goiás;GOIÁS;Pinheirão;0;2;PR;GO;GO
+1;24/04/2005;16h00;Domingo;Internacional;Botafogo-RJ;BOTAFOGO-RJ;Beira Rio;0;2;RS;RJ;RJ
+1;24/04/2005;16h00;Domingo;Fortaleza;Coritiba;CORITIBA;Presidente Vargas;0;1;CE;PR;PR
+1;24/04/2005;18h10;Domingo;Athlético-PR;Ponte Preta;PONTE PRETA;Arena da Baixada;0;1;PR;SP;SP
+2;01/05/2005;16h00;Domingo;Figueirense;Flamengo;FLAMENGO;Orlando Scarpelli;0;1;SC;RJ;RJ
+2;01/05/2005;18h10;Domingo;Paysandu;Fluminense;FLUMINENSE;Mangueirão;1;2;PA;RJ;RJ
+2;01/05/2005;18h10;Domingo;Coritiba;Santos;SANTOS;Couto Pereira;2;3;PR;SP;SP
+3;08/05/2005;18h10;Domingo;Atletico-MG;Brasiliense;BRASILIENSE;Mineirão;0;1;MG;DF;DF
+3;08/05/2005;16h00;Domingo;Corinthians;São Paulo;SÃO PAULO;Pacaembu;1;5;SP;SP;SP
+4;14/05/2005;18h10;Sábado;Figueirense;Internacional;INTERNACIONAL;Orlando Scarpelli;1;2;SC;RS;RS
+4;15/05/2005;16h00;Domingo;Athlético-PR;Corinthians;CORINTHIANS;Arena da Baixada;1;2;PR;SP;SP
+4;15/05/2005;18h10;Domingo;Brasiliense;Fluminense;FLUMINENSE;Boca do Jacaré;0;3;DF;RJ;RJ
+4;15/05/2005;18h10;Domingo;Palmeiras;Paraná;PARANÁ;Parque Antártica;1;2;SP;PR;PR
+5;21/05/2005;18h10;Sábado;Fluminense;Coritiba;CORITIBA;Raulino de Oliveira;2;4;RJ;PR;PR
+5;22/05/2005;18h10;Domingo;Athlético-PR;Internacional;INTERNACIONAL;Arena da Baixada;1;3;PR;RS;RS
+6;29/05/2005;16h00;Domingo;Atletico-MG;Corinthians;CORINTHIANS;Mineirão;0;1;MG;SP;SP
+6;29/05/2005;18h10;Domingo;Coritiba;Juventude;JUVENTUDE;Couto Pereira;1;2;PR;RS;RS
+7;11/06/2005;16h00;Sábado;Cruzeiro;Ponte Preta;PONTE PRETA;Mineirão;1;2;MG;SP;SP
+8;18/06/2005;16h00;Sábado;Brasiliense;Corinthians;CORINTHIANS;Mané Garrincha;2;4;DF;SP;SP
+8;18/06/2005;18h10;Sábado;Atletico-MG;São Caetano;SÃO CAETANO;Mineirão;2;3;MG;SP;SP
+9;25/06/2005;18h10;Sábado;Flamengo;Brasiliense;BRASILIENSE;Giulite Coutinho;3;4;RJ;DF;DF
+9;25/06/2005;18h10;Sábado;São Paulo;Internacional;INTERNACIONAL;Morumbi;1;3;SP;RS;RS
+9;25/06/2005;16h00;Sábado;Juventude;Ponte Preta;PONTE PRETA;Alfredo Jaconi;1;3;RS;SP;SP
+9;26/06/2005;16h00;Domingo;Botafogo-RJ;Figueirense;FIGUEIRENSE;Luso Brasileiro;0;1;RJ;SC;SC
+9;26/06/2005;16h00;Domingo;Corinthians;Fluminense;FLUMINENSE;Wilson de Barros;0;1;SP;RJ;RJ
+9;26/06/2005;16h00;Domingo;São Caetano;Santos;SANTOS;Anacleto Campanella;1;3;SP;SP;SP
+10;02/07/2005;18h10;Sábado;Vasco;Goiás;GOIÁS;São Januário;1;2;RJ;GO;GO
+10;02/07/2005;16h00;Sábado;Fluminense;Paraná;PARANÁ;Raulino de Oliveira;0;1;RJ;PR;PR
+11;09/07/2005;16h00;Sábado;Paysandu;Fortaleza;FORTALEZA;Mangueirão;1;2;PA;CE;CE
+11;10/07/2005;16h00;Domingo;Botafogo-RJ;Fluminense;FLUMINENSE;Raulino de Oliveira;1;2;RJ;RJ;RJ
+11;10/07/2005;18h10;Domingo;Vasco;Internacional;INTERNACIONAL;São Januário;2;4;RJ;RS;RS
+11;10/07/2005;16h00;Domingo;Goiás;Santos;SANTOS;Serra Dourada;3;4;GO;SP;SP
+12;16/07/2005;16h00;Sábado;Goiás;Brasiliense;BRASILIENSE;Serra Dourada;1;3;GO;DF;DF
+12;16/07/2005;18h10;Sábado;Paraná;Corinthians;CORINTHIANS;Willie Davids;2;3;PR;SP;SP
+12;16/07/2005;18h10;Sábado;Fluminense;São Caetano;SÃO CAETANO;Raulino de Oliveira;0;1;RJ;SP;SP
+12;17/07/2005;16h00;Domingo;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Mineirão;2;3;MG;PR;PR
+12;17/07/2005;16h00;Domingo;Coritiba;Botafogo-RJ;BOTAFOGO-RJ;Couto Pereira;0;3;PR;RJ;RJ
+12;17/07/2005;18h10;Domingo;Palmeiras;Fortaleza;FORTALEZA;Parque Antártica;1;2;SP;CE;CE
+13;20/07/2005;20h30;Quarta-feira;Fortaleza;Atletico-MG;ATLETICO-MG;Castelão;1;4;CE;MG;MG
+13;20/07/2005;20h30;Quarta-feira;Internacional;Goiás;GOIÁS;Beira Rio;2;3;RS;GO;GO
+13;20/07/2005;21h45;Quarta-feira;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;1;4;SC;SP;SP
+13;20/07/2005;21h45;Quarta-feira;Santos;Vasco;VASCO;Vila Belmiro;2;3;SP;RJ;RJ
+13;21/07/2005;20h30;Quinta-feira;Flamengo;Juventude;JUVENTUDE;Luso Brasileiro;3;4;RJ;RS;RS
+14;23/07/2005;18h10;Sábado;São Paulo;São Caetano;SÃO CAETANO;Morumbi;0;1;SP;SP;SP
+14;24/07/2005;16h00;Domingo;Vasco;Corinthians;CORINTHIANS;São Januário;2;3;RJ;SP;SP
+14;24/07/2005;18h10;Domingo;Paysandu;Internacional;INTERNACIONAL;Mangueirão;1;2;PA;RS;RS
+15;27/07/2005;20h30;Quarta-feira;São Caetano;Botafogo-RJ;BOTAFOGO-RJ;Anacleto Campanella;0;1;SP;RJ;RJ
+15;27/07/2005;21h45;Quarta-feira;Santos;Ponte Preta;PONTE PRETA;Vila Belmiro;0;1;SP;SP;SP
+15;28/07/2005;20h30;Quinta-feira;Internacional;Paraná;PARANÁ;Beira Rio;0;2;RS;PR;PR
+16;31/07/2005;16h00;Domingo;Botafogo-RJ;Flamengo;FLAMENGO;Luso Brasileiro;0;2;RJ;RJ;RJ
+16;31/07/2005;18h10;Domingo;Paysandu;Paraná;PARANÁ;Mangueirão;3;4;PA;PR;PR
+17;03/08/2005;19h30;Quarta-feira;Brasiliense;Cruzeiro;CRUZEIRO;Boca do Jacaré;1;2;DF;MG;MG
+17;03/08/2005;21h45;Quarta-feira;Internacional;Santos;SANTOS;Beira Rio;0;1;RS;SP;SP
+18;06/08/2005;16h00;Sábado;Corinthians;São Caetano;SÃO CAETANO;Pacaembu;0;2;SP;SP;SP
+18;07/08/2005;18h10;Domingo;Ponte Preta;Coritiba;CORITIBA;Moisés Lucarelli;0;3;SP;PR;PR
+18;07/08/2005;18h10;Domingo;Atletico-MG;Fluminense;FLUMINENSE;Mineirão;1;2;MG;RJ;RJ
+18;07/08/2005;18h10;Domingo;São Paulo;Goiás;GOIÁS;Morumbi;0;1;SP;GO;GO
+18;07/08/2005;16h00;Domingo;Juventude;Palmeiras;PALMEIRAS;Alfredo Jaconi;1;2;RS;SP;SP
+19;10/08/2005;20h30;Quarta-feira;Paysandu;Vasco;VASCO;Mangueirão;0;2;PA;RJ;RJ
+20;14/08/2005;16h00;Domingo;Ponte Preta;Corinthians;CORINTHIANS;Moisés Lucarelli;3;5;SP;SP;SP
+20;14/08/2005;16h00;Domingo;Cruzeiro;Paraná;PARANÁ;Mineirão;0;1;MG;PR;PR
+21;20/08/2005;18h10;Sábado;São Caetano;Cruzeiro;CRUZEIRO;Anacleto Campanella;0;1;SP;MG;MG
+22;24/08/2005;19h30;Quarta-feira;Ponte Preta;Athlético-PR;ATHLÉTICO-PR;Moisés Lucarelli;0;2;SP;PR;PR
+22;24/08/2005;21h45;Quarta-feira;Paysandu;Santos;SANTOS;Mangueirão;2;3;PA;SP;SP
+22;25/08/2005;20h30;Quinta-feira;Figueirense;Atletico-MG;ATLETICO-MG;Orlando Scarpelli;0;1;SC;MG;MG
+22;25/08/2005;20h30;Quinta-feira;Botafogo-RJ;Internacional;INTERNACIONAL;Luso Brasileiro;0;1;RJ;RS;RS
+23;27/08/2005;16h00;Sábado;São Caetano;Goiás;GOIÁS;Anacleto Campanella;0;1;SP;GO;GO
+23;28/08/2005;16h00;Domingo;Paraná;São Paulo;SÃO PAULO;Willie Davids;0;4;PR;SP;SP
+24;07/09/2005;16h00;Quarta-feira;Brasiliense;Atletico-MG;ATLETICO-MG;Boca do Jacaré;1;2;DF;MG;MG
+24;07/09/2005;21h45;Quarta-feira;Cruzeiro;Fluminense;FLUMINENSE;Mineirão;2;6;MG;RJ;RJ
+25;10/09/2005;16h00;Sábado;São Caetano;Paysandu;PAYSANDU;Anacleto Campanella;1;2;SP;PA;PA
+25;11/09/2005;18h10;Domingo;Atletico-MG;Botafogo-RJ;BOTAFOGO-RJ;Independência;0;2;MG;RJ;RJ
+25;11/09/2005;16h00;Domingo;Paraná;Palmeiras;PALMEIRAS;Willie Davids;1;3;PR;SP;SP
+25;11/09/2005;18h10;Domingo;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;1;4;PR;SP;SP
+26;18/09/2005;16h00;Domingo;Figueirense;Corinthians;CORINTHIANS;Orlando Scarpelli;2;3;SC;SP;SP
+26;18/09/2005;16h00;Domingo;Brasiliense;Fortaleza;FORTALEZA;Boca do Jacaré;0;2;DF;CE;CE
+27;21/09/2005;19h30;Quarta-feira;São Caetano;Figueirense;FIGUEIRENSE;Anacleto Campanella;0;1;SP;SC;SC
+27;21/09/2005;19h30;Quarta-feira;Fortaleza;Internacional;INTERNACIONAL;Castelão;1;2;CE;RS;RS
+27;21/09/2005;21h45;Quarta-feira;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;2;3;MG;SP;SP
+28;25/09/2005;16h00;Domingo;Flamengo;Corinthians;CORINTHIANS;Luso Brasileiro;1;3;RJ;SP;SP
+28;25/09/2005;16h00;Domingo;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;2;3;SP;MG;MG
+30;04/10/2005;20h30;Terça-feira;Coritiba;Goiás;GOIÁS;Couto Pereira;0;2;PR;GO;GO
+30;04/10/2005;20h30;Terça-feira;Atletico-MG;Paraná;PARANÁ;Mineirão;0;1;MG;PR;PR
+30;05/10/2005;20h30;Quarta-feira;Fortaleza;Athlético-PR;ATHLÉTICO-PR;Castelão;1;4;CE;PR;PR
+30;05/10/2005;21h50;Quarta-feira;Fluminense;Corinthians;CORINTHIANS;Raulino de Oliveira;0;2;RJ;SP;SP
+30;05/10/2005;21h50;Quarta-feira;Brasiliense;Flamengo;FLAMENGO;Boca do Jacaré;2;3;DF;RJ;RJ
+31;08/10/2005;16h00;Sábado;Botafogo-RJ;Palmeiras;PALMEIRAS;Luso Brasileiro;1;2;RJ;SP;SP
+31;11/10/2005;20h30;Terça-feira;Flamengo;Atletico-MG;ATLETICO-MG;Luso Brasileiro;1;2;RJ;MG;MG
+20;12/10/2005;16h00;Quarta-feira;Juventude;Fluminense;FLUMINENSE;Alfredo Jaconi;3;4;RS;RJ;RJ
+16;13/10/2005;20h30;Quinta-feira;Santos;Corinthians;CORINTHIANS;Vila Belmiro;2;3;SP;SP;SP
+32;15/10/2005;18h10;Sábado;Coritiba;Athlético-PR;ATHLÉTICO-PR;Couto Pereira;1;2;PR;PR;PR
+32;15/10/2005;16h00;Sábado;Fortaleza;Paysandu;PAYSANDU;Castelão;1;2;CE;PA;PA
+32;16/10/2005;16h00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Mineirão;0;1;MG;MG;MG
+32;16/10/2005;18h10;Domingo;Ponte Preta;São Caetano;SÃO CAETANO;Moisés Lucarelli;1;2;SP;SP;SP
+32;16/10/2005;16h00;Domingo;Flamengo;São Paulo;SÃO PAULO;Luso Brasileiro;1;6;RJ;SP;SP
+33;21/10/2005;20h30;Sexta-feira;Brasiliense;Goiás;GOIÁS;Boca do Jacaré;1;2;DF;GO;GO
+33;22/10/2005;20h30;Sábado;São Paulo;Santos;SANTOS;Morumbi;1;2;SP;SP;SP
+34;25/10/2005;20h30;Terça-feira;Coritiba;Cruzeiro;CRUZEIRO;Couto Pereira;0;3;PR;MG;MG
+34;25/10/2005;20h30;Terça-feira;Goiás;Internacional;INTERNACIONAL;Serra Dourada;0;1;GO;RS;RS
+34;26/10/2005;20h30;Quarta-feira;Atletico-MG;Fortaleza;FORTALEZA;Mineirão;2;3;MG;CE;CE
+34;26/10/2005;21h45;Quarta-feira;Vasco;Santos;SANTOS;São Januário;1;3;RJ;SP;SP
+34;27/10/2005;20h30;Quinta-feira;Ponte Preta;Botafogo-RJ;BOTAFOGO-RJ;Moisés Lucarelli;0;1;SP;RJ;RJ
+34;27/10/2005;20h30;Quinta-feira;São Paulo;Brasiliense;BRASILIENSE;Morumbi;1;2;SP;DF;DF
+34;27/10/2005;20h30;Quinta-feira;Paysandu;Corinthians;CORINTHIANS;Mangueirão;0;2;PA;SP;SP
+34;28/10/2005;16h00;Sexta-feira;Paraná;São Caetano;SÃO CAETANO;Pinheirão;1;3;PR;SP;SP
+35;30/10/2005;16h00;Domingo;Santos;Cruzeiro;CRUZEIRO;Parque Antártica;1;2;SP;MG;MG
+35;30/10/2005;16h00;Domingo;Atletico-MG;Palmeiras;PALMEIRAS;Mineirão;1;3;MG;SP;SP
+35;30/10/2005;18h10;Domingo;São Caetano;São Paulo;SÃO PAULO;Anacleto Campanella;0;1;SP;SP;SP
+36;02/11/2005;21h45;Quarta-feira;Goiás;Fluminense;FLUMINENSE;Serra Dourada;1;2;GO;RJ;RJ
+36;03/11/2005;20h30;Quinta-feira;Palmeiras;Flamengo;FLAMENGO;Parque Antártica;0;1;SP;RJ;RJ
+37;06/11/2005;18h10;Domingo;Atletico-MG;Goiás;GOIÁS;Mineirão;1;2;MG;GO;GO
+37;06/11/2005;16h00;Domingo;São Caetano;Vasco;VASCO;Anacleto Campanella;1;2;SP;RJ;RJ
+38;12/11/2005;18h10;Sábado;Paysandu;Atletico-MG;ATLETICO-MG;Mangueirão;0;2;PA;MG;MG
+38;13/11/2005;16h00;Domingo;Coritiba;Corinthians;CORINTHIANS;Couto Pereira;0;1;PR;SP;SP
+38;13/11/2005;18h10;Domingo;Santos;Internacional;INTERNACIONAL;A Campanella;0;4;SP;RS;RS
+39;17/11/2005;20h30;Quinta-feira;Fluminense;Atletico-MG;ATLETICO-MG;Raulino de Oliveira;0;2;RJ;MG;MG
+39;17/11/2005;20h30;Quinta-feira;Cruzeiro;Athlético-PR;ATHLÉTICO-PR;Mineirão;1;2;MG;PR;PR
+40;20/11/2005;16h00;Domingo;Paraná;Flamengo;FLAMENGO;Pinheirão;0;1;PR;RJ;RJ
+40;20/11/2005;18h10;Domingo;Ponte Preta;Palmeiras;PALMEIRAS;Moisés Lucarelli;2;6;SP;SP;SP
+41;27/11/2005;16h00;Domingo;Brasiliense;Figueirense;FIGUEIRENSE;Boca do Jacaré;0;2;DF;SC;SC
+41;27/11/2005;16h00;Domingo;Fluminense;Juventude;JUVENTUDE;Raulino de Oliveira;1;2;RJ;RS;RS
+42;04/12/2005;16h00;Domingo;Juventude;Atletico-MG;ATLETICO-MG;Alfredo Jaconi;1;3;RS;MG;MG
+42;04/12/2005;16h00;Domingo;Paysandu;Flamengo;FLAMENGO;Mangueirão;1;4;PA;RJ;RJ
+42;04/12/2005;16h00;Domingo;Cruzeiro;São Caetano;SÃO CAETANO;Mineirão;1;3;MG;SP;SP
+1;16/04/2006;18h10;Domingo;Athlético-PR;Fluminense;FLUMINENSE;Kyocera Arena;1;2;PR;RJ;RJ
+1;16/04/2006;18h10;Domingo;Palmeiras;Ponte Preta;PONTE PRETA;Parque Antártica;2;3;SP;SP;SP
+2;23/04/2006;16h00;Domingo;Ponte Preta;Vasco;VASCO;Moisés Lucarelli;1;2;SP;RJ;RJ
+3;29/04/2006;18h10;Sábado;Botafogo-RJ;Athlético-PR;ATHLÉTICO-PR;Maracanã;0;4;RJ;PR;PR
+3;30/04/2006;18h10;Domingo;Figueirense;Cruzeiro;CRUZEIRO;Orlando Scarpelli;0;2;SC;MG;MG
+3;30/04/2006;16h00;Domingo;Palmeiras;Santos;SANTOS;Parque Antártica;1;2;SP;SP;SP
+4;07/05/2006;16h00;Domingo;Athlético-PR;Internacional;INTERNACIONAL;Kyocera Arena;1;2;PR;RS;RS
+4;07/05/2006;16h00;Domingo;Corinthians;São Paulo;SÃO PAULO;Teixeirão;1;3;SP;SP;SP
+4;07/05/2006;16h00;Domingo;Grêmio;Vasco;VASCO;Olímpico Monumental;1;2;RS;RJ;RJ
+5;13/05/2006;18h10;Sábado;São Caetano;Juventude;JUVENTUDE;Anacleto Campanella;0;2;SP;RS;RS
+5;14/05/2006;16h00;Domingo;Santa Cruz;Athlético-PR;ATHLÉTICO-PR;Arruda;1;2;PE;PR;PR
+5;14/05/2006;18h10;Domingo;Paraná;Corinthians;CORINTHIANS;Willie Davids;1;2;PR;SP;SP
+6;20/05/2006;18h10;Sábado;Internacional;Figueirense;FIGUEIRENSE;Beira Rio;2;4;RS;SC;SC
+6;20/05/2006;16h00;Sábado;Athlético-PR;Goiás;GOIÁS;Kyocera Arena;2;3;PR;GO;GO
+6;21/05/2006;16h00;Domingo;Vasco;Corinthians;CORINTHIANS;São Januário;2;4;RJ;SP;SP
+7;24/05/2006;21h45;Quarta-feira;Fortaleza;Fluminense;FLUMINENSE;Castelão;2;5;CE;RJ;RJ
+7;25/05/2006;20h30;Quinta-feira;Corinthians;Internacional;INTERNACIONAL;Morumbi;0;1;SP;RS;RS
+8;27/05/2006;18h10;Sábado;Ponte Preta;Paraná;PARANÁ;Moisés Lucarelli;2;5;SP;PR;PR
+8;28/05/2006;18h10;Domingo;Palmeiras;Grêmio;GRÊMIO;Parque Antártica;0;1;SP;RS;RS
+9;31/05/2006;19h30;Quarta-feira;Juventude;Ponte Preta;PONTE PRETA;Alfredo Jaconi;0;1;RS;SP;SP
+9;01/06/2006;20h30;Quinta-feira;Botafogo-RJ;Figueirense;FIGUEIRENSE;Maracanã;2;3;RJ;SC;SC
+9;01/06/2006;20h30;Quinta-feira;Corinthians;Goiás;GOIÁS;Morumbi;0;1;SP;GO;GO
+10;03/06/2006;16h00;Sábado;Fortaleza;Cruzeiro;CRUZEIRO;Castelão;0;2;CE;MG;MG
+10;03/06/2006;16h00;Sábado;Fluminense;Internacional;INTERNACIONAL;Maracanã;2;3;RJ;RS;RS
+10;04/06/2006;16h00;Domingo;Corinthians;Flamengo;FLAMENGO;Morumbi;0;2;SP;RJ;RJ
+10;04/06/2006;18h10;Domingo;Goiás;Paraná;PARANÁ;Serra Dourada;1;2;GO;PR;PR
+11;13/07/2006;20h30;Quinta-feira;Flamengo;Paraná;PARANÁ;Raulino de Oliveira;1;4;RJ;PR;PR
+12;16/07/2006;18h10;Domingo;Fortaleza;Santa Cruz;SANTA CRUZ;Castelão;1;4;CE;PE;PE
+12;16/07/2006;18h10;Domingo;Flamengo;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+13;23/07/2006;18h10;Domingo;Goiás;Palmeiras;PALMEIRAS;Serra Dourada;1;3;GO;SP;SP
+13;23/07/2006;16h00;Domingo;Ponte Preta;São Paulo;SÃO PAULO;Moisés Lucarelli;1;3;SP;SP;SP
+14;30/07/2006;16h00;Domingo;São Paulo;Santos;SANTOS;Morumbi;0;4;SP;SP;SP
+16;12/08/2006;18h10;Sábado;Corinthians;Figueirense;FIGUEIRENSE;Pacaembu;1;3;SP;SC;SC
+16;13/08/2006;16h00;Domingo;Cruzeiro;Fluminense;FLUMINENSE;Mineirão;2;3;MG;RJ;RJ
+16;13/08/2006;18h10;Domingo;Fortaleza;Internacional;INTERNACIONAL;Presidente Vargas;1;2;CE;RS;RS
+16;13/08/2006;16h00;Domingo;Botafogo-RJ;Palmeiras;PALMEIRAS;Maracanã;1;3;RJ;SP;SP
+17;16/08/2006;22h00;Quarta-feira;Fluminense;Corinthians;CORINTHIANS;Maracanã;1;2;RJ;SP;SP
+17;16/08/2006;19h30;Quarta-feira;Ponte Preta;Fortaleza;FORTALEZA;Moisés Lucarelli;1;3;SP;CE;CE
+17;16/08/2006;19h30;Quarta-feira;Santa Cruz;Grêmio;GRÊMIO;Arruda;2;4;PE;RS;RS
+17;16/08/2006;19h30;Quarta-feira;Vasco;São Caetano;SÃO CAETANO;São Januário;1;2;RJ;SP;SP
+18;20/08/2006;16h00;Domingo;Santos;Vasco;VASCO;Vila Belmiro;0;2;SP;RJ;RJ
+20;26/08/2006;16h00;Sábado;Fluminense;Athlético-PR;ATHLÉTICO-PR;Maracanã;1;2;RJ;PR;PR
+20;27/08/2006;18h10;Domingo;Fortaleza;Botafogo-RJ;BOTAFOGO-RJ;Castelão;2;3;CE;RJ;RJ
+20;27/08/2006;16h00;Domingo;Corinthians;Grêmio;GRÊMIO;Pacaembu;0;2;SP;RS;RS
+20;27/08/2006;16h00;Domingo;Paraná;Juventude;JUVENTUDE;Pinheirão;0;1;PR;RS;RS
+20;27/08/2006;16h00;Domingo;Internacional;Vasco;VASCO;Beira Rio;1;2;RS;RJ;RJ
+21;30/08/2006;22h00;Quarta-feira;São Caetano;Corinthians;CORINTHIANS;Anacleto Campanella;0;1;SP;SP;SP
+21;30/08/2006;19h30;Quarta-feira;Santa Cruz;Internacional;INTERNACIONAL;Arruda;0;2;PE;RS;RS
+22;02/09/2006;18h10;Sábado;Flamengo;Internacional;INTERNACIONAL;Maracanã;1;2;RJ;RS;RS
+22;03/09/2006;16h00;Domingo;Athlético-PR;Botafogo-RJ;BOTAFOGO-RJ;Kyocera Arena;0;5;PR;RJ;RJ
+22;03/09/2006;18h10;Domingo;Santa Cruz;São Paulo;SÃO PAULO;Arruda;1;3;PE;SP;SP
+23;10/09/2006;18h10;Domingo;Botafogo-RJ;Flamengo;FLAMENGO;Maracanã;0;2;RJ;RJ;RJ
+24;17/09/2006;18h10;Domingo;Fortaleza;Flamengo;FLAMENGO;Castelão;3;4;CE;RJ;RJ
+25;20/09/2006;22h00;Quarta-feira;São Caetano;São Paulo;SÃO PAULO;Anacleto Campanella;0;1;SP;SP;SP
+26;23/09/2006;16h00;Sábado;Fluminense;Fortaleza;FORTALEZA;Maracanã;1;3;RJ;CE;CE
+26;24/09/2006;18h10;Domingo;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;0;1;SP;MG;MG
+26;24/09/2006;16h00;Domingo;Figueirense;Paraná;PARANÁ;Orlando Scarpelli;0;1;SC;PR;PR
+27;04/10/2006;22h00;Quarta-feira;São Caetano;Goiás;GOIÁS;Anacleto Campanella;1;2;SP;GO;GO
+27;05/10/2006;20h30;Quinta-feira;Corinthians;Santos;SANTOS;Pacaembu;0;3;SP;SP;SP
+28;07/10/2006;18h10;Sábado;Fluminense;São Paulo;SÃO PAULO;Maracanã;1;2;RJ;SP;SP
+28;08/10/2006;16h00;Domingo;Santa Cruz;Paraná;PARANÁ;Arruda;1;3;PE;PR;PR
+29;14/10/2006;18h10;Sábado;São Caetano;Grêmio;GRÊMIO;Anacleto Campanella;0;2;SP;RS;RS
+29;15/10/2006;18h10;Domingo;Santa Cruz;Vasco;VASCO;Arruda;0;4;PE;RJ;RJ
+30;21/10/2006;18h10;Sábado;Ponte Preta;Internacional;INTERNACIONAL;Moisés Lucarelli;0;2;SP;RS;RS
+30;22/10/2006;16h00;Domingo;Fortaleza;Athlético-PR;ATHLÉTICO-PR;Presidente Vargas;3;4;CE;PR;PR
+30;22/10/2006;16h00;Domingo;Paraná;Flamengo;FLAMENGO;Durival de Brito;0;2;PR;RJ;RJ
+31;26/10/2006;20h30;Quinta-feira;Santa Cruz;Fortaleza;FORTALEZA;Arruda;0;1;PE;CE;CE
+31;26/10/2006;20h30;Quinta-feira;Fluminense;Grêmio;GRÊMIO;Raulino de Oliveira;1;2;RJ;RS;RS
+31;28/10/2006;16h00;Sábado;Ponte Preta;Botafogo-RJ;BOTAFOGO-RJ;Moisés Lucarelli;1;2;SP;RJ;RJ
+31;28/10/2006;18h10;Sábado;Goiás;Cruzeiro;CRUZEIRO;Serra Dourada;2;3;GO;MG;MG
+31;28/10/2006;16h00;Sábado;Figueirense;São Paulo;SÃO PAULO;Orlando Scarpelli;0;2;SC;SP;SP
+32;01/11/2006;21h45;Quarta-feira;Fortaleza;Corinthians;CORINTHIANS;Castelão;0;4;CE;SP;SP
+32;01/11/2006;20h30;Quarta-feira;Grêmio;Figueirense;FIGUEIRENSE;Olímpico Monumental;1;2;RS;SC;SC
+32;01/11/2006;19h30;Quarta-feira;Palmeiras;Goiás;GOIÁS;Parque Antártica;1;3;SP;GO;GO
+32;02/11/2006;20h30;Quinta-feira;Botafogo-RJ;Internacional;INTERNACIONAL;Maracanã;0;1;RJ;RS;RS
+33;05/11/2006;16h00;Domingo;Fortaleza;Goiás;GOIÁS;Castelão;0;3;CE;GO;GO
+33;05/11/2006;16h00;Domingo;Grêmio;Internacional;INTERNACIONAL;Olímpico Monumental;0;1;RS;RS;RS
+33;05/11/2006;16h00;Domingo;Ponte Preta;São Caetano;SÃO CAETANO;Moisés Lucarelli;1;2;SP;SP;SP
+33;05/11/2006;16h00;Domingo;Santos;São Paulo;SÃO PAULO;Vila Belmiro;0;1;SP;SP;SP
+34;08/11/2006;21h45;Quarta-feira;Athlético-PR;Corinthians;CORINTHIANS;Kyocera Arena;1;2;PR;SP;SP
+34;08/11/2006;21h45;Quarta-feira;Goiás;Flamengo;FLAMENGO;Serra Dourada;0;1;GO;RJ;RJ
+34;08/11/2006;19h30;Quarta-feira;Juventude;Grêmio;GRÊMIO;Alfredo Jaconi;1;2;RS;RS;RS
+35;12/11/2006;18h10;Domingo;Athlético-PR;Grêmio;GRÊMIO;Kyocera Arena;2;3;PR;RS;RS
+35;12/11/2006;18h10;Domingo;Santa Cruz;São Caetano;SÃO CAETANO;Arruda;0;3;PE;SP;SP
+35;12/11/2006;16h00;Domingo;Goiás;São Paulo;SÃO PAULO;Serra Dourada;0;2;GO;SP;SP
+36;18/11/2006;18h10;Sábado;Flamengo;Figueirense;FIGUEIRENSE;Maracanã;0;2;RJ;SC;SC
+36;19/11/2006;16h00;Domingo;São Caetano;Vasco;VASCO;Anacleto Campanella;0;1;SP;RJ;RJ
+37;26/11/2006;16h00;Domingo;Athlético-PR;Figueirense;FIGUEIRENSE;Durival de Brito;1;4;PR;SC;SC
+37;26/11/2006;16h00;Domingo;Santa Cruz;Fluminense;FLUMINENSE;Arruda;1;2;PE;RJ;RJ
+37;26/11/2006;16h00;Domingo;Palmeiras;Internacional;INTERNACIONAL;Parque Antártica;1;4;SP;RS;RS
+37;26/11/2006;16h00;Domingo;São Caetano;Paraná;PARANÁ;Anacleto Campanella;0;2;SP;PR;PR
+38;02/12/2006;18h10;Sábado;Internacional;Goiás;GOIÁS;Beira Rio;1;4;RS;GO;GO
+1;12/05/2007;18h10;Sábado;Figueirense;Athlético-PR;ATHLÉTICO-PR;Orlando Scarpelli;3;6;SC;PR;PR
+1;13/05/2007;16h00;Domingo;Internacional;Botafogo-RJ;BOTAFOGO-RJ;Beira Rio;2;3;RS;RJ;RJ
+1;13/05/2007;16h00;Domingo;Flamengo;Palmeiras;PALMEIRAS;Maracanã;2;4;RJ;SP;SP
+1;13/05/2007;18h10;Domingo;América-RN;Vasco;VASCO;Machadão;0;1;RN;RJ;RJ
+2;19/05/2007;18h10;Sábado;Santos;América-RN;AMÉRICA-RN;Vila Belmiro;2;3;SP;RN;RN
+2;19/05/2007;18h10;Sábado;Juventude;Paraná;PARANÁ;Alfredo Jaconi;1;2;RS;PR;PR
+2;20/05/2007;16h00;Domingo;Cruzeiro;Corinthians;CORINTHIANS;Mineirão;0;3;MG;SP;SP
+2;20/05/2007;16h00;Domingo;Goiás;Flamengo;FLAMENGO;Serra Dourada;1;3;GO;RJ;RJ
+3;26/05/2007;18h10;Sábado;América-RN;Figueirense;FIGUEIRENSE;Machadão;0;1;RN;SC;SC
+3;27/05/2007;18h10;Domingo;Cruzeiro;Paraná;PARANÁ;Mineirão;3;4;MG;PR;PR
+3;27/05/2007;16h00;Domingo;Athlético-PR;Santos;SANTOS;Kyocera Arena;0;1;PR;SP;SP
+4;03/06/2007;16h00;Domingo;Palmeiras;Cruzeiro;CRUZEIRO;Parque Antártica;1;3;SP;MG;MG
+4;03/06/2007;18h10;Domingo;Paraná;São Paulo;SÃO PAULO;Durival de Brito;0;1;PR;SP;SP
+5;10/06/2007;18h10;Domingo;São Paulo;Atletico-MG;ATLETICO-MG;Morumbi;0;1;SP;MG;MG
+5;10/06/2007;16h00;Domingo;América-RN;Corinthians;CORINTHIANS;Machadão;1;2;RN;SP;SP
+5;10/06/2007;16h00;Domingo;Athlético-PR;Goiás;GOIÁS;Kyocera Arena;0;3;PR;GO;GO
+5;10/06/2007;18h10;Domingo;Cruzeiro;Juventude;JUVENTUDE;Mineirão;2;3;MG;RS;RS
+6;16/06/2007;18h10;Sábado;Grêmio;Cruzeiro;CRUZEIRO;Olímpico Monumental;0;2;RS;MG;MG
+6;17/06/2007;18h10;Domingo;Juventude;Santos;SANTOS;Alfredo Jaconi;0;2;RS;SP;SP
+7;24/06/2007;16h00;Domingo;Palmeiras;Athlético-PR;ATHLÉTICO-PR;Parque Antártica;0;2;SP;PR;PR
+7;24/06/2007;16h00;Domingo;América-RN;Fluminense;FLUMINENSE;Machadão;0;1;RN;RJ;RJ
+7;24/06/2007;18h10;Domingo;Náutico;Goiás;GOIÁS;Aflitos;0;2;PE;GO;GO
+7;24/06/2007;18h10;Domingo;Internacional;Grêmio;GRÊMIO;Beira Rio;0;2;RS;RS;RS
+7;24/06/2007;16h00;Domingo;Santos;São Paulo;SÃO PAULO;Vila Belmiro;0;2;SP;SP;SP
+8;30/06/2007;18h10;Sábado;Fluminense;Botafogo-RJ;BOTAFOGO-RJ;Engenhão;1;2;RJ;RJ;RJ
+8;30/06/2007;16h00;Sábado;América-RN;Goiás;GOIÁS;Machadão;0;3;RN;GO;GO
+8;30/06/2007;18h10;Sábado;Corinthians;Palmeiras;PALMEIRAS;Morumbi;0;1;SP;SP;SP
+10;06/07/2007;20h30;Sexta-feira;Paraná;América-RN;AMÉRICA-RN;Durival de Brito;0;1;PR;RN;RN
+10;07/07/2007;16h00;Sábado;Atletico-MG;Grêmio;GRÊMIO;Mineirão;0;1;MG;RS;RS
+10;07/07/2007;18h10;Sábado;Náutico;Palmeiras;PALMEIRAS;Aflitos;0;1;PE;SP;SP
+11;12/07/2007;20h30;Quinta-feira;Paraná;Figueirense;FIGUEIRENSE;Durival de Brito;1;2;PR;SC;SC
+11;14/07/2007;20h00;Sábado;América-RN;Internacional;INTERNACIONAL;Machadão;1;2;RN;RS;RS
+12;18/07/2007;21h45;Quarta-feira;Náutico;Cruzeiro;CRUZEIRO;Aflitos;1;4;PE;MG;MG
+12;18/07/2007;21h45;Quarta-feira;São Paulo;Fluminense;FLUMINENSE;Morumbi;0;1;SP;RJ;RJ
+12;18/07/2007;19h30;Quarta-feira;Figueirense;Sport;SPORT;Orlando Scarpelli;0;1;SC;PE;PE
+12;19/07/2007;20h30;Quinta-feira;Flamengo;Paraná;PARANÁ;Parque do Sabiá;1;2;RJ;PR;PR
+13;22/07/2007;16h00;Domingo;Corinthians;Náutico;NÁUTICO;Morumbi;0;3;SP;PE;PE
+13;22/07/2007;16h00;Domingo;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;1;2;MG;SP;SP
+14;25/07/2007;20h30;Quarta-feira;Náutico;Grêmio;GRÊMIO;Aflitos;0;2;PE;RS;RS
+15;28/07/2007;18h10;Sábado;Santos;Náutico;NÁUTICO;Vila Belmiro;1;2;SP;PE;PE
+15;29/07/2007;16h00;Domingo;Paraná;Atletico-MG;ATLETICO-MG;Durival de Brito;1;3;PR;MG;MG
+15;29/07/2007;16h00;Domingo;Sport;Internacional;INTERNACIONAL;Ilha do Retiro;1;5;PE;RS;RS
+15;29/07/2007;18h10;Domingo;América-RN;São Paulo;SÃO PAULO;Machadão;0;1;RN;SP;SP
+16;01/08/2007;21h45;Quarta-feira;Atletico-MG;Santos;SANTOS;Mineirão;1;2;MG;SP;SP
+16;01/08/2007;20h30;Quarta-feira;Palmeiras;Sport;SPORT;Parque Antártica;1;2;SP;PE;PE
+16;01/08/2007;21h45;Quarta-feira;Internacional;Vasco;VASCO;Beira Rio;0;2;RS;RJ;RJ
+17;04/08/2007;18h10;Sábado;América-RN;Náutico;NÁUTICO;Machadão;1;5;RN;PE;PE
+17;05/08/2007;16h00;Domingo;Juventude;Atletico-MG;ATLETICO-MG;Alfredo Jaconi;1;2;RS;MG;MG
+17;05/08/2007;16h00;Domingo;Fluminense;Palmeiras;PALMEIRAS;Maracanã;0;1;RJ;SP;SP
+17;05/08/2007;18h10;Domingo;Grêmio;São Paulo;SÃO PAULO;Olímpico Monumental;0;2;RS;SP;SP
+18;08/08/2007;21h45;Quarta-feira;Botafogo-RJ;São Paulo;SÃO PAULO;Maracanã;0;2;RJ;SP;SP
+19;12/08/2007;18h10;Domingo;América-RN;Cruzeiro;CRUZEIRO;Machadão;1;2;RN;MG;MG
+19;12/08/2007;16h00;Domingo;Atletico-MG;Palmeiras;PALMEIRAS;Mineirão;1;2;MG;SP;SP
+7;15/08/2007;21h45;Quarta-feira;Botafogo-RJ;Corinthians;CORINTHIANS;Maracanã;2;3;RJ;SP;SP
+11;16/08/2007;20h30;Quinta-feira;Fluminense;Flamengo;FLAMENGO;Maracanã;0;1;RJ;RJ;RJ
+20;19/08/2007;16h00;Domingo;Náutico;Atletico-MG;ATLETICO-MG;Aflitos;0;1;PE;MG;MG
+21;25/08/2007;18h10;Sábado;Corinthians;Cruzeiro;CRUZEIRO;Pacaembu;0;3;SP;MG;MG
+21;26/08/2007;16h00;Domingo;Atletico-MG;Botafogo-RJ;BOTAFOGO-RJ;Mineirão;1;2;MG;RJ;RJ
+21;26/08/2007;16h00;Domingo;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;1;2;SC;SP;SP
+21;26/08/2007;18h10;Domingo;América-RN;Santos;SANTOS;Machadão;1;4;RN;SP;SP
+22;29/08/2007;21h45;Quarta-feira;Internacional;Fluminense;FLUMINENSE;Beira Rio;1;4;RS;RJ;RJ
+22;29/08/2007;21h30;Quarta-feira;Palmeiras;São Paulo;SÃO PAULO;Parque Antártica;0;1;SP;SP;SP
+23;01/09/2007;18h10;Sábado;América-RN;Juventude;JUVENTUDE;Machadão;0;3;RN;RS;RS
+24;05/09/2007;19h30;Quarta-feira;Goiás;Athlético-PR;ATHLÉTICO-PR;Serra Dourada;2;3;GO;PR;PR
+24;06/09/2007;20h30;Quinta-feira;Sport;Fluminense;FLUMINENSE;Ilha do Retiro;0;2;PE;RJ;RJ
+24;06/09/2007;20h30;Quinta-feira;Paraná;Náutico;NÁUTICO;Durival de Brito;2;4;PR;PE;PE
+25;08/09/2007;16h00;Sábado;Vasco;São Paulo;SÃO PAULO;São Januário;0;2;RJ;SP;SP
+26;15/09/2007;18h10;Sábado;Goiás;Náutico;NÁUTICO;Serra Dourada;0;3;GO;PE;PE
+26;16/09/2007;16h00;Domingo;Corinthians;Botafogo-RJ;BOTAFOGO-RJ;Pacaembu;0;1;SP;RJ;RJ
+26;16/09/2007;16h00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Mineirão;3;4;MG;MG;MG
+27;23/09/2007;18h10;Domingo;Vasco;Cruzeiro;CRUZEIRO;São Januário;0;2;RJ;MG;MG
+27;23/09/2007;18h10;Domingo;Botafogo-RJ;Fluminense;FLUMINENSE;Maracanã;0;2;RJ;RJ;RJ
+28;29/09/2007;18h10;Sábado;Corinthians;Sport;SPORT;Pacaembu;1;2;SP;PE;PE
+28;30/09/2007;18h10;Domingo;Cruzeiro;Figueirense;FIGUEIRENSE;Mineirão;1;2;MG;SC;SC
+28;30/09/2007;16h00;Domingo;Botafogo-RJ;Goiás;GOIÁS;Maracanã;0;3;RJ;GO;GO
+28;30/09/2007;16h00;Domingo;Juventude;Grêmio;GRÊMIO;Alfredo Jaconi;1;2;RS;RS;RS
+28;30/09/2007;16h00;Domingo;Internacional;São Paulo;SÃO PAULO;Beira Rio;1;2;RS;SP;SP
+29;03/10/2007;20h30;Quarta-feira;Vasco;Juventude;JUVENTUDE;São Januário;0;1;RJ;RS;RS
+29;03/10/2007;21h45;Quarta-feira;Cruzeiro;Santos;SANTOS;Mineirão;0;1;MG;SP;SP
+30;06/10/2007;18h10;Sábado;Botafogo-RJ;Santos;SANTOS;Engenhão;1;2;RJ;SP;SP
+30;07/10/2007;16h00;Domingo;São Paulo;Corinthians;CORINTHIANS;Morumbi;0;1;SP;SP;SP
+30;07/10/2007;18h10;Domingo;Flamengo;Fluminense;FLUMINENSE;Maracanã;0;2;RJ;RJ;RJ
+31;13/10/2007;18h10;Sábado;América-RN;Atletico-MG;ATLETICO-MG;Machadão;0;1;RN;MG;MG
+31;13/10/2007;16h00;Sábado;Paraná;Flamengo;FLAMENGO;Durival de Brito;0;1;PR;RJ;RJ
+7;18/10/2007;21h45;Quinta-feira;Vasco;Flamengo;FLAMENGO;Maracanã;1;2;RJ;RJ;RJ
+33;28/10/2007;16h00;Domingo;América-RN;Flamengo;FLAMENGO;Machadão;0;1;RN;RJ;RJ
+33;28/10/2007;16h00;Domingo;Sport;São Paulo;SÃO PAULO;Ilha do Retiro;1;2;PE;SP;SP
+34;31/10/2007;19h30;Quarta-feira;Figueirense;Fluminense;FLUMINENSE;Orlando Scarpelli;0;2;SC;RJ;RJ
+34;31/10/2007;21h45;Quarta-feira;Náutico;Santos;SANTOS;Aflitos;1;2;PE;SP;SP
+34;31/10/2007;21h45;Quarta-feira;Goiás;Vasco;VASCO;Serra Dourada;2;3;GO;RJ;RJ
+34;01/11/2007;20h30;Quinta-feira;Palmeiras;Juventude;JUVENTUDE;Parque Antártica;0;1;SP;RS;RS
+35;03/11/2007;18h10;Sábado;Grêmio;Figueirense;FIGUEIRENSE;Olímpico Monumental;1;2;RS;SC;SC
+35;04/11/2007;18h10;Domingo;Vasco;Internacional;INTERNACIONAL;São Januário;1;2;RJ;RS;RS
+37;24/11/2007;18h10;Sábado;América-RN;Grêmio;GRÊMIO;Machadão;0;3;RN;RS;RS
+37;25/11/2007;18h10;Domingo;Paraná;Santos;SANTOS;Durival de Brito;2;3;PR;SP;SP
+37;28/11/2007;21h45;Quarta-feira;Corinthians;Vasco;VASCO;Pacaembu;0;1;SP;RJ;RJ
+38;02/12/2007;16h00;Domingo;Palmeiras;Atletico-MG;ATLETICO-MG;Parque Antártica;1;3;SP;MG;MG
+38;02/12/2007;16h00;Domingo;Santos;Fluminense;FLUMINENSE;Vila Belmiro;2;4;SP;RJ;RJ
+1;10/05/2008;18h10;Sábado;Vitória;Cruzeiro;CRUZEIRO;Barradão;0;2;ES;MG;MG
+1;10/05/2008;18h10;Sábado;São Paulo;Grêmio;GRÊMIO;Morumbi;0;1;SP;RS;RS
+1;11/05/2008;16h00;Domingo;Ipatinga;Athlético-PR;ATHLÉTICO-PR;Ipatingão;0;1;MG;PR;PR
+2;18/05/2008;16h00;Domingo;Fluminense;Náutico;NÁUTICO;Maracanã;0;2;RJ;PE;PE
+4;01/06/2008;18h10;Domingo;Fluminense;Flamengo;FLAMENGO;Maracanã;0;1;RJ;RJ;RJ
+6;14/06/2008;18h20;Sábado;Goiás;Grêmio;GRÊMIO;Serra Dourada;0;3;GO;RS;RS
+6;14/06/2008;16h10;Sábado;Flamengo;São Paulo;SÃO PAULO;Maracanã;2;4;RJ;SP;SP
+7;21/06/2008;18h20;Sábado;Botafogo-RJ;Portuguesa;PORTUGUESA;Engenhão;0;1;RJ;SP;SP
+7;22/06/2008;16h00;Domingo;Ipatinga;Flamengo;FLAMENGO;Ipatingão;1;3;MG;RJ;RJ
+7;22/06/2008;18h10;Domingo;Santos;Goiás;GOIÁS;Vila Belmiro;0;4;SP;GO;GO
+7;22/06/2008;16h00;Domingo;Vasco;Palmeiras;PALMEIRAS;São Januário;0;2;RJ;SP;SP
+8;29/06/2008;16h00;Domingo;Sport;Flamengo;FLAMENGO;Ilha do Retiro;1;2;PE;RJ;RJ
+11;06/07/2008;16h00;Domingo;Ipatinga;Figueirense;FIGUEIRENSE;Ipatingão;0;1;MG;SC;SC
+11;06/07/2008;18h10;Domingo;Náutico;Sport;SPORT;Aflitos;0;2;PE;PE;PE
+9;06/07/2008;16h00;Domingo;Portuguesa;Vitória;VITÓRIA;Canindé;1;2;SP;ES;ES
+12;16/07/2008;21h45;Quarta-feira;Vitória;São Paulo;SÃO PAULO;Barradão;1;3;ES;SP;SP
+14;17/07/2008;20h30;Quinta-feira;Figueirense;Grêmio;GRÊMIO;Orlando Scarpelli;1;7;SC;RS;RS
+13;20/07/2008;18h10;Domingo;Flamengo;Vitória;VITÓRIA;Maracanã;0;1;RJ;ES;ES
+14;23/07/2008;19h30;Quarta-feira;Cruzeiro;Goiás;GOIÁS;Mineirão;0;1;MG;GO;GO
+15;26/07/2008;18h10;Sábado;Náutico;Coritiba;CORITIBA;Aflitos;1;2;PE;PR;PR
+15;26/07/2008;18h10;Sábado;Fluminense;Cruzeiro;CRUZEIRO;Maracanã;1;3;RJ;MG;MG
+15;27/07/2008;16h00;Domingo;Goiás;Sport;SPORT;Serra Dourada;1;2;GO;PE;PE
+16;30/07/2008;21h50;Quarta-feira;Internacional;Santos;SANTOS;Beira Rio;0;1;RS;SP;SP
+16;31/07/2008;20h30;Quinta-feira;Coritiba;Grêmio;GRÊMIO;Couto Pereira;0;1;PR;RS;RS
+17;02/08/2008;18h20;Sábado;Náutico;Figueirense;FIGUEIRENSE;Aflitos;1;2;PE;SC;SC
+17;02/08/2008;18h20;Sábado;Fluminense;Internacional;INTERNACIONAL;Maracanã;1;2;RJ;RS;RS
+17;03/08/2008;18h10;Domingo;Athlético-PR;Botafogo-RJ;BOTAFOGO-RJ;Kyocera Arena;0;3;PR;RJ;RJ
+17;03/08/2008;18h10;Domingo;Santos;Coritiba;CORITIBA;Vila Belmiro;1;3;SP;PR;PR
+17;03/08/2008;16h00;Domingo;Flamengo;Cruzeiro;CRUZEIRO;Maracanã;1;2;RJ;MG;MG
+17;03/08/2008;16h00;Domingo;Ipatinga;Palmeiras;PALMEIRAS;Ipatingão;1;2;MG;SP;SP
+18;06/08/2008;21h50;Quarta-feira;Santos;Atletico-MG;ATLETICO-MG;Vila Belmiro;2;3;SP;MG;MG
+18;06/08/2008;19h30;Quarta-feira;Vasco;Coritiba;CORITIBA;São Januário;0;2;RJ;PR;PR
+18;07/08/2008;20h30;Quinta-feira;Figueirense;Botafogo-RJ;BOTAFOGO-RJ;Orlando Scarpelli;1;2;SC;RJ;RJ
+19;09/08/2008;18h20;Sábado;Atletico-MG;Grêmio;GRÊMIO;Mineirão;0;4;MG;RS;RS
+20;17/08/2008;18h10;Domingo;Sport;Botafogo-RJ;BOTAFOGO-RJ;Ilha do Retiro;0;1;PE;RJ;RJ
+21;20/08/2008;22h00;Quarta-feira;Náutico;Fluminense;FLUMINENSE;Aflitos;1;3;PE;RJ;RJ
+21;21/08/2008;20h30;Quinta-feira;Portuguesa;Vasco;VASCO;Antônio Guimarães;0;1;SP;RJ;RJ
+22;23/08/2008;18h20;Sábado;Figueirense;Vitória;VITÓRIA;Orlando Scarpelli;1;2;SC;ES;ES
+23;31/08/2008;16h00;Domingo;Athlético-PR;Palmeiras;PALMEIRAS;Kyocera Arena;1;2;PR;SP;SP
+24;03/09/2008;22h00;Quarta-feira;Figueirense;Flamengo;FLAMENGO;Orlando Scarpelli;2;3;SC;RJ;RJ
+24;04/09/2008;20h30;Quinta-feira;Vasco;Cruzeiro;CRUZEIRO;São Januário;1;3;RJ;MG;MG
+24;04/09/2008;20h30;Quinta-feira;Palmeiras;Sport;SPORT;Palestra Itália;0;3;SP;PE;PE
+24;06/09/2008;18h20;Sábado;Coritiba;Botafogo-RJ;BOTAFOGO-RJ;Couto Pereira;0;1;PR;RJ;RJ
+25;13/09/2008;18h20;Sábado;Grêmio;Goiás;GOIÁS;Olímpico Monumental;1;2;RS;GO;GO
+25;14/09/2008;18h10;Domingo;Botafogo-RJ;Internacional;INTERNACIONAL;Engenhão;1;2;RJ;RS;RS
+25;14/09/2008;16h00;Domingo;Vasco;Náutico;NÁUTICO;São Januário;1;3;RJ;PE;PE
+25;14/09/2008;16h00;Domingo;Cruzeiro;Palmeiras;PALMEIRAS;Mineirão;0;1;MG;SP;SP
+26;20/09/2008;18h20;Sábado;Fluminense;Coritiba;CORITIBA;Maracanã;2;3;RJ;PR;PR
+26;21/09/2008;16h00;Domingo;Figueirense;Cruzeiro;CRUZEIRO;Orlando Scarpelli;3;4;SC;MG;MG
+28;04/10/2008;18h20;Sábado;Vasco;Figueirense;FIGUEIRENSE;São Januário;2;4;RJ;SC;SC
+28;04/10/2008;18h20;Sábado;Náutico;Flamengo;FLAMENGO;Aflitos;0;2;PE;RJ;RJ
+28;04/10/2008;16h00;Sábado;Ipatinga;São Paulo;SÃO PAULO;Ipatingão;1;3;MG;SP;SP
+29;11/10/2008;18h20;Sábado;Flamengo;Atletico-MG;ATLETICO-MG;Maracanã;0;3;RJ;MG;MG
+29;11/10/2008;18h20;Sábado;Athlético-PR;Fluminense;FLUMINENSE;Kyocera Arena;1;3;PR;RJ;RJ
+30;18/10/2008;18h20;Sábado;Botafogo-RJ;Santos;SANTOS;Engenhão;0;1;RJ;SP;SP
+30;19/10/2008;16h00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Mineirão;0;2;MG;MG;MG
+30;19/10/2008;18h10;Domingo;Vasco;Flamengo;FLAMENGO;São Januário;0;1;RJ;RJ;RJ
+31;22/10/2008;22h00;Quarta-feira;Goiás;Vasco;VASCO;Serra Dourada;2;4;GO;RJ;RJ
+31;25/10/2008;16h00;Sábado;Ipatinga;Botafogo-RJ;BOTAFOGO-RJ;Ipatingão;0;3;MG;RJ;RJ
+32;29/10/2008;21h50;Quarta-feira;Botafogo-RJ;São Paulo;SÃO PAULO;Engenhão;1;2;RJ;SP;SP
+33;02/11/2008;17h00;Domingo;Santos;Palmeiras;PALMEIRAS;Vila Belmiro;1;2;SP;SP;SP
+33;02/11/2008;19h10;Domingo;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+32;05/11/2008;20h30;Quarta-feira;Figueirense;Fluminense;FLUMINENSE;Orlando Scarpelli;0;1;SC;RJ;RJ
+34;08/11/2008;18h30;Sábado;Figueirense;Athlético-PR;ATHLÉTICO-PR;Orlando Scarpelli;0;2;SC;PR;PR
+34;08/11/2008;18h30;Sábado;Portuguesa;São Paulo;SÃO PAULO;Canindé;2;3;SP;SP;SP
+34;09/11/2008;19h10;Domingo;Vitória;Atletico-MG;ATLETICO-MG;Barradão;0;1;ES;MG;MG
+34;09/11/2008;19h10;Domingo;Botafogo-RJ;Flamengo;FLAMENGO;Maracanã;0;1;RJ;RJ;RJ
+34;09/11/2008;17h00;Domingo;Palmeiras;Grêmio;GRÊMIO;Palestra Itália;0;1;SP;RS;RS
+36;23/11/2008;19h10;Domingo;Internacional;Fluminense;FLUMINENSE;Beira Rio;0;2;RS;RJ;RJ
+36;23/11/2008;17h00;Domingo;Vasco;São Paulo;SÃO PAULO;São Januário;1;2;RJ;SP;SP
+37;30/11/2008;17h00;Domingo;Botafogo-RJ;Figueirense;FIGUEIRENSE;Engenhão;1;3;RJ;SC;SC
+37;30/11/2008;17h00;Domingo;Ipatinga;Grêmio;GRÊMIO;Ipatingão;1;4;MG;RS;RS
+37;30/11/2008;17h00;Domingo;Coritiba;Vasco;VASCO;Couto Pereira;0;2;PR;RJ;RJ
+38;07/12/2008;17h00;Domingo;Palmeiras;Botafogo-RJ;BOTAFOGO-RJ;Palestra Itália;0;1;SP;RJ;RJ
+38;07/12/2008;17h00;Domingo;Goiás;São Paulo;SÃO PAULO;Bezerrão;0;1;GO;SP;SP
+38;07/12/2008;17h00;Domingo;Vasco;Vitória;VITÓRIA;São Januário;0;2;RJ;ES;ES
+1;10/05/2009;16h00;Domingo;Corinthians;Internacional;INTERNACIONAL;Pacaembu;0;1;SP;RS;RS
+1;10/05/2009;16h00;Domingo;Athlético-PR;Vitória;VITÓRIA;Arena da Baixada;0;2;PR;ES;ES
+2;16/05/2009;18h30;Sábado;Coritiba;Santo André;SANTO ANDRÉ;Couto Pereira;2;4;PR;SP;SP
+3;23/05/2009;18h30;Sábado;Goiás;Internacional;INTERNACIONAL;Serra Dourada;0;1;GO;RS;RS
+3;24/05/2009;18h30;Domingo;Sport;Atletico-MG;ATLETICO-MG;Ilha do Retiro;2;3;PE;MG;MG
+3;24/05/2009;18h30;Domingo;Santo André;Flamengo;FLAMENGO;Bruno José Daniel;1;2;SP;RJ;RJ
+3;24/05/2009;16h00;Domingo;Athlético-PR;Náutico;NÁUTICO;Arena da Baixada;2;3;PR;PE;PE
+3;24/05/2009;16h00;Domingo;Fluminense;Santos;SANTOS;Maracanã;1;4;RJ;SP;SP
+4;30/05/2009;18h30;Sábado;Coritiba;Goiás;GOIÁS;Couto Pereira;1;3;PR;GO;GO
+5;07/06/2009;16h00;Domingo;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;0;4;PR;MG;MG
+6;13/06/2009;18h30;Sábado;Sport;Athlético-PR;ATHLÉTICO-PR;Ilha do Retiro;0;1;PE;PR;PR
+7;20/06/2009;18h30;Sábado;Náutico;Coritiba;CORITIBA;Aflitos;0;1;PE;PR;PR
+7;21/06/2009;18h30;Domingo;Santos;Atletico-MG;ATLETICO-MG;Vila Belmiro;2;3;SP;MG;MG
+7;21/06/2009;18h30;Domingo;Cruzeiro;Barueri;BARUERI;Mineirão;2;4;MG;SP;SP
+8;27/06/2009;18h30;Sábado;Botafogo-RJ;Goiás;GOIÁS;Engenhão;1;4;RJ;GO;GO
+9;05/07/2009;18h30;Domingo;Náutico;Internacional;INTERNACIONAL;Aflitos;0;2;PE;RS;RS
+9;05/07/2009;18h30;Domingo;Avaí;Palmeiras;PALMEIRAS;Ressacada;0;3;SC;SP;SP
+10;11/07/2009;18h30;Sábado;Avaí;Botafogo-RJ;BOTAFOGO-RJ;Ressacada;1;2;SC;RJ;RJ
+10;12/07/2009;16h00;Domingo;Cruzeiro;Atletico-MG;ATLETICO-MG;Mineirão;0;3;MG;MG;MG
+10;12/07/2009;18h30;Domingo;Fluminense;Santo André;SANTO ANDRÉ;Maracanã;0;1;RJ;SP;SP
+11;15/07/2009;19h30;Quarta-feira;Goiás;Avaí;AVAÍ;Serra Dourada;0;2;GO;SC;SC
+11;15/07/2009;21h50;Quarta-feira;Flamengo;Palmeiras;PALMEIRAS;Maracanã;1;2;RJ;SP;SP
+12;18/07/2009;18h30;Sábado;Fluminense;Goiás;GOIÁS;Maracanã;1;4;RJ;GO;GO
+12;19/07/2009;18h30;Domingo;Sport;Avaí;AVAÍ;Ilha do Retiro;1;3;PE;SC;SC
+12;19/07/2009;16h00;Domingo;Cruzeiro;Corinthians;CORINTHIANS;Mineirão;1;2;MG;SP;SP
+13;22/07/2009;19h30;Quarta-feira;Santo André;Cruzeiro;CRUZEIRO;Bruno José Daniel;0;2;SP;MG;MG
+14;25/07/2009;18h30;Sábado;Athlético-PR;Avaí;AVAÍ;Arena da Baixada;1;3;PR;SC;SC
+14;26/07/2009;16h00;Domingo;Santos;Flamengo;FLAMENGO;Vila Belmiro;1;2;SP;RJ;RJ
+14;26/07/2009;16h00;Domingo;Atletico-MG;Goiás;GOIÁS;Mineirão;0;1;MG;GO;GO
+14;26/07/2009;16h00;Domingo;Corinthians;Palmeiras;PALMEIRAS;Eduardo José Farah;0;3;SP;SP;SP
+14;26/07/2009;18h30;Domingo;Barueri;São Paulo;SÃO PAULO;Arena Barueri;1;2;SP;SP;SP
+15;29/07/2009;19h30;Quarta-feira;Náutico;Santos;SANTOS;Aflitos;1;2;PE;SP;SP
+16;01/08/2009;18h30;Sábado;Sport;Palmeiras;PALMEIRAS;Ilha do Retiro;0;1;PE;SP;SP
+16;02/08/2009;18h30;Domingo;Santo André;Goiás;GOIÁS;Anacleto Campanella;1;2;SP;GO;GO
+16;02/08/2009;16h00;Domingo;Vitória;São Paulo;SÃO PAULO;Barradão;0;1;ES;SP;SP
+17;05/08/2009;19h30;Quarta-feira;Cruzeiro;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;2;MG;PR;PR
+17;05/08/2009;21h50;Quarta-feira;Coritiba;Santos;SANTOS;Olímpico Regional;0;1;PR;SP;SP
+18;08/08/2009;18h30;Sábado;Botafogo-RJ;Athlético-PR;ATHLÉTICO-PR;Engenhão;0;1;RJ;PR;PR
+18;09/08/2009;18h30;Domingo;Coritiba;Cruzeiro;CRUZEIRO;Couto Pereira;1;3;PR;MG;MG
+19;15/08/2009;18h30;Sábado;Santo André;Internacional;INTERNACIONAL;Bruno José Daniel;0;2;SP;RS;RS
+19;16/08/2009;16h00;Domingo;Fluminense;Coritiba;CORITIBA;Maracanã;1;3;RJ;PR;PR
+19;16/08/2009;16h00;Domingo;Sport;São Paulo;SÃO PAULO;Ilha do Retiro;1;2;PE;SP;SP
+20;19/08/2009;21h50;Quarta-feira;Internacional;Corinthians;CORINTHIANS;Beira Rio;1;2;RS;SP;SP
+20;19/08/2009;19h30;Quarta-feira;Botafogo-RJ;Santo André;SANTO ANDRÉ;Engenhão;1;2;RJ;SP;SP
+20;20/08/2009;21h00;Quinta-feira;Flamengo;Cruzeiro;CRUZEIRO;Maracanã;1;2;RJ;MG;MG
+23;06/09/2009;18h30;Domingo;Santo André;Atletico-MG;ATLETICO-MG;Bruno José Daniel;1;2;SP;MG;MG
+23;06/09/2009;18h30;Domingo;Avaí;Internacional;INTERNACIONAL;Ressacada;0;2;SC;RS;RS
+23;06/09/2009;16h00;Domingo;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;1;2;MG;SP;SP
+24;13/09/2009;16h00;Domingo;Internacional;Cruzeiro;CRUZEIRO;Beira Rio;2;3;RS;MG;MG
+24;13/09/2009;18h30;Domingo;Náutico;Grêmio;GRÊMIO;Aflitos;0;2;PE;RS;RS
+25;20/09/2009;18h30;Domingo;Corinthians;Goiás;GOIÁS;Pacaembu;1;4;SP;GO;GO
+25;23/09/2009;21h50;Quarta-feira;Cruzeiro;Palmeiras;PALMEIRAS;Mineirão;1;2;MG;SP;SP
+26;26/09/2009;18h30;Sábado;Barueri;Cruzeiro;CRUZEIRO;Arena Barueri;0;1;SP;MG;MG
+26;27/09/2009;18h30;Domingo;Botafogo-RJ;Vitória;VITÓRIA;Engenhão;1;3;RJ;ES;ES
+27;30/09/2009;21h50;Quarta-feira;Náutico;São Paulo;SÃO PAULO;Aflitos;1;2;PE;SP;SP
+27;03/10/2009;18h30;Sábado;Corinthians;Athlético-PR;ATHLÉTICO-PR;Pacaembu;1;3;SP;PR;PR
+27;04/10/2009;16h00;Domingo;Goiás;Botafogo-RJ;BOTAFOGO-RJ;Serra Dourada;1;3;GO;RJ;RJ
+27;04/10/2009;16h00;Domingo;Santos;Palmeiras;PALMEIRAS;Vila Belmiro;1;3;SP;SP;SP
+28;07/10/2009;19h30;Quarta-feira;Sport;Santos;SANTOS;Ilha do Retiro;0;1;PE;SP;SP
+29;10/10/2009;18h30;Sábado;Coritiba;Barueri;BARUERI;Couto Pereira;1;2;PR;SP;SP
+29;10/10/2009;18h10;Sábado;Santo André;Fluminense;FLUMINENSE;Bruno José Daniel;1;2;SP;RJ;RJ
+29;12/10/2009;16h00;Segunda-feira;Atletico-MG;Cruzeiro;CRUZEIRO;Mineirão;0;1;MG;MG;MG
+30;17/10/2009;18h30;Sábado;São Paulo;Atletico-MG;ATLETICO-MG;Morumbi;0;1;SP;MG;MG
+30;18/10/2009;16h10;Domingo;Palmeiras;Flamengo;FLAMENGO;Palestra Itália;0;2;SP;RJ;RJ
+31;25/10/2009;18h30;Domingo;Corinthians;Cruzeiro;CRUZEIRO;Pacaembu;0;1;SP;MG;MG
+31;25/10/2009;18h30;Domingo;Botafogo-RJ;Flamengo;FLAMENGO;Engenhão;0;1;RJ;RJ;RJ
+31;25/10/2009;16h00;Domingo;Santos;São Paulo;SÃO PAULO;Vila Belmiro;3;4;SP;SP;SP
+32;28/10/2009;21h50;Quarta-feira;Vitória;Corinthians;CORINTHIANS;Barradão;0;1;ES;SP;SP
+33;01/11/2009;16h00;Domingo;Goiás;Atletico-MG;ATLETICO-MG;Serra Dourada;2;3;GO;MG;MG
+33;01/11/2009;16h00;Domingo;Internacional;Botafogo-RJ;BOTAFOGO-RJ;Beira Rio;0;1;RS;RJ;RJ
+33;01/11/2009;18h30;Domingo;Cruzeiro;Fluminense;FLUMINENSE;Mineirão;2;3;MG;RJ;RJ
+34;07/11/2009;18h30;Sábado;Vitória;Avaí;AVAÍ;Barradão;0;1;ES;SC;SC
+34;07/11/2009;18h30;Sábado;Sport;Cruzeiro;CRUZEIRO;Ilha do Retiro;2;3;PE;MG;MG
+34;08/11/2009;16h00;Domingo;Atletico-MG;Flamengo;FLAMENGO;Mineirão;1;3;MG;RJ;RJ
+35;15/11/2009;17h00;Domingo;Náutico;Flamengo;FLAMENGO;Aflitos;0;2;PE;RJ;RJ
+36;21/11/2009;19h30;Sábado;Corinthians;Náutico;NÁUTICO;Pacaembu;2;3;SP;PE;PE
+36;22/11/2009;17h00;Domingo;Sport;Fluminense;FLUMINENSE;Ilha do Retiro;0;3;PE;RJ;RJ
+36;22/11/2009;19h30;Domingo;Atletico-MG;Internacional;INTERNACIONAL;Mineirão;0;1;MG;RS;RS
+37;29/11/2009;17h00;Domingo;Corinthians;Flamengo;FLAMENGO;Brinco de Ouro;0;2;SP;RJ;RJ
+37;29/11/2009;17h00;Domingo;Sport;Internacional;INTERNACIONAL;Ilha do Retiro;1;2;PE;RS;RS
+38;05/12/2009;19h30;Sábado;Náutico;Avaí;AVAÍ;Aflitos;0;1;PE;SC;SC
+38;05/12/2009;19h30;Sábado;Atletico-MG;Corinthians;CORINTHIANS;Mineirão;0;3;MG;SP;SP
+38;06/12/2009;17h00;Domingo;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;1;2;SP;MG;MG
+1;09/05/2010;16h00;Domingo;Internacional;Cruzeiro;CRUZEIRO;Beira Rio;1;2;RS;MG;MG
+2;16/05/2010;16h00;Domingo;São Paulo;Botafogo-RJ;BOTAFOGO-RJ;Morumbi;1;2;SP;RJ;RJ
+2;16/05/2010;18h30;Domingo;Grêmio;Corinthians;CORINTHIANS;Olímpico Monumental;1;2;RS;SP;SP
+2;16/05/2010;16h00;Domingo;Goiás;Internacional;INTERNACIONAL;Serra Dourada;2;3;GO;RS;RS
+3;22/05/2010;18h30;Sábado;Atlético-GO;Santos;SANTOS;Serra Dourada;1;2;GO;SP;SP
+5;23/05/2010;16h00;Domingo;Atletico-MG;Fluminense;FLUMINENSE;Mineirão;1;3;MG;RJ;RJ
+5;23/05/2010;18h30;Domingo;Atlético-GO;Goiás;GOIÁS;Serra Dourada;1;3;GO;GO;GO
+3;23/05/2010;16h00;Domingo;Internacional;São Paulo;SÃO PAULO;Beira Rio;0;2;RS;SP;SP
+6;02/06/2010;21h50;Quarta-feira;Palmeiras;Flamengo;FLAMENGO;Pacaembu;0;1;SP;RJ;RJ
+6;03/06/2010;21h00;Quinta-feira;Vasco;Guarani;GUARANI;São Januário;0;1;RJ;SP;SP
+7;05/06/2010;18h30;Sábado;Avaí;Fluminense;FLUMINENSE;Ressacada;0;3;SC;RJ;RJ
+7;05/06/2010;18h30;Sábado;Flamengo;Goiás;GOIÁS;Maracanã;1;2;RJ;GO;GO
+7;06/06/2010;16h00;Domingo;Atletico-MG;Ceará;CEARÁ;Mineirão;0;1;MG;CE;CE
+8;14/07/2010;19h30;Quarta-feira;São Paulo;Avaí;AVAÍ;Morumbi;1;2;SP;SC;SC
+8;14/07/2010;19h30;Quarta-feira;Athlético-PR;Cruzeiro;CRUZEIRO;Arena da Baixada;0;2;PR;MG;MG
+8;14/07/2010;21h50;Quarta-feira;Guarani;Internacional;INTERNACIONAL;Brinco de Ouro;0;3;SP;RS;RS
+9;18/07/2010;16h00;Domingo;Atlético-GO;Flamengo;FLAMENGO;Serra Dourada;0;1;GO;RJ;RJ
+9;18/07/2010;18h30;Domingo;Santos;Fluminense;FLUMINENSE;Vila Belmiro;0;1;SP;RJ;RJ
+10;21/07/2010;19h30;Quarta-feira;Atletico-MG;Internacional;INTERNACIONAL;Arena do Jacaré;1;2;MG;RS;RS
+11;25/07/2010;16h00;Domingo;Goiás;Athlético-PR;ATHLÉTICO-PR;Serra Dourada;0;2;GO;PR;PR
+12;01/08/2010;16h00;Domingo;Vitória;Botafogo-RJ;BOTAFOGO-RJ;Barradão;1;3;ES;RJ;RJ
+12;01/08/2010;18h30;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Arena do Jacaré;0;1;MG;MG;MG
+12;01/08/2010;18h30;Domingo;Grêmio Prudente;Santos;SANTOS;Prudentão;1;2;SP;SP;SP
+13;08/08/2010;18h30;Domingo;Grêmio;Fluminense;FLUMINENSE;Olímpico Monumental;1;2;RS;RJ;RJ
+14;14/08/2010;18h30;Sábado;Atlético-GO;Botafogo-RJ;BOTAFOGO-RJ;Serra Dourada;0;2;GO;RJ;RJ
+14;15/08/2010;16h00;Domingo;Grêmio Prudente;Vasco;VASCO;Prudentão;1;2;SP;RJ;RJ
+15;21/08/2010;18h30;Sábado;Goiás;Grêmio Prudente;GRÊMIO PRUDENTE;Serra Dourada;1;2;GO;SP;SP
+15;22/08/2010;18h30;Domingo;Cruzeiro;Vitória;VITÓRIA;Ipatingão;0;1;MG;ES;ES
+16;25/08/2010;21h00;Quarta-feira;Grêmio Prudente;Athlético-PR;ATHLÉTICO-PR;Prudentão;0;1;SP;PR;PR
+16;25/08/2010;19h30;Quarta-feira;Goiás;Fluminense;FLUMINENSE;Serra Dourada;0;3;GO;RJ;RJ
+16;25/08/2010;19h30;Quarta-feira;Avaí;Internacional;INTERNACIONAL;Ressacada;0;1;SC;RS;RS
+16;25/08/2010;22h00;Quarta-feira;Grêmio;Santos;SANTOS;Olímpico Monumental;1;2;RS;SP;SP
+16;26/08/2010;21h00;Quinta-feira;Palmeiras;Atlético-GO;ATLÉTICO-GO;Pacaembu;0;3;SP;GO;GO
+17;29/08/2010;16h00;Domingo;Atletico-MG;Palmeiras;PALMEIRAS;Ipatingão;1;2;MG;SP;SP
+18;01/09/2010;21h00;Quarta-feira;Goiás;Atletico-MG;ATLETICO-MG;Serra Dourada;1;3;GO;MG;MG
+18;01/09/2010;19h30;Quarta-feira;Grêmio Prudente;Botafogo-RJ;BOTAFOGO-RJ;Prudentão;0;1;SP;RJ;RJ
+19;04/09/2010;18h30;Sábado;Ceará;Vasco;VASCO;Castelão;0;2;CE;RJ;RJ
+19;05/09/2010;16h00;Domingo;Avaí;Athlético-PR;ATHLÉTICO-PR;Ressacada;0;1;SC;PR;PR
+19;05/09/2010;16h00;Domingo;Palmeiras;Cruzeiro;CRUZEIRO;Pacaembu;2;3;SP;MG;MG
+19;05/09/2010;18h30;Domingo;Atletico-MG;São Paulo;SÃO PAULO;Ipatingão;2;3;MG;SP;SP
+20;09/09/2010;21h00;Quinta-feira;Santos;Botafogo-RJ;BOTAFOGO-RJ;Pacaembu;0;1;SP;RJ;RJ
+21;11/09/2010;18h30;Sábado;Corinthians;Grêmio;GRÊMIO;Pacaembu;0;1;SP;RS;RS
+21;12/09/2010;16h00;Domingo;Avaí;Cruzeiro;CRUZEIRO;Ressacada;1;2;SC;MG;MG
+22;15/09/2010;22h00;Quarta-feira;Fluminense;Corinthians;CORINTHIANS;Engenhão;1;2;RJ;SP;SP
+22;15/09/2010;22h00;Quarta-feira;Grêmio Prudente;Flamengo;FLAMENGO;Prudentão;1;2;SP;RJ;RJ
+22;15/09/2010;22h00;Quarta-feira;Grêmio;Palmeiras;PALMEIRAS;Olímpico Monumental;1;2;RS;SP;SP
+22;16/09/2010;21h00;Quinta-feira;São Paulo;Internacional;INTERNACIONAL;Morumbi;1;3;SP;RS;RS
+23;18/09/2010;18h00;Sábado;Atlético-GO;Athlético-PR;ATHLÉTICO-PR;Serra Dourada;1;2;GO;PR;PR
+23;19/09/2010;18h30;Domingo;Avaí;Grêmio;GRÊMIO;Ressacada;0;3;SC;RS;RS
+23;19/09/2010;16h00;Domingo;Palmeiras;São Paulo;SÃO PAULO;Pacaembu;0;2;SP;SP;SP
+23;19/09/2010;16h00;Domingo;Atletico-MG;Vitória;VITÓRIA;Arena do Jacaré;2;3;MG;ES;ES
+24;22/09/2010;19h30;Quarta-feira;Goiás;Atlético-GO;ATLÉTICO-GO;Serra Dourada;1;3;GO;GO;GO
+24;22/09/2010;22h00;Quarta-feira;Santos;Corinthians;CORINTHIANS;Vila Belmiro;2;3;SP;SP;SP
+24;22/09/2010;19h30;Quarta-feira;Grêmio Prudente;Palmeiras;PALMEIRAS;Prudentão;0;1;SP;SP;SP
+25;25/09/2010;18h30;Sábado;São Paulo;Goiás;GOIÁS;Morumbi;0;3;SP;GO;GO
+25;25/09/2010;18h30;Sábado;Flamengo;Palmeiras;PALMEIRAS;Engenhão;1;3;RJ;SP;SP
+25;26/09/2010;16h00;Domingo;Vitória;Fluminense;FLUMINENSE;Barradão;1;2;ES;RJ;RJ
+25;26/09/2010;18h30;Domingo;Atletico-MG;Grêmio;GRÊMIO;Arena do Jacaré;1;2;MG;RS;RS
+27;02/10/2010;21h00;Sábado;Atlético-GO;Atletico-MG;ATLETICO-MG;Serra Dourada;2;3;GO;MG;MG
+27;02/10/2010;16h00;Sábado;Vitória;Grêmio;GRÊMIO;Barradão;0;3;ES;RS;RS
+28;06/10/2010;19h30;Quarta-feira;Fluminense;Santos;SANTOS;Engenhão;0;3;RJ;SP;SP
+28;07/10/2010;21h00;Quinta-feira;Goiás;Cruzeiro;CRUZEIRO;Serra Dourada;0;1;GO;MG;MG
+29;09/10/2010;18h30;Sábado;Grêmio Prudente;São Paulo;SÃO PAULO;Prudentão;2;3;SP;SP;SP
+29;10/10/2010;16h00;Domingo;Corinthians;Atlético-GO;ATLÉTICO-GO;Pacaembu;3;4;SP;GO;GO
+31;23/10/2010;18h30;Sábado;Guarani;Atlético-GO;ATLÉTICO-GO;Brinco de Ouro;0;1;SP;GO;GO
+31;24/10/2010;18h30;Domingo;Cruzeiro;Atletico-MG;ATLETICO-MG;Parque do Sabiá;3;4;MG;MG;MG
+31;24/10/2010;18h30;Domingo;Santos;Grêmio Prudente;GRÊMIO PRUDENTE;Vila Belmiro;2;3;SP;SP;SP
+32;30/10/2010;18h30;Sábado;Atletico-MG;Botafogo-RJ;BOTAFOGO-RJ;Arena do Jacaré;0;2;MG;RJ;RJ
+32;30/10/2010;18h30;Sábado;Grêmio Prudente;Cruzeiro;CRUZEIRO;Prudentão;0;2;SP;MG;MG
+33;03/11/2010;19h30;Quarta-feira;Goiás;Grêmio;GRÊMIO;Serra Dourada;0;2;GO;RS;RS
+33;03/11/2010;21h50;Quarta-feira;Cruzeiro;São Paulo;SÃO PAULO;Parque do Sabiá;0;2;MG;SP;SP
+34;07/11/2010;19h30;Domingo;Flamengo;Athlético-PR;ATHLÉTICO-PR;Raulino de Oliveira;0;1;RJ;PR;PR
+34;07/11/2010;17h00;Domingo;São Paulo;Corinthians;CORINTHIANS;Morumbi;0;2;SP;SP;SP
+34;07/11/2010;17h00;Domingo;Vitória;Cruzeiro;CRUZEIRO;Barradão;0;1;ES;MG;MG
+35;14/11/2010;17h00;Domingo;Internacional;Avaí;AVAÍ;Beira Rio;2;3;RS;SC;SC
+36;21/11/2010;17h00;Domingo;Palmeiras;Atletico-MG;ATLETICO-MG;Fonte Luminosa;0;2;SP;MG;MG
+36;21/11/2010;17h00;Domingo;São Paulo;Fluminense;FLUMINENSE;Arena Barueri;1;4;SP;RJ;RJ
+36;21/11/2010;17h00;Domingo;Botafogo-RJ;Internacional;INTERNACIONAL;Engenhão;1;2;RJ;RS;RS
+36;21/11/2010;19h30;Domingo;Goiás;Santos;SANTOS;Serra Dourada;1;4;GO;SP;SP
+37;28/11/2010;17h00;Domingo;Flamengo;Cruzeiro;CRUZEIRO;Raulino de Oliveira;1;2;RJ;MG;MG
+37;28/11/2010;17h00;Domingo;Palmeiras;Fluminense;FLUMINENSE;Arena Barueri;1;2;SP;RJ;RJ
+37;28/11/2010;17h00;Domingo;Guarani;Grêmio;GRÊMIO;Brinco de Ouro;0;3;SP;RS;RS
+38;02/12/2010;21h00;Quinta-feira;Grêmio Prudente;Internacional;INTERNACIONAL;Prudentão;0;3;SP;RS;RS
+1;21/05/2011;18h30;Sábado;Ceará;Vasco;VASCO;Presidente Vargas;1;3;CE;RJ;RJ
+1;22/05/2011;16h00;Domingo;Coritiba;Atlético-GO;ATLÉTICO-GO;Couto Pereira;0;1;PR;GO;GO
+1;22/05/2011;16h00;Domingo;Grêmio;Corinthians;CORINTHIANS;Olímpico Monumental;1;2;RS;SP;SP
+1;22/05/2011;18h30;Domingo;Fluminense;São Paulo;SÃO PAULO;São Januário;0;2;RJ;SP;SP
+2;28/05/2011;18h30;Sábado;Avaí;Atletico-MG;ATLETICO-MG;Ressacada;1;3;SC;MG;MG
+2;28/05/2011;18h30;Sábado;Internacional;Ceará;CEARÁ;Beira Rio;0;1;RS;CE;CE
+2;29/05/2011;18h30;Domingo;Atlético-GO;Fluminense;FLUMINENSE;Serra Dourada;0;1;GO;RJ;RJ
+2;29/05/2011;16h00;Domingo;Athlético-PR;Grêmio;GRÊMIO;Arena da Baixada;0;1;PR;RS;RS
+3;05/06/2011;18h30;Domingo;América-MG;Internacional;INTERNACIONAL;Morenão;2;4;MG;RS;RS
+3;08/06/2011;21h50;Quarta-feira;Atletico-MG;São Paulo;SÃO PAULO;Arena do Jacaré;0;1;MG;SP;SP
+5;18/06/2011;18h30;Sábado;Fluminense;Bahia;BAHIA;Engenhão;0;1;RJ;BA;BA
+5;19/06/2011;16h00;Domingo;Ceará;São Paulo;SÃO PAULO;Presidente Vargas;0;2;CE;SP;SP
+6;25/06/2011;18h30;Sábado;Athlético-PR;Bahia;BAHIA;Arena da Baixada;0;2;PR;BA;BA
+6;26/06/2011;16h00;Domingo;Avaí;Fluminense;FLUMINENSE;Ressacada;0;1;SC;RJ;RJ
+6;26/06/2011;18h30;Domingo;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+7;29/06/2011;21h50;Quarta-feira;São Paulo;Botafogo-RJ;BOTAFOGO-RJ;Morumbi;0;2;SP;RJ;RJ
+7;29/06/2011;21h50;Quarta-feira;Bahia;Corinthians;CORINTHIANS;Pituaçu;0;1;BA;SP;SP
+7;29/06/2011;19h30;Quarta-feira;Vasco;Cruzeiro;CRUZEIRO;São Januário;0;3;RJ;MG;MG
+7;29/06/2011;19h30;Quarta-feira;América-MG;Flamengo;FLAMENGO;Arena do Jacaré;2;3;MG;RJ;RJ
+7;30/06/2011;21h00;Quinta-feira;Atletico-MG;Internacional;INTERNACIONAL;Arena do Jacaré;0;4;MG;RS;RS
+9;10/07/2011;16h00;Domingo;Atlético-GO;Corinthians;CORINTHIANS;Serra Dourada;0;1;GO;SP;SP
+9;10/07/2011;16h00;Domingo;Fluminense;Flamengo;FLAMENGO;Engenhão;0;1;RJ;RJ;RJ
+10;16/07/2011;18h30;Sábado;Atlético-GO;Avaí;AVAÍ;Serra Dourada;0;1;GO;SC;SC
+10;17/07/2011;18h30;Domingo;Internacional;São Paulo;SÃO PAULO;Beira Rio;0;3;RS;SP;SP
+10;20/07/2011;21h50;Quarta-feira;Botafogo-RJ;Corinthians;CORINTHIANS;São Januário;0;2;RJ;SP;SP
+11;21/07/2011;21h00;Quinta-feira;Avaí;Internacional;INTERNACIONAL;Ressacada;1;3;SC;RS;RS
+11;24/07/2011;16h00;Domingo;Corinthians;Cruzeiro;CRUZEIRO;Pacaembu;0;1;SP;MG;MG
+11;24/07/2011;16h00;Domingo;Atletico-MG;Vasco;VASCO;Ipatingão;1;2;MG;RJ;RJ
+12;27/07/2011;21h50;Quarta-feira;Santos;Flamengo;FLAMENGO;Vila Belmiro;4;5;SP;RJ;RJ
+12;27/07/2011;21h50;Quarta-feira;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;0;1;SC;SP;SP
+12;27/07/2011;21h30;Quarta-feira;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;3;4;PR;SP;SP
+13;30/07/2011;18h30;Sábado;Cruzeiro;Botafogo-RJ;BOTAFOGO-RJ;Arena do Jacaré;0;1;MG;RJ;RJ
+13;31/07/2011;18h30;Domingo;América-MG;Coritiba;CORITIBA;Arena do Jacaré;1;3;MG;PR;PR
+13;31/07/2011;16h00;Domingo;São Paulo;Vasco;VASCO;Morumbi;0;2;SP;RJ;RJ
+14;03/08/2011;19h30;Quarta-feira;Ceará;Avaí;AVAÍ;Presidente Vargas;0;3;CE;SC;SC
+14;03/08/2011;21h50;Quarta-feira;Cruzeiro;Flamengo;FLAMENGO;Arena do Jacaré;0;1;MG;RJ;RJ
+14;04/08/2011;21h00;Quinta-feira;Atlético-GO;Athlético-PR;ATHLÉTICO-PR;Serra Dourada;0;3;GO;PR;PR
+15;06/08/2011;21h00;Sábado;Atletico-MG;Figueirense;FIGUEIRENSE;Ipatingão;1;2;MG;SC;SC
+15;07/08/2011;18h30;Domingo;Avaí;São Paulo;SÃO PAULO;Ressacada;1;2;SC;SP;SP
+17;17/08/2011;21h50;Quarta-feira;Atletico-MG;Corinthians;CORINTHIANS;Ipatingão;2;3;MG;SP;SP
+17;17/08/2011;21h50;Quarta-feira;Santos;Coritiba;CORITIBA;Vila Belmiro;2;3;SP;PR;PR
+17;17/08/2011;19h30;Quarta-feira;Avaí;Vasco;VASCO;Ressacada;0;2;SC;RJ;RJ
+17;18/08/2011;21h00;Quinta-feira;Flamengo;Atlético-GO;ATLÉTICO-GO;Engenhão;1;4;RJ;GO;GO
+18;20/08/2011;18h00;Sábado;Corinthians;Figueirense;FIGUEIRENSE;Pacaembu;0;2;SP;SC;SC
+18;21/08/2011;18h00;Domingo;Bahia;Santos;SANTOS;Pituaçu;1;2;BA;SP;SP
+19;27/08/2011;18h00;Sábado;América-MG;Atlético-GO;ATLÉTICO-GO;Arena do Jacaré;1;2;MG;GO;GO
+19;27/08/2011;18h00;Sábado;Fluminense;Botafogo-RJ;BOTAFOGO-RJ;Engenhão;1;2;RJ;RJ;RJ
+19;28/08/2011;18h00;Domingo;Figueirense;Avaí;AVAÍ;Orlando Scarpelli;2;3;SC;SC;SC
+19;28/08/2011;18h00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Arena do Jacaré;1;2;MG;MG;MG
+20;31/08/2011;20h30;Quarta-feira;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;0;1;PR;MG;MG
+20;31/08/2011;20h30;Quarta-feira;Cruzeiro;Figueirense;FIGUEIRENSE;Ipatingão;2;4;MG;SC;SC
+20;31/08/2011;21h50;Quarta-feira;São Paulo;Fluminense;FLUMINENSE;Morumbi;1;2;SP;RJ;RJ
+21;03/09/2011;18h00;Sábado;Figueirense;São Paulo;SÃO PAULO;Orlando Scarpelli;1;2;SC;SP;SP
+21;04/09/2011;16h00;Domingo;Flamengo;Bahia;BAHIA;Engenhão;1;3;RJ;BA;BA
+22;07/09/2011;21h50;Quarta-feira;Cruzeiro;Fluminense;FLUMINENSE;Parque do Sabiá;1;2;MG;RJ;RJ
+22;07/09/2011;16h00;Quarta-feira;Avaí;Santos;SANTOS;Ressacada;1;2;SC;SP;SP
+22;08/09/2011;20h30;Quinta-feira;Bahia;Grêmio;GRÊMIO;Pituaçu;1;2;BA;RS;RS
+23;11/09/2011;18h00;Domingo;Flamengo;Athlético-PR;ATHLÉTICO-PR;Cláudio Moacyr;1;2;RJ;PR;PR
+23;11/09/2011;16h00;Domingo;Palmeiras;Internacional;INTERNACIONAL;Pacaembu;0;3;SP;RS;RS
+24;18/09/2011;16h00;Domingo;Corinthians;Santos;SANTOS;Pacaembu;1;3;SP;SP;SP
+25;21/09/2011;20h30;Quarta-feira;América-MG;Santos;SANTOS;Parque do Sabiá;1;2;MG;SP;SP
+25;22/09/2011;20h30;Quinta-feira;Grêmio;Botafogo-RJ;BOTAFOGO-RJ;Olímpico Monumental;0;1;RS;RJ;RJ
+26;24/09/2011;18h00;Sábado;Santos;Figueirense;FIGUEIRENSE;Vila Belmiro;2;3;SP;SC;SC
+26;25/09/2011;16h00;Domingo;Avaí;Grêmio;GRÊMIO;Ressacada;1;2;SC;RS;RS
+26;25/09/2011;16h00;Domingo;Cruzeiro;Vasco;VASCO;Arena do Jacaré;0;3;MG;RJ;RJ
+27;02/10/2011;16h00;Domingo;São Paulo;Flamengo;FLAMENGO;Morumbi;1;2;SP;RJ;RJ
+29;12/10/2011;21h50;Quarta-feira;Corinthians;Botafogo-RJ;BOTAFOGO-RJ;Pacaembu;0;2;SP;RJ;RJ
+29;12/10/2011;16h00;Quarta-feira;Grêmio;Figueirense;FIGUEIRENSE;Olímpico Monumental;1;3;RS;SC;SC
+30;15/10/2011;18h00;Sábado;Ceará;Flamengo;FLAMENGO;Presidente Vargas;0;1;CE;RJ;RJ
+30;16/10/2011;16h00;Domingo;Cruzeiro;Corinthians;CORINTHIANS;Arena do Jacaré;0;1;MG;SP;SP
+30;16/10/2011;16h00;Domingo;Palmeiras;Fluminense;FLUMINENSE;Canindé;1;2;SP;RJ;RJ
+30;16/10/2011;16h00;Domingo;Santos;Grêmio;GRÊMIO;Vila Belmiro;0;1;SP;RS;RS
+31;22/10/2011;18h00;Sábado;Fluminense;Atletico-MG;ATLETICO-MG;Engenhão;0;2;RJ;MG;MG
+31;22/10/2011;18h00;Sábado;Palmeiras;Figueirense;FIGUEIRENSE;Canindé;1;2;SP;SC;SC
+31;23/10/2011;16h00;Domingo;Bahia;Vasco;VASCO;Pituaçu;0;2;BA;RJ;RJ
+32;29/10/2011;18h00;Sábado;Ceará;Fluminense;FLUMINENSE;Presidente Vargas;1;2;CE;RJ;RJ
+32;30/10/2011;18h00;Domingo;Atlético-GO;Internacional;INTERNACIONAL;Serra Dourada;0;1;GO;RS;RS
+33;05/11/2011;19h00;Sábado;Botafogo-RJ;Figueirense;FIGUEIRENSE;Engenhão;0;1;RJ;SC;SC
+33;06/11/2011;17h00;Domingo;Avaí;Ceará;CEARÁ;Ressacada;1;2;SC;CE;CE
+33;06/11/2011;19h00;Domingo;Palmeiras;Coritiba;CORITIBA;Arena Barueri;0;2;SP;PR;PR
+33;06/11/2011;19h00;Domingo;Internacional;Fluminense;FLUMINENSE;Beira Rio;1;2;RS;RJ;RJ
+34;12/11/2011;19h00;Sábado;Fluminense;América-MG;AMÉRICA-MG;Engenhão;1;2;RJ;MG;MG
+34;13/11/2011;19h00;Domingo;Atlético-GO;Bahia;BAHIA;Serra Dourada;0;1;GO;BA;BA
+34;13/11/2011;17h00;Domingo;Ceará;Santos;SANTOS;Presidente Vargas;2;3;CE;SP;SP
+35;16/11/2011;21h50;Quarta-feira;Ceará;Corinthians;CORINTHIANS;Presidente Vargas;0;1;CE;SP;SP
+36;19/11/2011;19h00;Sábado;Grêmio;Ceará;CEARÁ;Olímpico Monumental;1;3;RS;CE;CE
+36;20/11/2011;19h00;Domingo;Figueirense;Fluminense;FLUMINENSE;Orlando Scarpelli;0;4;SC;RJ;RJ
+36;20/11/2011;17h00;Domingo;Botafogo-RJ;Internacional;INTERNACIONAL;Engenhão;1;2;RJ;RS;RS
+36;20/11/2011;19h00;Domingo;Bahia;Palmeiras;PALMEIRAS;Pituaçu;0;2;BA;SP;SP
+37;27/11/2011;17h00;Domingo;Figueirense;Corinthians;CORINTHIANS;Orlando Scarpelli;0;1;SC;SP;SP
+37;27/11/2011;17h00;Domingo;Fluminense;Vasco;VASCO;Engenhão;1;2;RJ;RJ;RJ
+1;20/05/2012;16h00;Domingo;Ponte Preta;Atletico-MG;ATLETICO-MG;Moisés Lucarelli;0;1;SP;MG;MG
+1;20/05/2012;16h00;Domingo;Corinthians;Fluminense;FLUMINENSE;Pacaembu;0;1;SP;RJ;RJ
+2;26/05/2012;18h30;Sábado;Portuguesa;Vasco;VASCO;Canindé;0;1;SP;RJ;RJ
+3;06/06/2012;19h30;Quarta-feira;Atlético-GO;Grêmio;GRÊMIO;Serra Dourada;0;1;GO;RS;RS
+3;07/06/2012;21h00;Quinta-feira;Botafogo-RJ;Cruzeiro;CRUZEIRO;Engenhão;2;3;RJ;MG;MG
+4;09/06/2012;21h00;Sábado;Palmeiras;Atletico-MG;ATLETICO-MG;Pacaembu;0;1;SP;MG;MG
+4;10/06/2012;17h00;Domingo;Bahia;Vasco;VASCO;Pituaçu;1;2;BA;RJ;RJ
+5;16/06/2012;18h30;Sábado;Internacional;Botafogo-RJ;BOTAFOGO-RJ;Beira Rio;1;2;RS;RJ;RJ
+6;23/06/2012;18h30;Sábado;Vasco;Cruzeiro;CRUZEIRO;São Januário;1;3;RJ;MG;MG
+6;24/06/2012;18h30;Domingo;Atlético-GO;Fluminense;FLUMINENSE;Serra Dourada;1;4;GO;RJ;RJ
+6;24/06/2012;18h30;Domingo;Sport;Internacional;INTERNACIONAL;Ilha do Retiro;0;2;PE;RS;RS
+6;24/06/2012;18h30;Domingo;Botafogo-RJ;Ponte Preta;PONTE PRETA;Engenhão;1;2;RJ;SP;SP
+7;30/06/2012;16h20;Sábado;Náutico;Fluminense;FLUMINENSE;Aflitos;0;2;PE;RJ;RJ
+7;30/06/2012;16h20;Sábado;Cruzeiro;São Paulo;SÃO PAULO;Independência;2;3;MG;SP;SP
+7;01/07/2012;18h30;Domingo;Grêmio;Atletico-MG;ATLETICO-MG;Olímpico Monumental;0;1;RS;MG;MG
+7;01/07/2012;16h00;Domingo;Coritiba;Sport;SPORT;Couto Pereira;2;3;PR;PE;PE
+8;07/07/2012;21h00;Sábado;Atlético-GO;Náutico;NÁUTICO;Serra Dourada;0;1;GO;PE;PE
+7;11/07/2012;19h30;Quarta-feira;Corinthians;Botafogo-RJ;BOTAFOGO-RJ;Pacaembu;1;3;SP;RJ;RJ
+9;14/07/2012;18h30;Sábado;Figueirense;Atletico-MG;ATLETICO-MG;Orlando Scarpelli;3;4;SC;MG;MG
+9;15/07/2012;16h00;Domingo;Bahia;Flamengo;FLAMENGO;Pituaçu;1;2;BA;RJ;RJ
+9;15/07/2012;16h00;Domingo;Cruzeiro;Grêmio;GRÊMIO;Independência;1;3;MG;RS;RS
+10;18/07/2012;21h50;Quarta-feira;Flamengo;Corinthians;CORINTHIANS;Engenhão;0;3;RJ;SP;SP
+10;18/07/2012;20h30;Quarta-feira;Portuguesa;Cruzeiro;CRUZEIRO;Canindé;0;2;SP;MG;MG
+10;18/07/2012;21h50;Quarta-feira;São Paulo;Vasco;VASCO;Morumbi;0;1;SP;RJ;RJ
+11;21/07/2012;18h30;Sábado;Sport;Atletico-MG;ATLETICO-MG;Ilha do Retiro;1;4;PE;MG;MG
+11;22/07/2012;18h30;Domingo;Ponte Preta;Fluminense;FLUMINENSE;Moisés Lucarelli;1;2;SP;RJ;RJ
+11;22/07/2012;18h30;Domingo;Botafogo-RJ;Grêmio;GRÊMIO;Engenhão;0;1;RJ;RS;RS
+11;22/07/2012;16h00;Domingo;Figueirense;São Paulo;SÃO PAULO;Orlando Scarpelli;0;2;SC;SP;SP
+12;25/07/2012;20h30;Quarta-feira;Náutico;Coritiba;CORITIBA;Aflitos;3;4;PE;PR;PR
+12;25/07/2012;19h30;Quarta-feira;Figueirense;Internacional;INTERNACIONAL;Orlando Scarpelli;0;1;SC;RS;RS
+12;26/07/2012;21h00;Quinta-feira;Palmeiras;Bahia;BAHIA;Arena Barueri;0;2;SP;BA;BA
+14;04/08/2012;18h30;Sábado;Atlético-GO;Botafogo-RJ;BOTAFOGO-RJ;Serra Dourada;1;2;GO;RJ;RJ
+14;04/08/2012;18h30;Sábado;Palmeiras;Internacional;INTERNACIONAL;Arena Barueri;0;1;SP;RS;RS
+14;05/08/2012;16h00;Domingo;Coritiba;Fluminense;FLUMINENSE;Couto Pereira;0;2;PR;RJ;RJ
+14;05/08/2012;18h30;Domingo;Cruzeiro;Ponte Preta;PONTE PRETA;Independência;1;2;MG;SP;SP
+15;08/08/2012;21h50;Quarta-feira;Figueirense;Flamengo;FLAMENGO;Orlando Scarpelli;0;2;SC;RJ;RJ
+15;08/08/2012;21h50;Quarta-feira;Botafogo-RJ;Palmeiras;PALMEIRAS;Engenhão;1;2;RJ;SP;SP
+15;08/08/2012;19h30;Quarta-feira;Sport;Vasco;VASCO;Ilha do Retiro;0;2;PE;RJ;RJ
+16;11/08/2012;18h30;Sábado;Bahia;Cruzeiro;CRUZEIRO;Pituaçu;0;1;BA;MG;MG
+16;11/08/2012;18h30;Sábado;Sport;Figueirense;FIGUEIRENSE;Ilha do Retiro;0;1;PE;SC;SC
+16;12/08/2012;16h00;Domingo;Coritiba;Corinthians;CORINTHIANS;Couto Pereira;1;2;PR;SP;SP
+16;12/08/2012;16h00;Domingo;São Paulo;Grêmio;GRÊMIO;Morumbi;1;2;SP;RS;RS
+17;15/08/2012;20h30;Quarta-feira;Ponte Preta;Bahia;BAHIA;Moisés Lucarelli;0;2;SP;BA;BA
+17;15/08/2012;19h30;Quarta-feira;Grêmio;Portuguesa;PORTUGUESA;Olímpico Monumental;1;2;RS;SP;SP
+17;16/08/2012;21h00;Quinta-feira;Figueirense;Santos;SANTOS;Orlando Scarpelli;1;3;SC;SP;SP
+19;25/08/2012;18h30;Sábado;Vasco;Fluminense;FLUMINENSE;São Januário;1;2;RJ;RJ;RJ
+19;25/08/2012;18h30;Sábado;Palmeiras;Santos;SANTOS;Pacaembu;1;2;SP;SP;SP
+19;26/08/2012;16h00;Domingo;Internacional;Grêmio;GRÊMIO;Beira Rio;0;1;RS;RS;RS
+19;26/08/2012;16h00;Domingo;Corinthians;São Paulo;SÃO PAULO;Pacaembu;1;2;SP;SP;SP
+20;29/08/2012;19h30;Quarta-feira;Santos;Bahia;BAHIA;Vila Belmiro;1;3;SP;BA;BA
+20;29/08/2012;22h00;Quarta-feira;Atlético-GO;Cruzeiro;CRUZEIRO;Serra Dourada;0;2;GO;MG;MG
+22;05/09/2012;22h00;Quarta-feira;Cruzeiro;Botafogo-RJ;BOTAFOGO-RJ;Independência;1;3;MG;RJ;RJ
+22;05/09/2012;19h30;Quarta-feira;Flamengo;Ponte Preta;PONTE PRETA;Raulino de Oliveira;0;1;RJ;SP;SP
+23;09/09/2012;18h30;Domingo;Vasco;Bahia;BAHIA;São Januário;0;4;RJ;BA;BA
+23;09/09/2012;16h00;Domingo;Internacional;Fluminense;FLUMINENSE;Beira Rio;0;1;RS;RJ;RJ
+24;12/09/2012;20h30;Quarta-feira;Atlético-GO;Coritiba;CORITIBA;Serra Dourada;1;2;GO;PR;PR
+24;12/09/2012;19h30;Quarta-feira;Portuguesa;Fluminense;FLUMINENSE;Canindé;0;2;SP;RJ;RJ
+25;15/09/2012;18h30;Sábado;Fluminense;Atlético-GO;ATLÉTICO-GO;Raulino de Oliveira;1;2;RJ;GO;GO
+25;16/09/2012;16h00;Domingo;Palmeiras;Corinthians;CORINTHIANS;Pacaembu;0;2;SP;SP;SP
+25;16/09/2012;16h00;Domingo;Coritiba;Santos;SANTOS;Couto Pereira;1;2;PR;SP;SP
+26;22/09/2012;18h30;Sábado;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;1;3;SC;SP;SP
+26;22/09/2012;21h00;Sábado;Santos;Portuguesa;PORTUGUESA;Pacaembu;1;3;SP;SP;SP
+26;23/09/2012;16h00;Domingo;Atlético-GO;Flamengo;FLAMENGO;Serra Dourada;1;2;GO;RJ;RJ
+27;30/09/2012;16h00;Domingo;Flamengo;Fluminense;FLUMINENSE;Engenhão;0;1;RJ;RJ;RJ
+28;06/10/2012;16h20;Sábado;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+29;10/10/2012;19h30;Quarta-feira;Bahia;Fluminense;FLUMINENSE;Pituaçu;0;2;BA;RJ;RJ
+29;10/10/2012;19h30;Quarta-feira;Botafogo-RJ;Santos;SANTOS;Engenhão;0;2;RJ;SP;SP
+29;10/10/2012;22h00;Quarta-feira;Vasco;São Paulo;SÃO PAULO;São Januário;0;2;RJ;SP;SP
+29;11/10/2012;21h00;Quinta-feira;Palmeiras;Coritiba;CORITIBA;Fonte Luminosa;0;1;SP;PR;PR
+29;11/10/2012;21h00;Quinta-feira;Sport;Grêmio;GRÊMIO;Ilha do Retiro;1;3;PE;RS;RS
+31;17/10/2012;19h30;Quarta-feira;Internacional;Figueirense;FIGUEIRENSE;Beira Rio;2;3;RS;SC;SC
+31;17/10/2012;19h30;Quarta-feira;Bahia;Palmeiras;PALMEIRAS;Pituaçu;0;1;BA;SP;SP
+32;21/10/2012;18h30;Domingo;Atlético-GO;Sport;SPORT;Serra Dourada;0;1;GO;PE;PE
+32;24/10/2012;22h00;Quarta-feira;Figueirense;Botafogo-RJ;BOTAFOGO-RJ;Orlando Scarpelli;0;2;SC;RJ;RJ
+32;24/10/2012;20h30;Quarta-feira;Vasco;Internacional;INTERNACIONAL;São Januário;1;2;RJ;RS;RS
+33;27/10/2012;18h30;Sábado;Sport;São Paulo;SÃO PAULO;Ilha do Retiro;2;4;PE;SP;SP
+34;03/11/2012;19h30;Sábado;Cruzeiro;Santos;SANTOS;Independência;0;4;MG;SP;SP
+34;04/11/2012;19h30;Domingo;Portuguesa;Bahia;BAHIA;Canindé;0;1;SP;BA;BA
+34;04/11/2012;17h00;Domingo;Atlético-GO;Corinthians;CORINTHIANS;Boca do Jacaré;0;2;GO;SP;SP
+34;04/11/2012;17h00;Domingo;Vasco;Sport;SPORT;São Januário;0;3;RJ;PE;PE
+35;11/11/2012;19h30;Domingo;Náutico;Flamengo;FLAMENGO;Aflitos;0;1;PE;RJ;RJ
+35;11/11/2012;17h00;Domingo;Palmeiras;Fluminense;FLUMINENSE;Prudentão;2;3;SP;RJ;RJ
+36;17/11/2012;19h30;Sábado;Coritiba;Vasco;VASCO;Couto Pereira;1;2;PR;RJ;RJ
+36;18/11/2012;19h30;Domingo;Internacional;Corinthians;CORINTHIANS;Beira Rio;0;2;RS;SP;SP
+36;18/11/2012;17h00;Domingo;Fluminense;Cruzeiro;CRUZEIRO;Engenhão;0;2;RJ;MG;MG
+37;25/11/2012;17h00;Domingo;Palmeiras;Atlético-GO;ATLÉTICO-GO;Pacaembu;1;2;SP;GO;GO
+37;25/11/2012;17h00;Domingo;Botafogo-RJ;Atletico-MG;ATLETICO-MG;Engenhão;2;3;RJ;MG;MG
+37;25/11/2012;17h00;Domingo;Figueirense;Grêmio;GRÊMIO;Orlando Scarpelli;2;4;SC;RS;RS
+37;25/11/2012;17h00;Domingo;Internacional;Portuguesa;PORTUGUESA;Beira Rio;0;2;RS;SP;SP
+38;02/12/2012;17h00;Domingo;Atlético-GO;Bahia;BAHIA;Serra Dourada;0;1;GO;BA;BA
+38;02/12/2012;17h00;Domingo;Fluminense;Vasco;VASCO;Engenhão;1;2;RJ;RJ;RJ
+1;26/05/2013;16:00;Domingo;Ponte Preta;São Paulo;SÃO PAULO;Moisés Lucarelli;0;2;SP;SP;SP
+2;29/05/2013;21:00;Quarta-feira;Flamengo;Ponte Preta;PONTE PRETA;Juiz de Fora;0;2;RJ;SP;SP
+2;29/05/2013;21:00;Quarta-feira;Náutico;Vitória;VITÓRIA;Aflitos;0;3;PE;ES;ES
+3;02/06/2013;18:30;Domingo;Internacional;Bahia;BAHIA;Centenário;1;2;RS;BA;BA
+4;05/06/2013;21:00;Quarta-feira;Ponte Preta;Athlético-PR;ATHLÉTICO-PR;Moisés Lucarelli;3;4;SP;PR;PR
+4;05/06/2013;19:30;Quarta-feira;São Paulo;Goiás;GOIÁS;Morumbi;0;1;SP;GO;GO
+4;05/06/2013;22:00;Quarta-feira;Flamengo;Náutico;NÁUTICO;Orlando Scarpelli;0;1;RJ;PE;PE
+5;08/06/2013;21:00;Sábado;Ponte Preta;Botafogo-RJ;BOTAFOGO-RJ;Moisés Lucarelli;0;2;SP;RJ;RJ
+5;08/06/2013;16:20;Sábado;Criciúma;Flamengo;FLAMENGO;Heriberto Hulse;0;3;SC;RJ;RJ
+6;06/07/2013;18:30;Sábado;Náutico;Ponte Preta;PONTE PRETA;Arena Pernambuco;1;3;PE;SP;SP
+6;07/07/2013;16:00;Domingo;Bahia;Corinthians;CORINTHIANS;Fonte Nova;0;2;BA;SP;SP
+6;07/07/2013;16:00;Domingo;São Paulo;Santos;SANTOS;Morumbi;0;2;SP;SP;SP
+11;10/07/2013;21:00;Quarta-feira;São Paulo;Bahia;BAHIA;Morumbi;1;2;SP;BA;BA
+7;13/07/2013;18:30;Sábado;Fluminense;Internacional;INTERNACIONAL;Moacyrzão;2;3;RJ;RS;RS
+7;14/07/2013;16:00;Domingo;Corinthians;Atletico-MG;ATLETICO-MG;Pacaembu;0;1;SP;MG;MG
+7;14/07/2013;18:30;Domingo;Vasco;Flamengo;FLAMENGO;Mané Garrincha;0;1;RJ;RJ;RJ
+8;20/07/2013;18:30;Sábado;São Paulo;Cruzeiro;CRUZEIRO;Morumbi;0;3;SP;MG;MG
+8;21/07/2013;18:30;Domingo;Fluminense;Vasco;VASCO;Maracanã;1;3;RJ;RJ;RJ
+12;24/07/2013;21:00;Quarta-feira;São Paulo;Internacional;INTERNACIONAL;Morumbi;0;1;SP;RS;RS
+9;27/07/2013;18:30;Sábado;Portuguesa;Athlético-PR;ATHLÉTICO-PR;Canindé;2;3;SP;PR;PR
+10;31/07/2013;19:30;Quarta-feira;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Independência;1;2;MG;PR;PR
+11;04/08/2013;18:30;Domingo;Vasco;Botafogo-RJ;BOTAFOGO-RJ;Maracanã;2;3;RJ;RJ;RJ
+11;04/08/2013;16:00;Domingo;Criciúma;Corinthians;CORINTHIANS;Heriberto Hulse;0;2;SC;SP;SP
+12;07/08/2013;19:30;Quarta-feira;Criciúma;Cruzeiro;CRUZEIRO;Heriberto Hulse;1;2;SC;MG;MG
+12;08/08/2013;21:00;Quinta-feira;Grêmio;Coritiba;CORITIBA;Arena do Grêmio;0;1;RS;PR;PR
+13;11/08/2013;16:00;Domingo;Fluminense;Flamengo;FLAMENGO;Maracanã;2;3;RJ;RJ;RJ
+13;11/08/2013;18:30;Domingo;Bahia;Grêmio;GRÊMIO;Fonte Nova;0;3;BA;RS;RS
+13;11/08/2013;16:00;Domingo;Coritiba;Vasco;VASCO;Couto Pereira;0;1;PR;RJ;RJ
+15;17/08/2013;18:30;Sábado;Náutico;Fluminense;FLUMINENSE;Arena Pernambuco;0;1;PE;RJ;RJ
+15;17/08/2013;21:00;Sábado;Vasco;Grêmio;GRÊMIO;São Januário;2;3;RJ;RS;RS
+15;18/08/2013;16:00;Domingo;Portuguesa;Botafogo-RJ;BOTAFOGO-RJ;Canindé;1;3;SP;RJ;RJ
+15;18/08/2013;16:00;Domingo;Ponte Preta;Goiás;GOIÁS;Moisés Lucarelli;0;1;SP;GO;GO
+16;24/08/2013;18:30;Sábado;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;0;2;SP;MG;MG
+16;24/08/2013;18:30;Sábado;Flamengo;Grêmio;GRÊMIO;Mané Garrincha;0;1;RJ;RS;RS
+17;31/08/2013;18:30;Sábado;Náutico;Athlético-PR;ATHLÉTICO-PR;Arena Pernambuco;1;4;PE;PR;PR
+17;31/08/2013;21:00;Sábado;Fluminense;Santos;SANTOS;Maracanã;0;2;RJ;SP;SP
+17;01/09/2013;16:00;Domingo;Vitória;Criciúma;CRICIÚMA;Barradão;0;1;ES;SC;SC
+10;03/09/2013;21:00;Terça-feira;Náutico;São Paulo;SÃO PAULO;Arena Pernambuco;0;1;PE;SP;SP
+18;04/09/2013;21:50;Quarta-feira;Bahia;Cruzeiro;CRUZEIRO;Fonte Nova;1;3;BA;MG;MG
+18;05/09/2013;21:00;Quinta-feira;São Paulo;Criciúma;CRICIÚMA;Morumbi;1;2;SP;SC;SC
+18;05/09/2013;21:00;Quinta-feira;Náutico;Vasco;VASCO;Arena Pernambuco;0;3;PE;RJ;RJ
+19;07/09/2013;18:30;Sábado;Ponte Preta;Internacional;INTERNACIONAL;Moisés Lucarelli;1;3;SP;RS;RS
+19;08/09/2013;18:30;Domingo;Criciúma;Botafogo-RJ;BOTAFOGO-RJ;Heriberto Hulse;1;2;SC;RJ;RJ
+10;10/09/2013;19:30;Terça-feira;Internacional;Santos;SANTOS;Estádio do Vale;1;2;RS;SP;SP
+20;11/09/2013;21:00;Quarta-feira;Goiás;Cruzeiro;CRUZEIRO;Serra Dourada;1;2;GO;MG;MG
+20;11/09/2013;21:50;Quarta-feira;Náutico;Grêmio;GRÊMIO;Arena Pernambuco;0;2;PE;RS;RS
+21;15/09/2013;18:30;Domingo;Grêmio;Atletico-MG;ATLETICO-MG;Arena do Grêmio;0;1;RS;MG;MG
+21;15/09/2013;18:30;Domingo;Santos;Botafogo-RJ;BOTAFOGO-RJ;Vila Belmiro;1;2;SP;RJ;RJ
+21;15/09/2013;16:00;Domingo;Corinthians;Goiás;GOIÁS;Pacaembu;1;2;SP;GO;GO
+21;15/09/2013;16:00;Domingo;Criciúma;Internacional;INTERNACIONAL;Heriberto Hulse;0;1;SC;RS;RS
+21;15/09/2013;16:00;Domingo;Vasco;São Paulo;SÃO PAULO;São Januário;0;2;RJ;SP;SP
+22;18/09/2013;21:00;Quarta-feira;Criciúma;Fluminense;FLUMINENSE;Heriberto Hulse;1;2;SC;RJ;RJ
+22;18/09/2013;19:30;Quarta-feira;Vasco;Vitória;VITÓRIA;São Januário;1;2;RJ;ES;ES
+22;19/09/2013;19:30;Quinta-feira;Flamengo;Athlético-PR;ATHLÉTICO-PR;Maracanã;2;4;RJ;PR;PR
+23;22/09/2013;16:00;Domingo;Botafogo-RJ;Bahia;BAHIA;Maracanã;1;2;RJ;BA;BA
+23;22/09/2013;16:00;Domingo;Internacional;Portuguesa;PORTUGUESA;Estádio do Vale;0;1;RS;SP;SP
+24;28/09/2013;18:30;Sábado;Goiás;Fluminense;FLUMINENSE;Serra Dourada;1;2;GO;RJ;RJ
+24;28/09/2013;21:00;Sábado;Botafogo-RJ;Ponte Preta;PONTE PRETA;Maracanã;0;1;RJ;SP;SP
+24;29/09/2013;18:30;Domingo;Internacional;Cruzeiro;CRUZEIRO;Estádio do Vale;1;2;RS;MG;MG
+24;29/09/2013;16:00;Domingo;São Paulo;Grêmio;GRÊMIO;Morumbi;0;1;SP;RS;RS
+24;29/09/2013;18:30;Domingo;Athlético-PR;Vitória;VITÓRIA;Vila Capanema;3;5;PR;ES;ES
+25;01/10/2013;19:30;Terça-feira;Ponte Preta;Náutico;NÁUTICO;Moisés Lucarelli;1;2;SP;PE;PE
+25;02/10/2013;21:50;Quarta-feira;Coritiba;Flamengo;FLAMENGO;Couto Pereira;0;2;PR;RJ;RJ
+26;05/10/2013;18:30;Sábado;Botafogo-RJ;Grêmio;GRÊMIO;Maracanã;0;1;RJ;RS;RS
+26;06/10/2013;16:00;Domingo;Náutico;Cruzeiro;CRUZEIRO;Arena Pernambuco;1;4;PE;MG;MG
+27;09/10/2013;21:50;Quarta-feira;Náutico;Botafogo-RJ;BOTAFOGO-RJ;Arena Pernambuco;1;3;PE;RJ;RJ
+27;09/10/2013;19:30;Quarta-feira;Grêmio;Criciúma;CRICIÚMA;Arena do Grêmio;1;2;RS;SC;SC
+27;09/10/2013;21:50;Quarta-feira;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;0;2;MG;SP;SP
+27;10/10/2013;19:30;Quinta-feira;Portuguesa;Goiás;GOIÁS;Canindé;1;2;SP;GO;GO
+29;16/10/2013;21:00;Quarta-feira;Criciúma;Portuguesa;PORTUGUESA;Heriberto Hulse;1;3;SC;SP;SP
+29;17/10/2013;19:30;Quinta-feira;Vasco;Goiás;GOIÁS;Moacyrzão;0;2;RJ;GO;GO
+30;19/10/2013;18:30;Sábado;Náutico;Santos;SANTOS;Arena Pernambuco;1;5;PE;SP;SP
+30;20/10/2013;17:00;Domingo;Bahia;São Paulo;SÃO PAULO;Fonte Nova;0;1;BA;SP;SP
+31;27/10/2013;19:30;Domingo;Náutico;Goiás;GOIÁS;Arena Pernambuco;0;2;PE;GO;GO
+31;27/10/2013;17:00;Domingo;Internacional;São Paulo;SÃO PAULO;Centenário;2;3;RS;SP;SP
+31;27/10/2013;19:30;Domingo;Fluminense;Vitória;VITÓRIA;Maracanã;2;3;RJ;ES;ES
+32;03/11/2013;18:00;Domingo;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;0;1;SP;MG;MG
+33;10/11/2013;20:30;Domingo;Náutico;Criciúma;CRICIÚMA;Arena Pernambuco;0;1;PE;SC;SC
+33;10/11/2013;18:00;Domingo;Ponte Preta;Vitória;VITÓRIA;Moisés Lucarelli;0;3;SP;ES;ES
+34;13/11/2013;22:50;Quarta-feira;Coritiba;Corinthians;CORINTHIANS;Couto Pereira;0;1;PR;SP;SP
+34;13/11/2013;22:50;Quarta-feira;Vitória;Cruzeiro;CRUZEIRO;Barradão;1;3;ES;MG;MG
+35;16/11/2013;22:00;Sábado;Coritiba;Criciúma;CRICIÚMA;Couto Pereira;1;2;PR;SC;SC
+35;17/11/2013;20:30;Domingo;Náutico;Bahia;BAHIA;Arena Pernambuco;0;1;PE;BA;BA
+37;01/12/2013;18:00;Domingo;Cruzeiro;Bahia;BAHIA;Mineirão;1;2;MG;BA;BA
+37;01/12/2013;18:00;Domingo;Ponte Preta;Portuguesa;PORTUGUESA;Moisés Lucarelli;0;2;SP;SP;SP
+38;08/12/2013;18:00;Domingo;São Paulo;Coritiba;CORITIBA;Novelli Júnior;0;1;SP;PR;PR
+38;08/12/2013;18:00;Domingo;Bahia;Fluminense;FLUMINENSE;Fonte Nova;1;2;BA;RJ;RJ
+38;08/12/2013;18:00;Domingo;Goiás;Santos;SANTOS;Serra Dourada;0;3;GO;SP;SP
+1;20/04/2014;16h00;Domingo;Bahia;Cruzeiro;CRUZEIRO;Fonte Nova;1;2;BA;MG;MG
+1;20/04/2014;18h30;Domingo;Criciúma;Palmeiras;PALMEIRAS;Heriberto Hulse;1;2;SC;SP;SP
+2;26/04/2014;21h00;Sábado;Palmeiras;Fluminense;FLUMINENSE;Pacaembu;0;1;SP;RJ;RJ
+2;27/04/2014;18h30;Domingo;Figueirense;Bahia;BAHIA;Arena Barueri;0;2;SC;BA;BA
+3;03/05/2014;18h30;Sábado;Athlético-PR;Cruzeiro;CRUZEIRO;Mané Garrincha;2;3;PR;MG;MG
+3;03/05/2014;21h00;Sábado;Fluminense;Vitória;VITÓRIA;Maracanã;1;2;RJ;ES;ES
+3;04/05/2014;18h30;Domingo;Chapecoense;Corinthians;CORINTHIANS;Arena Condá;0;1;SC;SP;SP
+3;04/05/2014;18h30;Domingo;Atletico-MG;Goiás;GOIÁS;Independência;0;1;MG;GO;GO
+4;11/05/2014;16h00;Domingo;Chapecoense;Grêmio;GRÊMIO;Arena Condá;1;2;SC;RS;RS
+4;11/05/2014;18h30;Domingo;Figueirense;Santos;SANTOS;Estádio do Café;0;2;SC;SP;SP
+4;11/05/2014;18h30;Domingo;Coritiba;Sport;SPORT;Couto Pereira;0;1;PR;PE;PE
+5;18/05/2014;18h30;Domingo;Santos;Atletico-MG;ATLETICO-MG;Arena Pantanal;1;2;SP;MG;MG
+5;18/05/2014;16h00;Domingo;Corinthians;Figueirense;FIGUEIRENSE;Arena Corinthians;0;1;SP;SC;SC
+5;18/05/2014;18h30;Domingo;Vitória;Palmeiras;PALMEIRAS;Pituaçu;0;1;ES;SP;SP
+5;18/05/2014;16h00;Domingo;Flamengo;São Paulo;SÃO PAULO;Maracanã;0;2;RJ;SP;SP
+6;22/05/2014;21h00;Quinta-feira;Vitória;Atletico-MG;ATLETICO-MG;Jóia da Princesa;2;3;ES;MG;MG
+7;24/05/2014;18h30;Sábado;Bahia;Fluminense;FLUMINENSE;Arena Barueri;0;1;BA;RJ;RJ
+7;25/05/2014;16h00;Domingo;Sport;Corinthians;CORINTHIANS;Ilha do Retiro;1;4;PE;SP;SP
+7;25/05/2014;18h30;Domingo;Internacional;Cruzeiro;CRUZEIRO;Centenário;1;3;RS;MG;MG
+7;25/05/2014;16h00;Domingo;Figueirense;Goiás;GOIÁS;Orlando Scarpelli;0;1;SC;GO;GO
+8;28/05/2014;19h30;Quarta-feira;Palmeiras;Botafogo-RJ;BOTAFOGO-RJ;Prudentão;0;2;SP;RJ;RJ
+8;29/05/2014;21h00;Quinta-feira;Bahia;Santos;SANTOS;Jóia da Princesa;0;2;BA;SP;SP
+9;31/05/2014;21h00;Sábado;Vitória;Sport;SPORT;Jóia da Princesa;0;1;ES;PE;PE
+9;01/06/2014;18h30;Domingo;Figueirense;Athlético-PR;ATHLÉTICO-PR;Orlando Scarpelli;1;3;SC;PR;PR
+10;16/07/2014;22h00;Quarta-feira;Flamengo;Athlético-PR;ATHLÉTICO-PR;Cláudio Moacyr;1;2;RJ;PR;PR
+10;16/07/2014;19h30;Quarta-feira;Coritiba;Figueirense;FIGUEIRENSE;Couto Pereira;0;2;PR;SC;SC
+10;16/07/2014;22h00;Quarta-feira;Bahia;São Paulo;SÃO PAULO;Fonte Nova;0;2;BA;SP;SP
+11;19/07/2014;18h30;Sábado;São Paulo;Chapecoense;CHAPECOENSE;Morumbi;0;1;SP;SC;SC
+11;19/07/2014;18h30;Sábado;Figueirense;Grêmio;GRÊMIO;Orlando Scarpelli;0;1;SC;RS;RS
+11;20/07/2014;16h00;Domingo;Palmeiras;Cruzeiro;CRUZEIRO;Pacaembu;1;2;SP;MG;MG
+12;26/07/2014;21h00;Sábado;Bahia;Internacional;INTERNACIONAL;Fonte Nova;0;1;BA;RS;RS
+12;26/07/2014;18h30;Sábado;Criciúma;Vitória;VITÓRIA;Heriberto Hulse;1;3;SC;ES;ES
+12;27/07/2014;18h30;Domingo;Grêmio;Coritiba;CORITIBA;Arena do Grêmio;2;3;RS;PR;PR
+12;27/07/2014;16h00;Domingo;Athlético-PR;Fluminense;FLUMINENSE;Arena da Baixada;0;3;PR;RJ;RJ
+14;10/08/2014;16h00;Domingo;Santos;Corinthians;CORINTHIANS;Vila Belmiro;0;1;SP;SP;SP
+14;10/08/2014;18h30;Domingo;Chapecoense;Figueirense;FIGUEIRENSE;Arena Condá;0;1;SC;SC;SC
+15;16/08/2014;18h30;Sábado;Goiás;Internacional;INTERNACIONAL;Serra Dourada;0;1;GO;RS;RS
+15;17/08/2014;16h00;Domingo;Coritiba;Flamengo;FLAMENGO;Couto Pereira;0;1;PR;RJ;RJ
+15;17/08/2014;16h00;Domingo;Palmeiras;São Paulo;SÃO PAULO;Pacaembu;1;2;SP;SP;SP
+16;20/08/2014;22h00;Quarta-feira;Internacional;São Paulo;SÃO PAULO;Beira Rio;0;1;RS;SP;SP
+17;24/08/2014;18h30;Domingo;Goiás;Cruzeiro;CRUZEIRO;Serra Dourada;0;1;GO;MG;MG
+17;24/08/2014;16h00;Domingo;Vitória;Figueirense;FIGUEIRENSE;Barradão;0;1;ES;SC;SC
+17;24/08/2014;16h00;Domingo;Criciúma;Flamengo;FLAMENGO;Heriberto Hulse;0;2;SC;RJ;RJ
+18;30/08/2014;18h30;Sábado;Palmeiras;Internacional;INTERNACIONAL;Pacaembu;0;1;SP;RS;RS
+18;31/08/2014;18h30;Domingo;Vitória;Flamengo;FLAMENGO;Barradão;1;2;ES;RJ;RJ
+19;06/09/2014;18h30;Sábado;Flamengo;Grêmio;GRÊMIO;Maracanã;0;1;RJ;RS;RS
+19;07/09/2014;18h30;Domingo;Internacional;Figueirense;FIGUEIRENSE;Beira Rio;2;3;RS;SC;SC
+20;10/09/2014;22h00;Quarta-feira;Botafogo-RJ;São Paulo;SÃO PAULO;Mané Garrincha;2;4;RJ;SP;SP
+22;17/09/2014;22h00;Quarta-feira;Botafogo-RJ;Bahia;BAHIA;Maracanã;2;3;RJ;BA;BA
+22;18/09/2014;19h30;Quinta-feira;Goiás;Atletico-MG;ATLETICO-MG;Serra Dourada;2;3;GO;MG;MG
+23;20/09/2014;18h30;Sábado;Athlético-PR;Internacional;INTERNACIONAL;Arena da Baixada;0;1;PR;RS;RS
+23;21/09/2014;16h00;Domingo;Cruzeiro;Atletico-MG;ATLETICO-MG;Mineirão;2;3;MG;MG;MG
+24;24/09/2014;19h30;Quarta-feira;Coritiba;Cruzeiro;CRUZEIRO;Couto Pereira;1;2;PR;MG;MG
+25;27/09/2014;21h00;Sábado;São Paulo;Fluminense;FLUMINENSE;Morumbi;1;3;SP;RJ;RJ
+25;28/09/2014;16h00;Domingo;Botafogo-RJ;Grêmio;GRÊMIO;Maracanã;0;2;RJ;RS;RS
+26;04/10/2014;16h20;Sábado;Flamengo;Santos;SANTOS;Maracanã;0;1;RJ;SP;SP
+26;04/10/2014;16h20;Sábado;Grêmio;São Paulo;SÃO PAULO;Arena do Grêmio;0;1;RS;SP;SP
+27;08/10/2014;22h00;Quarta-feira;Cruzeiro;Corinthians;CORINTHIANS;Mineirão;0;1;MG;SP;SP
+27;08/10/2014;22h00;Quarta-feira;Figueirense;Flamengo;FLAMENGO;Orlando Scarpelli;1;2;SC;RJ;RJ
+27;08/10/2014;19h30;Quarta-feira;Botafogo-RJ;Palmeiras;PALMEIRAS;Maracanã;0;1;RJ;SP;SP
+28;12/10/2014;16h00;Domingo;Bahia;Chapecoense;CHAPECOENSE;Fonte Nova;0;1;BA;SC;SC
+28;12/10/2014;18h30;Domingo;Sport;Vitória;VITÓRIA;Ilha do Retiro;1;2;PE;ES;ES
+29;19/10/2014;16h00;Domingo;Internacional;Corinthians;CORINTHIANS;Beira Rio;1;2;RS;SP;SP
+29;19/10/2014;18h30;Domingo;Vitória;Cruzeiro;CRUZEIRO;Barradão;0;1;ES;MG;MG
+29;19/10/2014;16h00;Domingo;Palmeiras;Santos;SANTOS;Pacaembu;1;3;SP;SP;SP
+30;22/10/2014;19h30;Quarta-feira;Criciúma;Athlético-PR;ATHLÉTICO-PR;Heriberto Hulse;0;1;SC;PR;PR
+30;22/10/2014;22h00;Quarta-feira;Santos;Fluminense;FLUMINENSE;Vila Belmiro;0;1;SP;RJ;RJ
+30;22/10/2014;22h30;Quarta-feira;Sport;Goiás;GOIÁS;Ilha do Retiro;0;1;PE;GO;GO
+32;01/11/2014;19h30;Sábado;Goiás;Fluminense;FLUMINENSE;Serra Dourada;0;2;GO;RJ;RJ
+32;02/11/2014;17h00;Domingo;Santos;Internacional;INTERNACIONAL;Vila Belmiro;1;2;SP;RS;RS
+32;02/11/2014;20h00;Domingo;Bahia;Palmeiras;PALMEIRAS;Fonte Nova;0;1;BA;SP;SP
+32;02/11/2014;17h00;Domingo;Criciúma;São Paulo;SÃO PAULO;Heriberto Hulse;1;2;SC;SP;SP
+33;08/11/2014;19h30;Sábado;Palmeiras;Atletico-MG;ATLETICO-MG;Pacaembu;0;2;SP;MG;MG
+33;08/11/2014;21h00;Sábado;Botafogo-RJ;Athlético-PR;ATHLÉTICO-PR;Raulino de Oliveira;0;2;RJ;PR;PR
+33;09/11/2014;17h00;Domingo;Vitória;São Paulo;SÃO PAULO;Barradão;1;2;ES;SP;SP
+34;15/11/2014;19h30;Sábado;Criciúma;Grêmio;GRÊMIO;Heriberto Hulse;0;3;SC;RS;RS
+34;16/11/2014;17h00;Domingo;Bahia;Corinthians;CORINTHIANS;Fonte Nova;1;2;BA;SP;SP
+34;16/11/2014;17h00;Domingo;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;0;1;SP;MG;MG
+34;16/11/2014;17h00;Domingo;Athlético-PR;Sport;SPORT;Arena da Baixada;0;1;PR;PE;PE
+34;16/11/2014;19h30;Domingo;Chapecoense;Vitória;VITÓRIA;Arena Condá;0;1;SC;ES;ES
+35;19/11/2014;21h00;Quarta-feira;Criciúma;Bahia;BAHIA;Heriberto Hulse;0;1;SC;BA;BA
+35;19/11/2014;21h00;Quarta-feira;Goiás;Corinthians;CORINTHIANS;Mangueirão;0;1;GO;SP;SP
+35;19/11/2014;19h30;Quarta-feira;Botafogo-RJ;Figueirense;FIGUEIRENSE;São Januário;0;1;RJ;SC;SC
+35;19/11/2014;22h00;Quarta-feira;Palmeiras;Sport;SPORT;Allianz Parque;0;2;SP;PE;PE
+35;20/11/2014;19h30;Quinta-feira;Fluminense;Chapecoense;CHAPECOENSE;Maracanã;1;4;RJ;SC;SC
+35;20/11/2014;21h50;Quinta-feira;Grêmio;Cruzeiro;CRUZEIRO;Arena do Grêmio;1;2;RS;MG;MG
+36;22/11/2014;21h00;Sábado;Bahia;Athlético-PR;ATHLÉTICO-PR;Fonte Nova;1;2;BA;PR;PR
+36;23/11/2014;17h00;Domingo;Santos;São Paulo;SÃO PAULO;Arena Pantanal;0;1;SP;SP;SP
+37;30/11/2014;19h30;Domingo;Atletico-MG;Coritiba;CORITIBA;Independência;1;2;MG;PR;PR
+38;06/12/2014;17h00;Sábado;Figueirense;Internacional;INTERNACIONAL;Orlando Scarpelli;1;2;SC;RS;RS
+38;07/12/2014;17h00;Domingo;Vitória;Santos;SANTOS;Barradão;0;1;ES;SP;SP
+1;10/05/2015;16h00;Domingo;Cruzeiro;Corinthians;CORINTHIANS;Arena Pantanal;0;1;MG;SP;SP
+3;24/05/2015;11h00;Domingo;Palmeiras;Goiás;GOIÁS;Allianz Parque;0;1;SP;GO;GO
+4;30/05/2015;21h00;Sábado;Joinville;Athlético-PR;ATHLÉTICO-PR;Arena Joinville;1;2;SC;PR;PR
+4;30/05/2015;18h30;Sábado;Coritiba;Avaí;AVAÍ;Couto Pereira;1;2;PR;SC;SC
+4;31/05/2015;18h30;Domingo;Flamengo;Fluminense;FLUMINENSE;Maracanã;2;3;RJ;RJ;RJ
+4;31/05/2015;16h00;Domingo;Corinthians;Palmeiras;PALMEIRAS;Arena Corinthians;0;2;SP;SP;SP
+5;03/06/2015;22h00;Quarta-feira;Avaí;Atletico-MG;ATLETICO-MG;Ressacada;1;4;SC;MG;MG
+5;03/06/2015;19h30;Quarta-feira;Vasco;Ponte Preta;PONTE PRETA;São Januário;0;3;RJ;SP;SP
+6;06/06/2015;22h00;Sábado;Joinville;Corinthians;CORINTHIANS;Arena Joinville;0;1;SC;SP;SP
+6;06/06/2015;18h30;Sábado;Atletico-MG;Cruzeiro;CRUZEIRO;Independência;1;3;MG;MG;MG
+6;07/06/2015;19h30;Domingo;Goiás;Avaí;AVAÍ;Serra Dourada;0;1;GO;SC;SC
+7;13/06/2015;21h00;Sábado;Vasco;Cruzeiro;CRUZEIRO;São Januário;1;3;RJ;MG;MG
+7;13/06/2015;16h20;Sábado;Coritiba;Flamengo;FLAMENGO;Couto Pereira;0;1;PR;RJ;RJ
+7;13/06/2015;16h20;Sábado;Chapecoense;São Paulo;SÃO PAULO;Arena Condá;0;1;SC;SP;SP
+8;20/06/2015;16h20;Sábado;Flamengo;Atletico-MG;ATLETICO-MG;Maracanã;0;2;RJ;MG;MG
+8;21/06/2015;11h00;Domingo;Cruzeiro;Chapecoense;CHAPECOENSE;Mineirão;0;1;MG;SC;SC
+9;27/06/2015;16h00;Sábado;Avaí;Grêmio;GRÊMIO;Ressacada;1;2;SC;RS;RS
+9;28/06/2015;16h00;Domingo;Goiás;Fluminense;FLUMINENSE;Serra Dourada;1;2;GO;RJ;RJ
+10;01/07/2015;22h00;Quarta-feira;Joinville;Flamengo;FLAMENGO;Arena Joinville;0;1;SC;RJ;RJ
+11;05/07/2015;18h30;Domingo;Internacional;Atletico-MG;ATLETICO-MG;Beira Rio;1;3;RS;MG;MG
+11;05/07/2015;18h30;Domingo;Flamengo;Figueirense;FIGUEIRENSE;Maracanã;1;2;RJ;SC;SC
+11;05/07/2015;16h00;Domingo;Santos;Grêmio;GRÊMIO;Vila Belmiro;1;3;SP;RS;RS
+11;05/07/2015;18h30;Domingo;Ponte Preta;Palmeiras;PALMEIRAS;Arena Pantanal;0;2;SP;SP;SP
+12;08/07/2015;22h00;Quarta-feira;Internacional;Flamengo;FLAMENGO;Beira Rio;1;2;RS;RJ;RJ
+12;08/07/2015;21h00;Quarta-feira;Figueirense;Joinville;JOINVILLE;Orlando Scarpelli;0;2;SC;SC;SC
+12;08/07/2015;22h00;Quarta-feira;Vasco;São Paulo;SÃO PAULO;Mané Garrincha;0;4;RJ;SP;SP
+13;11/07/2015;21h00;Sábado;Ponte Preta;Atletico-MG;ATLETICO-MG;Moisés Lucarelli;0;2;SP;MG;MG
+13;12/07/2015;16h00;Domingo;Flamengo;Corinthians;CORINTHIANS;Maracanã;0;3;RJ;SP;SP
+13;12/07/2015;16h00;Domingo;Athlético-PR;Fluminense;FLUMINENSE;Arena da Baixada;1;2;PR;RJ;RJ
+13;12/07/2015;16h00;Domingo;Joinville;Internacional;INTERNACIONAL;Arena Joinville;0;2;SC;RS;RS
+14;19/07/2015;16h00;Domingo;Fluminense;Vasco;VASCO;Maracanã;1;2;RJ;RJ;RJ
+15;25/07/2015;18h30;Sábado;Avaí;Athlético-PR;ATHLÉTICO-PR;Ressacada;1;2;SC;PR;PR
+15;26/07/2015;16h00;Domingo;Goiás;Flamengo;FLAMENGO;Serra Dourada;0;1;GO;RJ;RJ
+15;26/07/2015;18h30;Domingo;Vasco;Palmeiras;PALMEIRAS;São Januário;1;4;RJ;SP;SP
+16;02/08/2015;11h00;Domingo;Palmeiras;Athlético-PR;ATHLÉTICO-PR;Allianz Parque;0;1;SP;PR;PR
+18;12/08/2015;22h00;Quarta-feira;Figueirense;São Paulo;SÃO PAULO;Orlando Scarpelli;0;2;SC;SP;SP
+18;13/08/2015;21h00;Quinta-feira;Atletico-MG;Grêmio;GRÊMIO;Mineirão;0;2;MG;RS;RS
+19;15/08/2015;18h30;Sábado;Vasco;Coritiba;CORITIBA;Maracanã;0;1;RJ;PR;PR
+19;15/08/2015;21h00;Sábado;São Paulo;Goiás;GOIÁS;Morumbi;0;3;SP;GO;GO
+19;16/08/2015;16h00;Domingo;Avaí;Corinthians;CORINTHIANS;Ressacada;1;2;SC;SP;SP
+21;29/08/2015;18h30;Sábado;Vasco;Figueirense;FIGUEIRENSE;Maracanã;0;1;RJ;SC;SC
+21;30/08/2015;16h00;Domingo;Fluminense;Atletico-MG;ATLETICO-MG;Maracanã;1;2;RJ;MG;MG
+21;30/08/2015;16h00;Domingo;Chapecoense;Corinthians;CORINTHIANS;Arena Condá;1;3;SC;SP;SP
+21;30/08/2015;16h00;Domingo;Sport;Flamengo;FLAMENGO;Arena Pernambuco;0;1;PE;RJ;RJ
+21;30/08/2015;18h30;Domingo;Cruzeiro;Santos;SANTOS;Mineirão;0;1;MG;SP;SP
+22;02/09/2015;21h00;Quarta-feira;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Independência;0;1;MG;PR;PR
+22;02/09/2015;19h30;Quarta-feira;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;1;2;SP;MG;MG
+22;03/09/2015;21h00;Quinta-feira;Figueirense;Grêmio;GRÊMIO;Orlando Scarpelli;0;2;SC;RS;RS
+23;05/09/2015;19h30;Sábado;Vasco;Atletico-MG;ATLETICO-MG;Maracanã;1;2;RJ;MG;MG
+23;06/09/2015;16h00;Domingo;Avaí;Coritiba;CORITIBA;Ressacada;0;2;SC;PR;PR
+23;06/09/2015;16h00;Domingo;Fluminense;Flamengo;FLAMENGO;Maracanã;1;3;RJ;RJ;RJ
+24;09/09/2015;19h30;Quarta-feira;Ponte Preta;Vasco;VASCO;Moisés Lucarelli;0;1;SP;RJ;RJ
+25;12/09/2015;18h30;Sábado;Coritiba;Internacional;INTERNACIONAL;Couto Pereira;0;1;PR;RS;RS
+25;13/09/2015;16h00;Domingo;Chapecoense;Flamengo;FLAMENGO;Arena Condá;1;3;SC;RJ;RJ
+25;13/09/2015;16h00;Domingo;Grêmio;São Paulo;SÃO PAULO;Arena do Grêmio;1;2;RS;SP;SP
+26;16/09/2015;21h00;Quarta-feira;Figueirense;Avaí;AVAÍ;Orlando Scarpelli;0;1;SC;SC;SC
+26;16/09/2015;21h00;Quarta-feira;Athlético-PR;Grêmio;GRÊMIO;Couto Pereira;1;2;PR;RS;RS
+26;16/09/2015;19h30;Quarta-feira;Fluminense;Palmeiras;PALMEIRAS;Maracanã;1;4;RJ;SP;SP
+26;16/09/2015;19h30;Quarta-feira;Goiás;Ponte Preta;PONTE PRETA;Serra Dourada;1;2;GO;SP;SP
+26;17/09/2015;21h00;Quinta-feira;Flamengo;Coritiba;CORITIBA;Mané Garrincha;0;2;RJ;PR;PR
+27;20/09/2015;18h30;Domingo;Chapecoense;Cruzeiro;CRUZEIRO;Arena Condá;0;2;SC;MG;MG
+28;27/09/2015;16h00;Domingo;Figueirense;Corinthians;CORINTHIANS;Orlando Scarpelli;1;3;SC;SP;SP
+28;27/09/2015;11h00;Domingo;Athlético-PR;Ponte Preta;PONTE PRETA;Arena da Baixada;1;2;PR;SP;SP
+28;27/09/2015;16h00;Domingo;Flamengo;Vasco;VASCO;Maracanã;1;2;RJ;RJ;RJ
+29;03/10/2015;18h30;Sábado;Coritiba;Atletico-MG;ATLETICO-MG;Couto Pereira;0;3;PR;MG;MG
+29;04/10/2015;16h00;Domingo;Goiás;Figueirense;FIGUEIRENSE;Serra Dourada;2;3;GO;SC;SC
+30;14/10/2015;21h00;Quarta-feira;Palmeiras;Ponte Preta;PONTE PRETA;Allianz Parque;0;1;SP;SP;SP
+31;17/10/2015;18h30;Sábado;Avaí;Palmeiras;PALMEIRAS;Ressacada;1;3;SC;SP;SP
+31;18/10/2015;17h00;Domingo;Grêmio;Chapecoense;CHAPECOENSE;Arena do Grêmio;2;3;RS;SC;SC
+31;18/10/2015;16h00;Domingo;Athlético-PR;Corinthians;CORINTHIANS;Arena da Baixada;1;4;PR;SP;SP
+31;18/10/2015;16h00;Domingo;Flamengo;Internacional;INTERNACIONAL;Maracanã;0;1;RJ;RS;RS
+32;24/10/2015;17h00;Sábado;Fluminense;Athlético-PR;ATHLÉTICO-PR;Maracanã;0;1;RJ;PR;PR
+32;24/10/2015;21h00;Sábado;Palmeiras;Sport;SPORT;Pacaembu;0;2;SP;PE;PE
+32;25/10/2015;18h00;Domingo;Goiás;Cruzeiro;CRUZEIRO;Serra Dourada;0;1;GO;MG;MG
+32;25/10/2015;17h00;Domingo;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;1;2;PR;SP;SP
+33;01/11/2015;17h00;Domingo;Atletico-MG;Corinthians;CORINTHIANS;Independência;0;3;MG;SP;SP
+33;01/11/2015;18h00;Domingo;Vasco;Fluminense;FLUMINENSE;Engenhão;0;1;RJ;RJ;RJ
+34;07/11/2015;21h00;Sábado;Fluminense;Chapecoense;CHAPECOENSE;Maracanã;2;3;RJ;SC;SC
+34;08/11/2015;17h00;Domingo;Figueirense;Atletico-MG;ATLETICO-MG;Orlando Scarpelli;0;1;SC;MG;MG
+34;08/11/2015;17h00;Domingo;Palmeiras;Vasco;VASCO;Allianz Parque;0;2;SP;RJ;RJ
+35;18/11/2015;19h30;Quarta-feira;Goiás;Coritiba;CORITIBA;Serra Dourada;1;3;GO;PR;PR
+35;18/11/2015;21h00;Quarta-feira;Ponte Preta;Figueirense;FIGUEIRENSE;Moisés Lucarelli;0;1;SP;SC;SC
+36;22/11/2015;17h00;Domingo;Joinville;Vasco;VASCO;Arena Joinville;1;2;SC;RJ;RJ
+37;29/11/2015;18h00;Domingo;Palmeiras;Coritiba;CORITIBA;Allianz Parque;0;2;SP;PR;PR
+37;29/11/2015;18h00;Domingo;Chapecoense;Goiás;GOIÁS;Arena Condá;1;3;SC;GO;GO
+38;06/12/2015;;Domingo;Joinville;Grêmio;GRÊMIO;Arena Joinville;0;2;SC;RS;RS
+38;06/12/2015;;Domingo;Flamengo;Palmeiras;PALMEIRAS;Maracanã;1;2;RJ;SP;SP
+38;06/12/2015;;Domingo;Goiás;São Paulo;SÃO PAULO;Serra Dourada;0;1;GO;SP;SP
+38;06/12/2015;;Domingo;Ponte Preta;Sport;SPORT;Moisés Lucarelli;0;1;SP;PE;PE
+1;15/05/2016;16:00;Domingo;América-MG;Fluminense;FLUMINENSE;Independência;0;1;MG;RJ;RJ
+1;15/05/2016;11:00;Domingo;Botafogo-RJ;São Paulo;SÃO PAULO;Raulino de Oliveira;0;1;RJ;SP;SP
+2;22/05/2016;16:00;Domingo;São Paulo;Internacional;INTERNACIONAL;Morumbi;1;2;SP;RS;RS
+3;26/05/2016;21:00;Quinta-feira;Atletico-MG;Grêmio;GRÊMIO;Independência;0;3;MG;RS;RS
+4;29/05/2016;11:00;Domingo;Sport;Corinthians;CORINTHIANS;Ilha do Retiro;0;2;PE;SP;SP
+4;29/05/2016;11:00;Domingo;Ponte Preta;Flamengo;FLAMENGO;Moisés Lucarelli;1;2;SP;RJ;RJ
+4;29/05/2016;18:30;Domingo;Santos;Internacional;INTERNACIONAL;Vila Belmiro;0;1;SP;RS;RS
+5;01/06/2016;21:00;Quarta-feira;Coritiba;Chapecoense;CHAPECOENSE;Vila Capanema;3;4;PR;SC;SC
+5;01/06/2016;21:45;Quarta-feira;Botafogo-RJ;Cruzeiro;CRUZEIRO;Mané Garrincha;0;1;RJ;MG;MG
+5;01/06/2016;21:00;Quarta-feira;Santa Cruz;Sport;SPORT;Arruda;0;1;PE;PE;PE
+5;02/06/2016;19:30;Quinta-feira;América-MG;Ponte Preta;PONTE PRETA;Independência;1;2;MG;SP;SP
+6;05/06/2016;16:00;Domingo;Flamengo;Palmeiras;PALMEIRAS;Mané Garrincha;1;2;RJ;SP;SP
+6;05/06/2016;18:30;Domingo;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;0;1;MG;SP;SP
+7;11/06/2016;21:00;Sábado;São Paulo;Athlético-PR;ATHLÉTICO-PR;Morumbi;1;2;SP;PR;PR
+7;12/06/2016;16:00;Domingo;Atletico-MG;Cruzeiro;CRUZEIRO;Independência;2;3;MG;MG;MG
+7;12/06/2016;19:00;Domingo;Santa Cruz;Santos;SANTOS;Arruda;0;2;PE;SP;SP
+8;15/06/2016;21:45;Quarta-feira;Cruzeiro;Flamengo;FLAMENGO;Mineirão;0;1;MG;RJ;RJ
+9;19/06/2016;11:00;Domingo;Vitória;Chapecoense;CHAPECOENSE;Barradão;1;2;ES;SC;SC
+10;22/06/2016;19:30;Quarta-feira;Ponte Preta;Cruzeiro;CRUZEIRO;Moisés Lucarelli;0;4;SP;MG;MG
+10;22/06/2016;21:00;Quarta-feira;Santa Cruz;Flamengo;FLAMENGO;Arruda;0;1;PE;RJ;RJ
+10;22/06/2016;21:45;Quarta-feira;Fluminense;Santos;SANTOS;Kléber Andrade;2;4;RJ;SP;SP
+10;23/06/2016;19:15;Quinta-feira;Grêmio;Vitória;VITÓRIA;Arena do Grêmio;1;2;RS;ES;ES
+11;26/06/2016;11:00;Domingo;América-MG;Atletico-MG;ATLETICO-MG;Independência;0;1;MG;MG;MG
+11;26/06/2016;16:00;Domingo;Internacional;Botafogo-RJ;BOTAFOGO-RJ;Beira Rio;2;3;RS;RJ;RJ
+11;26/06/2016;16:00;Domingo;Flamengo;Fluminense;FLUMINENSE;Arena das Dunas;1;2;RJ;RJ;RJ
+12;29/06/2016;21:45;Quarta-feira;América-MG;Corinthians;CORINTHIANS;Independência;0;2;MG;SP;SP
+12;30/06/2016;19:30;Quinta-feira;Santa Cruz;Ponte Preta;PONTE PRETA;Arruda;0;3;PE;SP;SP
+13;03/07/2016;11:00;Domingo;Internacional;Grêmio;GRÊMIO;Beira Rio;0;1;RS;RS;RS
+13;04/07/2016;20:00;Segunda-feira;Sport;Palmeiras;PALMEIRAS;Ilha do Retiro;1;3;PE;SP;SP
+14;09/07/2016;16:30;Sábado;Chapecoense;Corinthians;CORINTHIANS;Arena Condá;0;2;SC;SP;SP
+14;11/07/2016;20:00;Segunda-feira;Cruzeiro;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;3;MG;PR;PR
+15;17/07/2016;16:00;Domingo;Internacional;Palmeiras;PALMEIRAS;Beira Rio;0;1;RS;SP;SP
+15;17/07/2016;11:00;Domingo;América-MG;Santa Cruz;SANTA CRUZ;Independência;0;3;MG;PE;PE
+16;23/07/2016;18:30;Sábado;Santa Cruz;Coritiba;CORITIBA;Arruda;0;1;PE;PR;PR
+16;24/07/2016;11:00;Domingo;Palmeiras;Atletico-MG;ATLETICO-MG;Palestra Itália;0;1;SP;MG;MG
+16;24/07/2016;18:30;Domingo;Vitória;Santos;SANTOS;Barradão;2;3;ES;SP;SP
+16;24/07/2016;16:00;Domingo;Cruzeiro;Sport;SPORT;Mineirão;1;2;MG;PE;PE
+17;31/07/2016;16:00;Domingo;Internacional;Corinthians;CORINTHIANS;Beira Rio;0;1;RS;SP;SP
+17;31/07/2016;16:00;Domingo;Coritiba;Flamengo;FLAMENGO;Couto Pereira;0;2;PR;RJ;RJ
+18;04/08/2016;19:30;Quinta-feira;São Paulo;Atletico-MG;ATLETICO-MG;Morumbi;1;2;SP;MG;MG
+19;07/08/2016;16:15;Domingo;Santa Cruz;São Paulo;SÃO PAULO;Arruda;1;2;PE;SP;SP
+20;14/08/2016;16:15;Domingo;São Paulo;Botafogo-RJ;BOTAFOGO-RJ;Morumbi;0;1;SP;RJ;RJ
+20;14/08/2016;18:30;Domingo;Athlético-PR;Palmeiras;PALMEIRAS;Arena da Baixada;0;1;PR;SP;SP
+21;19/08/2016;21:30;Sexta-feira;América-MG;Chapecoense;CHAPECOENSE;Independência;1;2;MG;SC;SC
+21;21/08/2016;18:30;Domingo;Figueirense;Cruzeiro;CRUZEIRO;Orlando Scarpelli;1;2;SC;MG;MG
+21;21/08/2016;16:00;Domingo;Santa Cruz;Fluminense;FLUMINENSE;Arruda;0;1;PE;RJ;RJ
+22;28/08/2016;11:00;Domingo;Santos;Figueirense;FIGUEIRENSE;Vila Belmiro;0;1;SP;SC;SC
+22;28/08/2016;16:00;Domingo;Chapecoense;Flamengo;FLAMENGO;Arena Condá;1;3;SC;RJ;RJ
+22;28/08/2016;16:00;Domingo;Fluminense;Palmeiras;PALMEIRAS;Mané Garrincha;0;2;RJ;SP;SP
+23;08/09/2016;21:00;Quinta-feira;América-MG;Cruzeiro;CRUZEIRO;Independência;0;2;MG;MG;MG
+24;10/09/2016;18:30;Sábado;Vitória;Flamengo;FLAMENGO;Barradão;1;2;ES;RJ;RJ
+24;11/09/2016;16:00;Domingo;Cruzeiro;Botafogo-RJ;BOTAFOGO-RJ;Mineirão;0;2;MG;RJ;RJ
+25;14/09/2016;19:30;Quarta-feira;Botafogo-RJ;Santos;SANTOS;Luso Brasileiro;0;1;RJ;SP;SP
+25;15/09/2016;19:30;Quinta-feira;Fluminense;Chapecoense;CHAPECOENSE;Edson Passos;1;2;RJ;SC;SC
+25;15/09/2016;21:00;Quinta-feira;Internacional;Vitória;VITÓRIA;Beira Rio;0;1;RS;ES;ES
+26;17/09/2016;16:00;Sábado;Corinthians;Palmeiras;PALMEIRAS;Arena Corinthians;0;2;SP;SP;SP
+26;18/09/2016;18:30;Domingo;Vitória;Botafogo-RJ;BOTAFOGO-RJ;Barradão;0;1;ES;RJ;RJ
+26;18/09/2016;16:00;Domingo;Sport;Coritiba;CORITIBA;Ilha do Retiro;0;1;PE;PR;PR
+26;18/09/2016;16:00;Domingo;Grêmio;Fluminense;FLUMINENSE;Arena do Grêmio;0;1;RS;RJ;RJ
+27;25/09/2016;16:00;Domingo;Corinthians;Fluminense;FLUMINENSE;Arena Corinthians;0;1;SP;RJ;RJ
+28;01/10/2016;16:30;Sábado;Ponte Preta;Atletico-MG;ATLETICO-MG;Moisés Lucarelli;1;2;SP;MG;MG
+28;01/10/2016;16:00;Sábado;Chapecoense;Vitória;VITÓRIA;Arena Condá;1;4;SC;ES;ES
+28;03/10/2016;20:00;Segunda-feira;Santa Cruz;Palmeiras;PALMEIRAS;Arruda;2;3;PE;SP;SP
+29;05/10/2016;19:30;Quarta-feira;Vitória;Grêmio;GRÊMIO;Fonte Nova;0;1;ES;RS;RS
+29;09/10/2016;17:00;Domingo;Figueirense;Botafogo-RJ;BOTAFOGO-RJ;Orlando Scarpelli;0;1;SC;RJ;RJ
+29;09/10/2016;17:00;Domingo;América-MG;Palmeiras;PALMEIRAS;Estádio do Café;0;2;MG;SP;SP
+30;12/10/2016;21:45;Quarta-feira;Santa Cruz;Corinthians;CORINTHIANS;Arena Pantanal;2;4;PE;SP;SP
+30;13/10/2016;21:00;Quinta-feira;Fluminense;Flamengo;FLAMENGO;Raulino de Oliveira;1;2;RJ;RJ;RJ
+30;13/10/2016;21:00;Quinta-feira;São Paulo;Santos;SANTOS;Pacaembu;0;1;SP;SP;SP
+31;16/10/2016;17:00;Domingo;Figueirense;Palmeiras;PALMEIRAS;Orlando Scarpelli;1;2;SC;SP;SP
+31;17/10/2016;20:00;Segunda-feira;Fluminense;São Paulo;SÃO PAULO;Edson Passos;1;2;RJ;SP;SP
+32;19/10/2016;21:45;Quarta-feira;Santa Cruz;Botafogo-RJ;BOTAFOGO-RJ;Arruda;0;1;PE;RJ;RJ
+32;23/10/2016;17:00;Domingo;Vitória;Cruzeiro;CRUZEIRO;Barradão;0;1;ES;MG;MG
+32;23/10/2016;19:30;Domingo;Chapecoense;Santos;SANTOS;Arena Condá;0;1;SC;SP;SP
+34;06/11/2016;11:00;Domingo;Ponte Preta;Santos;SANTOS;Moisés Lucarelli;1;2;SP;SP;SP
+34;07/11/2016;20:00;Segunda-feira;Grêmio;Sport;SPORT;Arena do Grêmio;0;3;RS;PE;PE
+35;16/11/2016;19:30;Quarta-feira;Botafogo-RJ;Chapecoense;CHAPECOENSE;Luso Brasileiro;0;2;RJ;SC;SC
+35;16/11/2016;21:45;Quarta-feira;Sport;Cruzeiro;CRUZEIRO;Ilha do Retiro;0;1;PE;MG;MG
+35;16/11/2016;21:45;Quarta-feira;América-MG;Flamengo;FLAMENGO;Mineirão;0;1;MG;RJ;RJ
+37;27/11/2016;17:00;Domingo;Atletico-MG;São Paulo;SÃO PAULO;Independência;1;2;MG;SP;SP
+37;28/11/2016;20:00;Segunda-feira;Coritiba;Vitória;VITÓRIA;Couto Pereira;0;1;PR;ES;ES
+38;11/12/2016;17:00;Domingo;Grêmio;Botafogo-RJ;BOTAFOGO-RJ;Arena do Grêmio;0;1;RS;RJ;RJ
+38;11/12/2016;17:00;Domingo;Vitória;Palmeiras;PALMEIRAS;Barradão;1;2;ES;SP;SP
+2;20/05/2017;19:00;Sábado;Atlético-GO;Flamengo;FLAMENGO;Serra Dourada;0;3;GO;RJ;RJ
+2;21/05/2017;16:00;Domingo;Vitória;Corinthians;CORINTHIANS;Fonte Nova;0;1;ES;SP;SP
+2;21/05/2017;16:00;Domingo;Atletico-MG;Fluminense;FLUMINENSE;Independência;1;2;MG;RJ;RJ
+2;21/05/2017;16:00;Domingo;Athlético-PR;Grêmio;GRÊMIO;Arena da Baixada;0;2;PR;RS;RS
+3;27/05/2017;21:00;Sábado;Vitória;Coritiba;CORITIBA;Fonte Nova;0;1;ES;PR;PR
+3;28/05/2017;16:00;Domingo;Atlético-GO;Corinthians;CORINTHIANS;Serra Dourada;0;1;GO;SP;SP
+3;28/05/2017;16:00;Domingo;Santos;Cruzeiro;CRUZEIRO;Vila Belmiro;0;1;SP;MG;MG
+4;04/06/2017;19:00;Domingo;Cruzeiro;Chapecoense;CHAPECOENSE;Mineirão;0;2;MG;SC;SC
+5;07/06/2017;21:45;Quarta-feira;Vasco;Corinthians;CORINTHIANS;São Januário;2;5;RJ;SP;SP
+5;08/06/2017;20:00;Quinta-feira;Chapecoense;Grêmio;GRÊMIO;Arena Condá;3;6;SC;RS;RS
+6;11/06/2017;19:00;Domingo;Athlético-PR;Santos;SANTOS;Arena da Baixada;0;2;PR;SP;SP
+7;14/06/2017;19:30;Quarta-feira;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Independência;0;1;MG;PR;PR
+7;15/06/2017;21:00;Quinta-feira;Fluminense;Grêmio;GRÊMIO;Maracanã;0;2;RJ;RS;RS
+8;17/06/2017;16:00;Sábado;Atlético-GO;Athlético-PR;ATHLÉTICO-PR;Olímpico Monumental;0;1;GO;PR;PR
+8;18/06/2017;16:00;Domingo;São Paulo;Atletico-MG;ATLETICO-MG;Morumbi;1;2;SP;MG;MG
+8;18/06/2017;16:00;Domingo;Chapecoense;Botafogo-RJ;BOTAFOGO-RJ;Arena Condá;0;2;SC;RJ;RJ
+8;18/06/2017;16:00;Domingo;Bahia;Palmeiras;PALMEIRAS;Fonte Nova;2;4;BA;SP;SP
+8;18/06/2017;19:00;Domingo;Sport;Vitória;VITÓRIA;Ilha do Retiro;1;3;PE;ES;ES
+9;21/06/2017;21:45;Quarta-feira;Avaí;Fluminense;FLUMINENSE;Ressacada;0;3;SC;RJ;RJ
+9;21/06/2017;19:30;Quarta-feira;Vitória;Santos;SANTOS;Barradão;0;2;ES;SP;SP
+10;24/06/2017;19:00;Sábado;Santos;Sport;SPORT;Vila Belmiro;0;1;SP;PE;PE
+10;25/06/2017;19:00;Domingo;Chapecoense;Atletico-MG;ATLETICO-MG;Arena Condá;0;1;SC;MG;MG
+10;25/06/2017;16:00;Domingo;Grêmio;Corinthians;CORINTHIANS;Arena do Grêmio;0;1;RS;SP;SP
+10;25/06/2017;18:30;Domingo;Bahia;Flamengo;FLAMENGO;Fonte Nova;0;1;BA;RJ;RJ
+10;25/06/2017;16:00;Domingo;Ponte Preta;Palmeiras;PALMEIRAS;Moisés Lucarelli;1;2;SP;SP;SP
+10;26/06/2017;20:00;Segunda-feira;Botafogo-RJ;Avaí;AVAÍ;Engenhão;0;2;RJ;SC;SC
+12;08/07/2017;18:00;Sábado;Vasco;Flamengo;FLAMENGO;São Januário;0;1;RJ;RJ;RJ
+12;08/07/2017;16:00;Sábado;Atlético-GO;Vitória;VITÓRIA;Olímpico Monumental;1;2;GO;ES;ES
+12;09/07/2017;16:00;Domingo;Grêmio;Avaí;AVAÍ;Arena do Grêmio;0;2;RS;SC;SC
+12;10/07/2017;20:00;Segunda-feira;Coritiba;Sport;SPORT;Couto Pereira;0;3;PR;PE;PE
+13;12/07/2017;19:30;Quarta-feira;Ponte Preta;Bahia;BAHIA;Moisés Lucarelli;0;3;SP;BA;BA
+13;12/07/2017;21:00;Quarta-feira;Fluminense;Botafogo-RJ;BOTAFOGO-RJ;Maracanã;0;1;RJ;RJ;RJ
+13;12/07/2017;21:45;Quarta-feira;Palmeiras;Corinthians;CORINTHIANS;Palestra Itália;0;2;SP;SP;SP
+13;12/07/2017;21:45;Quarta-feira;Athlético-PR;Cruzeiro;CRUZEIRO;Arena da Baixada;0;2;PR;MG;MG
+13;12/07/2017;19:30;Quarta-feira;Atletico-MG;Santos;SANTOS;Independência;0;1;MG;SP;SP
+13;12/07/2017;21:45;Quarta-feira;Vitória;Vasco;VASCO;Barradão;1;4;ES;RJ;RJ
+13;13/07/2017;21:00;Quinta-feira;Avaí;Coritiba;CORITIBA;Ressacada;1;4;SC;PR;PR
+13;13/07/2017;19:30;Quinta-feira;Flamengo;Grêmio;GRÊMIO;Luso Brasileiro;0;1;RJ;RS;RS
+14;16/07/2017;16:00;Domingo;Atlético-GO;Atletico-MG;ATLETICO-MG;Olímpico Monumental;1;2;GO;MG;MG
+14;16/07/2017;19:00;Domingo;Coritiba;Fluminense;FLUMINENSE;Couto Pereira;1;2;PR;RJ;RJ
+15;19/07/2017;21:45;Quarta-feira;Atletico-MG;Bahia;BAHIA;Independência;0;2;MG;BA;BA
+15;19/07/2017;19:30;Quarta-feira;Vitória;Grêmio;GRÊMIO;Barradão;1;3;ES;RS;RS
+16;22/07/2017;16:00;Sábado;Vitória;Chapecoense;CHAPECOENSE;Barradão;1;2;ES;SC;SC
+16;23/07/2017;16:00;Domingo;Fluminense;Corinthians;CORINTHIANS;Maracanã;0;1;RJ;SP;SP
+16;23/07/2017;16:00;Domingo;Sport;Palmeiras;PALMEIRAS;Arena Pernambuco;0;2;PE;SP;SP
+16;23/07/2017;19:00;Domingo;Athlético-PR;Ponte Preta;PONTE PRETA;Arena da Baixada;0;2;PR;SP;SP
+16;23/07/2017;19:00;Domingo;Atletico-MG;Vasco;VASCO;Independência;1;2;MG;RJ;RJ
+17;29/07/2017;16:00;Sábado;Botafogo-RJ;São Paulo;SÃO PAULO;Engenhão;3;4;RJ;SP;SP
+17;30/07/2017;11:00;Domingo;Chapecoense;Atlético-GO;ATLÉTICO-GO;Arena Condá;1;2;SC;GO;GO
+17;30/07/2017;16:00;Domingo;Coritiba;Atletico-MG;ATLETICO-MG;Couto Pereira;0;2;PR;MG;MG
+17;30/07/2017;16:00;Domingo;Bahia;Sport;SPORT;Fonte Nova;1;3;BA;PE;PE
+17;31/07/2017;20:00;Segunda-feira;Vasco;Athlético-PR;ATHLÉTICO-PR;Raulino de Oliveira;0;1;RJ;PR;PR
+18;02/08/2017;21:00;Quarta-feira;Atletico-MG;Corinthians;CORINTHIANS;Mineirão;0;2;MG;SP;SP
+18;02/08/2017;21:45;Quarta-feira;Atlético-GO;Grêmio;GRÊMIO;Olímpico Monumental;0;1;GO;RS;RS
+18;02/08/2017;21:45;Quarta-feira;Botafogo-RJ;Palmeiras;PALMEIRAS;Engenhão;1;2;RJ;SP;SP
+18;03/08/2017;19:30;Quinta-feira;São Paulo;Coritiba;CORITIBA;Morumbi;1;2;SP;PR;PR
+18;03/08/2017;20:00;Quinta-feira;Vasco;Cruzeiro;CRUZEIRO;Raulino de Oliveira;0;3;RJ;MG;MG
+19;06/08/2017;16:00;Domingo;Palmeiras;Athlético-PR;ATHLÉTICO-PR;Palestra Itália;0;1;SP;PR;PR
+19;06/08/2017;11:00;Domingo;Flamengo;Vitória;VITÓRIA;Luso Brasileiro;0;2;RJ;ES;ES
+20;12/08/2017;19:00;Sábado;Vitória;Avaí;AVAÍ;Barradão;0;1;ES;SC;SC
+21;19/08/2017;16:00;Sábado;Corinthians;Vitória;VITÓRIA;Arena Corinthians;0;1;SP;ES;ES
+21;20/08/2017;19:00;Domingo;Palmeiras;Chapecoense;CHAPECOENSE;Palestra Itália;0;2;SP;SC;SC
+20;23/08/2017;19:30;Quarta-feira;Chapecoense;Corinthians;CORINTHIANS;Arena Condá;0;1;SC;SP;SP
+22;26/08/2017;19:00;Sábado;Corinthians;Atlético-GO;ATLÉTICO-GO;Arena Corinthians;0;1;SP;GO;GO
+22;26/08/2017;16:00;Sábado;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+22;27/08/2017;16:00;Domingo;Ponte Preta;Atletico-MG;ATLETICO-MG;Moisés Lucarelli;1;2;SP;MG;MG
+22;27/08/2017;16:00;Domingo;Bahia;Botafogo-RJ;BOTAFOGO-RJ;Fonte Nova;1;2;BA;RJ;RJ
+22;28/08/2017;20:00;Segunda-feira;Coritiba;Vitória;VITÓRIA;Couto Pereira;0;1;PR;ES;ES
+23;10/09/2017;16:00;Domingo;Sport;Avaí;AVAÍ;Ilha do Retiro;0;1;PE;SC;SC
+23;10/09/2017;19:00;Domingo;Chapecoense;Cruzeiro;CRUZEIRO;Arena Condá;1;2;SC;MG;MG
+24;16/09/2017;21:00;Sábado;Ponte Preta;Atlético-GO;ATLÉTICO-GO;Moisés Lucarelli;1;3;SP;GO;GO
+24;17/09/2017;16:00;Domingo;Grêmio;Chapecoense;CHAPECOENSE;Arena do Grêmio;0;1;RS;SC;SC
+24;17/09/2017;16:00;Domingo;Vitória;São Paulo;SÃO PAULO;Barradão;1;2;ES;SP;SP
+25;24/09/2017;16:00;Domingo;Coritiba;Botafogo-RJ;BOTAFOGO-RJ;Couto Pereira;2;3;PR;RJ;RJ
+25;24/09/2017;16:00;Domingo;Atlético-GO;Cruzeiro;CRUZEIRO;Olímpico Monumental;1;2;GO;MG;MG
+25;24/09/2017;16:00;Domingo;Fluminense;Palmeiras;PALMEIRAS;Maracanã;0;1;RJ;SP;SP
+25;24/09/2017;19:00;Domingo;Atletico-MG;Vitória;VITÓRIA;Independência;1;3;MG;ES;ES
+26;30/09/2017;19:00;Sábado;Palmeiras;Santos;SANTOS;Palestra Itália;0;1;SP;SP;SP
+26;01/10/2017;16:00;Domingo;Avaí;Atlético-GO;ATLÉTICO-GO;Ressacada;0;2;SC;GO;GO
+26;01/10/2017;19:00;Domingo;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;0;2;PR;MG;MG
+26;01/10/2017;16:00;Domingo;Botafogo-RJ;Vitória;VITÓRIA;Engenhão;2;3;RJ;ES;ES
+27;11/10/2017;21:45;Quarta-feira;Grêmio;Cruzeiro;CRUZEIRO;Arena do Grêmio;0;1;RS;MG;MG
+27;11/10/2017;21:45;Quarta-feira;Avaí;Vasco;VASCO;Ressacada;1;2;SC;RJ;RJ
+27;12/10/2017;17:00;Quinta-feira;Vitória;Sport;SPORT;Barradão;1;2;ES;PE;PE
+28;15/10/2017;17:00;Domingo;Chapecoense;Flamengo;FLAMENGO;Arena Condá;0;1;SC;RJ;RJ
+28;15/10/2017;19:00;Domingo;Coritiba;Grêmio;GRÊMIO;Couto Pereira;0;1;PR;RS;RS
+28;15/10/2017;17:00;Domingo;Atlético-GO;Palmeiras;PALMEIRAS;Olímpico Monumental;1;3;GO;SP;SP
+29;18/10/2017;21:00;Quarta-feira;Atletico-MG;Chapecoense;CHAPECOENSE;Independência;2;3;MG;SC;SC
+29;18/10/2017;19:30;Quarta-feira;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+29;19/10/2017;20:00;Quinta-feira;Vitória;Athlético-PR;ATHLÉTICO-PR;Barradão;2;3;ES;PR;PR
+30;22/10/2017;17:00;Domingo;Cruzeiro;Atletico-MG;ATLETICO-MG;Mineirão;1;3;MG;MG;MG
+30;22/10/2017;19:00;Domingo;Ponte Preta;Avaí;AVAÍ;Moisés Lucarelli;1;2;SP;SC;SC
+30;22/10/2017;17:00;Domingo;Grêmio;Palmeiras;PALMEIRAS;Arena do Grêmio;1;3;RS;SP;SP
+31;29/10/2017;18:00;Domingo;Sport;Coritiba;CORITIBA;Ilha do Retiro;3;4;PE;PR;PR
+32;04/11/2017;19:00;Sábado;Botafogo-RJ;Fluminense;FLUMINENSE;Engenhão;1;2;RJ;RJ;RJ
+32;04/11/2017;19:00;Sábado;Atlético-GO;São Paulo;SÃO PAULO;Serra Dourada;0;1;GO;SP;SP
+33;08/11/2017;19:30;Quarta-feira;Avaí;Bahia;BAHIA;Ressacada;1;2;SC;BA;BA
+33;08/11/2017;21:00;Quarta-feira;Sport;Botafogo-RJ;BOTAFOGO-RJ;Ilha do Retiro;1;2;PE;RJ;RJ
+33;08/11/2017;21:00;Quarta-feira;Athlético-PR;Corinthians;CORINTHIANS;Arena da Baixada;0;1;PR;SP;SP
+33;08/11/2017;19:30;Quarta-feira;Ponte Preta;Grêmio;GRÊMIO;Moisés Lucarelli;0;1;SP;RS;RS
+33;08/11/2017;21:45;Quarta-feira;Santos;Vasco;VASCO;Vila Belmiro;1;2;SP;RJ;RJ
+34;11/11/2017;17:00;Sábado;Botafogo-RJ;Athlético-PR;ATHLÉTICO-PR;Engenhão;0;1;RJ;PR;PR
+35;16/11/2017;20:00;Quinta-feira;Botafogo-RJ;Atlético-GO;ATLÉTICO-GO;Engenhão;1;2;RJ;GO;GO
+37;25/11/2017;17:00;Sábado;Fluminense;Sport;SPORT;Maracanã;1;2;RJ;PE;PE
+37;26/11/2017;19:00;Domingo;Bahia;Chapecoense;CHAPECOENSE;Fonte Nova;0;1;BA;SC;SC
+37;26/11/2017;19:00;Domingo;Flamengo;Santos;SANTOS;Luso Brasileiro;1;2;RJ;SP;SP
+37;26/11/2017;17:00;Domingo;Coritiba;São Paulo;SÃO PAULO;Couto Pereira;1;2;PR;SP;SP
+37;26/11/2017;17:00;Domingo;Cruzeiro;Vasco;VASCO;Mineirão;0;1;MG;RJ;RJ
+37;26/11/2017;17:00;Domingo;Ponte Preta;Vitória;VITÓRIA;Moisés Lucarelli;2;3;SP;ES;ES
+38;03/12/2017;17:00;Domingo;Vitória;Flamengo;FLAMENGO;Barradão;1;2;ES;RJ;RJ
+1;14/04/2018;16:00;Sábado;Cruzeiro;Grêmio;GRÊMIO;Mineirão;0;1;MG;RS;RS
+2;22/04/2018;11:00;Domingo;Paraná;Corinthians;CORINTHIANS;Vila Capanema;0;4;PR;SP;SP
+3;29/04/2018;16:00;Domingo;Ceará;Flamengo;FLAMENGO;Castelão;0;3;CE;RJ;RJ
+3;29/04/2018;16:00;Domingo;Paraná;Sport;SPORT;Vila Capanema;1;2;PR;PE;PE
+4;06/05/2018;16:00;Domingo;Vitória;Fluminense;FLUMINENSE;Barradão;1;2;ES;RJ;RJ
+4;06/05/2018;16:00;Domingo;Athlético-PR;Palmeiras;PALMEIRAS;Arena da Baixada;1;3;PR;SP;SP
+5;13/05/2018;16:00;Domingo;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;1;2;PR;MG;MG
+5;13/05/2018;16:00;Domingo;Vasco;Vitória;VITÓRIA;São Januário;2;3;RJ;ES;ES
+7;26/05/2018;21:00;Sábado;Atletico-MG;Flamengo;FLAMENGO;Independência;0;1;MG;RJ;RJ
+7;26/05/2018;19:00;Sábado;Palmeiras;Sport;SPORT;Allianz Parque;2;3;SP;PE;PE
+7;27/05/2018;16:00;Domingo;Santos;Cruzeiro;CRUZEIRO;Pacaembu;0;1;SP;MG;MG
+7;27/05/2018;19:00;Domingo;Ceará;Grêmio;GRÊMIO;Castelão;0;1;CE;RS;RS
+7;27/05/2018;19:00;Domingo;América-MG;São Paulo;SÃO PAULO;Independência;1;3;MG;SP;SP
+8;30/05/2018;19:30;Quarta-feira;Vitória;Internacional;INTERNACIONAL;Barradão;2;3;ES;RS;RS
+9;03/06/2018;19:00;Domingo;Ceará;Cruzeiro;CRUZEIRO;Castelão;0;1;CE;MG;MG
+9;03/06/2018;16:00;Domingo;Bahia;Grêmio;GRÊMIO;Fonte Nova;0;2;BA;RS;RS
+10;06/06/2018;21:45;Quarta-feira;Grêmio;Palmeiras;PALMEIRAS;Arena do Grêmio;0;2;RS;SP;SP
+10;07/06/2018;21:00;Quinta-feira;América-MG;Atletico-MG;ATLETICO-MG;Independência;1;3;MG;MG;MG
+10;07/06/2018;20:00;Quinta-feira;Fluminense;Flamengo;FLAMENGO;Maracanã;0;2;RJ;RJ;RJ
+11;09/06/2018;16:00;Sábado;Athlético-PR;São Paulo;SÃO PAULO;Arena da Baixada;0;1;PR;SP;SP
+11;10/06/2018;19:00;Domingo;Santos;Internacional;INTERNACIONAL;Vila Belmiro;1;2;SP;RS;RS
+12;13/06/2018;19:00;Quarta-feira;Fluminense;Santos;SANTOS;Maracanã;0;1;RJ;SP;SP
+13;18/07/2018;21:45;Quarta-feira;Flamengo;São Paulo;SÃO PAULO;Maracanã;0;1;RJ;SP;SP
+14;22/07/2018;16:00;Domingo;Sport;Fluminense;FLUMINENSE;Ilha do Retiro;1;2;PE;RJ;RJ
+16;29/07/2018;19:00;Domingo;Santos;América-MG;AMÉRICA-MG;Vila Belmiro;0;1;SP;MG;MG
+16;29/07/2018;11:00;Domingo;Vasco;Corinthians;CORINTHIANS;Mané Garrincha;1;4;RJ;SP;SP
+16;29/07/2018;16:00;Domingo;Cruzeiro;São Paulo;SÃO PAULO;Mineirão;0;2;MG;SP;SP
+17;05/08/2018;16:00;Domingo;Paraná;Ceará;CEARÁ;Durival de Brito;0;1;PR;CE;CE
+17;06/08/2018;20:00;Segunda-feira;Atletico-MG;Internacional;INTERNACIONAL;Independência;0;1;MG;RS;RS
+18;12/08/2018;16:00;Domingo;Sport;São Paulo;SÃO PAULO;Ilha do Retiro;1;3;PE;SP;SP
+18;13/08/2018;20:00;Segunda-feira;Fluminense;Internacional;INTERNACIONAL;Maracanã;0;3;RJ;RS;RS
+19;18/08/2018;19:00;Sábado;Corinthians;Grêmio;GRÊMIO;Arena Corinthians;0;1;SP;RS;RS
+19;19/08/2018;16:00;Domingo;Botafogo-rj;Atletico-MG;ATLETICO-MG;Engenhão;0;3;RJ;MG;MG
+19;19/08/2018;16:00;Domingo;Vitória;Palmeiras;PALMEIRAS;Barradão;0;3;ES;SP;SP
+20;22/08/2018;21:00;Quarta-feira;Sport;América-MG;AMÉRICA-MG;Ilha do Retiro;0;2;PE;MG;MG
+20;22/08/2018;19:30;Quarta-feira;Bahia;Internacional;INTERNACIONAL;Fonte Nova;0;1;BA;RS;RS
+15;29/08/2018;19:30;Quarta-feira;Ceará;Bahia;BAHIA;Presidente Vargas;0;2;CE;BA;BA
+22;01/09/2018;19:00;Sábado;Vasco;Santos;SANTOS;Maracanã;0;3;RJ;SP;SP
+22;02/09/2018;11:00;Domingo;Flamengo;Ceará;CEARÁ;Maracanã;0;1;RJ;CE;CE
+22;02/09/2018;19:00;Domingo;Chapecoense;Palmeiras;PALMEIRAS;Arena Condá;1;2;SC;SP;SP
+24;09/09/2018;19:00;Domingo;Paraná;Santos;SANTOS;Vila Capanema;0;2;PR;SP;SP
+26;23/09/2018;18:00;Domingo;Sport;Palmeiras;PALMEIRAS;Ilha do Retiro;0;1;PE;SP;SP
+26;24/09/2018;20:00;Segunda-feira;Chapecoense;Fluminense;FLUMINENSE;Arena Condá;1;2;SC;RJ;RJ
+27;29/09/2018;16:00;Sábado;Fluminense;Grêmio;GRÊMIO;Engenhão;0;1;RJ;RS;RS
+28;05/10/2018;21:00;Sexta-feira;Corinthians;Flamengo;FLAMENGO;Arena Corinthians;0;3;SP;RJ;RJ
+28;05/10/2018;21:30;Sexta-feira;Vitória;Santos;SANTOS;Barradão;0;1;ES;SP;SP
+28;06/10/2018;18:00;Sábado;São Paulo;Palmeiras;PALMEIRAS;Morumbi;0;2;SP;SP;SP
+29;14/10/2018;11:00;Domingo;Chapecoense;Vitória;VITÓRIA;Arena Condá;0;1;SC;ES;ES
+30;20/10/2018;16:00;Sábado;Botafogo-rj;Bahia;BAHIA;Engenhão;0;1;RJ;BA;BA
+30;21/10/2018;20:00;Domingo;Paraná;Flamengo;FLAMENGO;Durival de Brito;0;4;PR;RJ;RJ
+28;24/10/2018;20:30;Quarta-feira;Cruzeiro;Ceará;CEARÁ;Mineirão;0;2;MG;CE;CE
+31;26/10/2018;20:30;Sexta-feira;Vitória;São Paulo;SÃO PAULO;Barradão;0;1;ES;SP;SP
+31;27/10/2018;17:30;Sábado;Grêmio;Sport;SPORT;Arena do Grêmio;3;4;RS;PE;PE
+32;03/11/2018;18:00;Sábado;Atletico-MG;Grêmio;GRÊMIO;Independência;0;1;MG;RS;RS
+32;03/11/2018;18:00;Sábado;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+32;04/11/2018;17:00;Domingo;América-MG;Cruzeiro;CRUZEIRO;Independência;1;2;MG;MG;MG
+33;10/11/2018;17:00;Sábado;América-MG;Paraná;PARANÁ;Independência;0;1;MG;PR;PR
+33;12/11/2018;20:00;Segunda-feira;Santos;Chapecoense;CHAPECOENSE;Pacaembu;0;1;SP;SC;SC
+34;14/11/2018;21:00;Quarta-feira;Paraná;Atletico-MG;ATLETICO-MG;Durival de Brito;0;1;PR;MG;MG
+35;17/11/2018;19:00;Sábado;Vitória;Athlético-PR;ATHLÉTICO-PR;Barradão;1;2;ES;PR;PR
+35;18/11/2018;17:00;Domingo;Sport;Flamengo;FLAMENGO;Ilha do Retiro;0;1;PE;RJ;RJ
+36;21/11/2018;19:30;Quarta-feira;Internacional;Atletico-MG;ATLETICO-MG;Beira Rio;1;2;RS;MG;MG
+37;25/11/2018;17:00;Domingo;Cruzeiro;Flamengo;FLAMENGO;Mineirão;0;2;MG;RJ;RJ
+37;25/11/2018;17:00;Domingo;Vasco;Palmeiras;PALMEIRAS;São Januário;0;1;RJ;SP;SP
+38;01/12/2018;19:00;Sábado;Flamengo;Athlético-PR;ATHLÉTICO-PR;Maracanã;1;2;RJ;PR;PR
+1;28/04/2019;19:00;Domingo;Fluminense;Goiás;GOIÁS;Maracanã;0;1;RJ;GO;GO
+1;28/04/2019;11:00;Domingo;Grêmio;Santos;SANTOS;Arena do Grêmio;1;2;RS;SP;SP
+2;01/05/2019;21:30;Quarta-feira;Vasco;Atletico-MG;ATLETICO-MG;São Januário;1;2;RJ;MG;MG
+2;01/05/2019;21:30;Quarta-feira;Goiás;São Paulo;SÃO PAULO;Serra Dourada;1;2;GO;SP;SP
+3;04/05/2019;21:00;Sábado;Ceará;Atletico-MG;ATLETICO-MG;Castelão;1;2;CE;MG;MG
+3;05/05/2019;19:00;Domingo;Grêmio;Fluminense;FLUMINENSE;Arena do Grêmio;4;5;RS;RJ;RJ
+4;11/05/2019;16:00;Sábado;Fluminense;Botafogo-RJ;BOTAFOGO-RJ;Maracanã;0;1;RJ;RJ;RJ
+4;12/05/2019;16:00;Domingo;Atletico-MG;Palmeiras;PALMEIRAS;Independência;0;2;MG;SP;SP
+4;12/05/2019;19:00;Domingo;Fortaleza;São Paulo;SÃO PAULO;Castelão;0;1;CE;SP;SP
+5;19/05/2019;16:00;Domingo;Athlético-PR;Corinthians;CORINTHIANS;Arena da Baixada;0;2;PR;SP;SP
+5;19/05/2019;16:00;Domingo;Chapecoense;Fortaleza;FORTALEZA;Arena Condá;1;3;SC;CE;CE
+6;25/05/2019;16:00;Sábado;Botafogo-RJ;Palmeiras;PALMEIRAS;Mané Garrincha;0;1;RJ;SP;SP
+6;26/05/2019;19:00;Domingo;Cruzeiro;Chapecoense;CHAPECOENSE;Independência;1;2;MG;SC;SC
+6;27/05/2019;20:00;Segunda-feira;Avaí;Ceará;CEARÁ;Ressacada;1;2;SC;CE;CE
+7;02/06/2019;19:00;Domingo;Chapecoense;Palmeiras;PALMEIRAS;Arena Condá;1;2;SC;SP;SP
+7;02/06/2019;16:00;Domingo;Ceará;Santos;SANTOS;Castelão;0;1;CE;SP;SP
+8;09/06/2019;19:00;Domingo;CSA;Botafogo-RJ;BOTAFOGO-RJ;Rei Pelé;1;2;AL;RJ;RJ
+9;12/06/2019;21:30;Quarta-feira;CSA;Flamengo;FLAMENGO;Mané Garrincha;0;2;AL;RJ;RJ
+9;12/06/2019;19:15;Quarta-feira;Botafogo-RJ;Grêmio;GRÊMIO;Engenhão;0;1;RJ;RS;RS
+10;13/07/2019;19:00;Sábado;Bahia;Santos;SANTOS;Fonte Nova;0;1;BA;SP;SP
+10;14/07/2019;19:00;Domingo;Chapecoense;Atletico-MG;ATLETICO-MG;Arena Condá;1;2;SC;MG;MG
+11;20/07/2019;19:00;Sábado;CSA;Athlético-PR;ATHLÉTICO-PR;Rei Pelé;0;4;AL;PR;PR
+11;21/07/2019;11:00;Domingo;Botafogo-RJ;Santos;SANTOS;Engenhão;0;1;RJ;SP;SP
+12;27/07/2019;19:00;Sábado;Cruzeiro;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;2;MG;PR;PR
+12;27/07/2019;19:00;Sábado;Fluminense;São Paulo;SÃO PAULO;Maracanã;1;2;RJ;SP;SP
+12;28/07/2019;19:00;Domingo;Fortaleza;Corinthians;CORINTHIANS;Castelão;1;3;CE;SP;SP
+13;04/08/2019;16:00;Domingo;Avaí;Botafogo-RJ;BOTAFOGO-RJ;Ressacada;0;2;SC;RJ;RJ
+14;11/08/2019;19:00;Domingo;Goiás;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+14;12/08/2019;20:00;Segunda-feira;CSA;Fortaleza;FORTALEZA;Rei Pelé;0;2;AL;CE;CE
+15;17/08/2019;19:00;Sábado;Vasco;Flamengo;FLAMENGO;Mané Garrincha;1;4;RJ;RJ;RJ
+15;17/08/2019;17:00;Sábado;Fortaleza;Internacional;INTERNACIONAL;Castelão;0;1;CE;RS;RS
+15;18/08/2019;16:00;Domingo;Fluminense;CSA;CSA;Maracanã;0;1;RJ;AL;AL
+13;21/08/2019;19:15;Quarta-feira;Athlético-PR;São Paulo;SÃO PAULO;Arena da Baixada;0;1;PR;SP;SP
+16;24/08/2019;11:00;Sábado;Atletico-MG;Bahia;BAHIA;Independência;0;1;MG;BA;BA
+16;25/08/2019;19:00;Domingo;Ceará;Flamengo;FLAMENGO;Castelão;0;3;CE;RJ;RJ
+17;31/08/2019;19:00;Sábado;Chapecoense;Santos;SANTOS;Arena Condá;0;1;SC;SP;SP
+17;02/09/2019;20:00;Segunda-feira;Fluminense;Avaí;AVAÍ;Maracanã;0;1;RJ;SC;SC
+18;07/09/2019;11:00;Sábado;Vasco;Bahia;BAHIA;São Januário;0;2;RJ;BA;BA
+18;07/09/2019;17:00;Sábado;Avaí;Flamengo;FLAMENGO;Mané Garrincha;0;3;SC;RJ;RJ
+18;07/09/2019;17:00;Sábado;Fortaleza;Fluminense;FLUMINENSE;Castelão;0;1;CE;RJ;RJ
+18;07/09/2019;21:00;Sábado;Goiás;Palmeiras;PALMEIRAS;Serra Dourada;1;2;GO;SP;SP
+18;08/09/2019;11:00;Domingo;Cruzeiro;Grêmio;GRÊMIO;Independência;1;4;MG;RS;RS
+19;14/09/2019;19:00;Sábado;Chapecoense;Vasco;VASCO;Arena Condá;1;2;SC;RJ;RJ
+19;15/09/2019;11:00;Domingo;Athlético-PR;Avaí;AVAÍ;Arena da Baixada;0;1;PR;SC;SC
+19;15/09/2019;11:00;Domingo;Atletico-MG;Internacional;INTERNACIONAL;Independência;1;3;MG;RS;RS
+20;21/09/2019;17:00;Sábado;Cruzeiro;Flamengo;FLAMENGO;Mineirão;1;2;MG;RJ;RJ
+20;21/09/2019;21:00;Sábado;Santos;Grêmio;GRÊMIO;Vila Belmiro;0;3;SP;RS;RS
+20;21/09/2019;11:00;Sábado;Botafogo-RJ;São Paulo;SÃO PAULO;Engenhão;1;2;RJ;SP;SP
+20;22/09/2019;16:00;Domingo;Fortaleza;Palmeiras;PALMEIRAS;Castelão;0;1;CE;SP;SP
+21;25/09/2019;21:30;Quarta-feira;São Paulo;Goiás;GOIÁS;Morumbi;0;1;SP;GO;GO
+22;30/09/2019;20:00;Segunda-feira;Avaí;Bahia;BAHIA;Ressacada;0;2;SC;BA;BA
+21;02/10/2019;19:15;Quarta-feira;Chapecoense;Corinthians;CORINTHIANS;Arena Condá;0;1;SC;SP;SP
+21;02/10/2019;19:15;Quarta-feira;Atletico-MG;Vasco;VASCO;Arena Condá;1;2;MG;RJ;RJ
+23;05/10/2019;19:00;Sábado;Bahia;Athlético-PR;ATHLÉTICO-PR;Fonte Nova;1;2;BA;PR;PR
+23;05/10/2019;17:00;Sábado;Vasco;Santos;SANTOS;São Januário;0;1;RJ;SP;SP
+23;06/10/2019;11:00;Domingo;Chapecoense;Flamengo;FLAMENGO;Arena Condá;0;1;SC;RJ;RJ
+23;06/10/2019;16:00;Domingo;Botafogo-RJ;Fluminense;FLUMINENSE;Estrela Solitária;0;1;RJ;RJ;RJ
+23;06/10/2019;16:00;Domingo;Ceará;Goiás;GOIÁS;Castelão;0;1;CE;GO;GO
+25;13/10/2019;16:00;Domingo;Athlético-PR;Flamengo;FLAMENGO;Arena da Baixada;0;2;PR;RJ;RJ
+25;13/10/2019;19:00;Domingo;Atletico-MG;Grêmio;GRÊMIO;Independência;1;4;MG;RS;RS
+26;16/10/2019;19:15;Quarta-feira;Grêmio;Bahia;BAHIA;Arena do Grêmio;0;1;RS;BA;BA
+26;16/10/2019;20:00;Quarta-feira;Fortaleza;Flamengo;FLAMENGO;Castelão;1;2;CE;RJ;RJ
+26;17/10/2019;21:00;Quinta-feira;Fluminense;Athlético-PR;ATHLÉTICO-PR;Maracanã;1;2;RJ;PR;PR
+26;17/10/2019;19:15;Quinta-feira;Avaí;Internacional;INTERNACIONAL;Ressacada;0;2;SC;RS;RS
+27;19/10/2019;19:00;Sábado;Corinthians;Cruzeiro;CRUZEIRO;Arena Corinthians;1;2;SP;MG;MG
+27;20/10/2019;16:00;Domingo;Internacional;Vasco;VASCO;Beira Rio;0;1;RS;RJ;RJ
+27;21/10/2019;20:00;Segunda-feira;Bahia;Ceará;CEARÁ;Pituaçu;1;2;BA;CE;CE
+28;26/10/2019;19:00;Sábado;Bahia;Internacional;INTERNACIONAL;Fonte Nova;2;3;BA;RS;RS
+28;27/10/2019;18:00;Domingo;Avaí;Palmeiras;PALMEIRAS;Ressacada;1;2;SC;SP;SP
+29;30/10/2019;19:30;Quarta-feira;Atletico-MG;Chapecoense;CHAPECOENSE;Independência;0;2;MG;SC;SC
+29;30/10/2019;19:30;Quarta-feira;Avaí;Fortaleza;FORTALEZA;Ressacada;1;3;SC;CE;CE
+29;30/10/2019;21:30;Quarta-feira;Vasco;Grêmio;GRÊMIO;São Januário;1;3;RJ;RS;RS
+29;31/10/2019;21:30;Quinta-feira;Botafogo-RJ;Cruzeiro;CRUZEIRO;Engenhão;0;2;RJ;MG;MG
+30;02/11/2019;21:00;Sábado;Chapecoense;São Paulo;SÃO PAULO;Arena Condá;0;3;SC;SP;SP
+31;06/11/2019;22:30;Quarta-feira;Vasco;Palmeiras;PALMEIRAS;São Januário;1;2;RJ;SP;SP
+31;06/11/2019;22:00;Quarta-feira;Avaí;Santos;SANTOS;Ressacada;1;2;SC;SP;SP
+31;07/11/2019;21:00;Quinta-feira;Botafogo-RJ;Flamengo;FLAMENGO;Engenhão;0;1;RJ;RJ;RJ
+31;07/11/2019;20:30;Quinta-feira;São Paulo;Fluminense;FLUMINENSE;Morumbi;0;2;SP;RJ;RJ
+32;09/11/2019;17:00;Sábado;Goiás;Santos;SANTOS;Serra Dourada;0;3;GO;SP;SP
+32;10/11/2019;16:00;Domingo;São Paulo;Athlético-PR;ATHLÉTICO-PR;Morumbi;0;1;SP;PR;PR
+32;10/11/2019;19:00;Domingo;Chapecoense;Grêmio;GRÊMIO;Arena Condá;0;1;SC;RS;RS
+32;10/11/2019;19:00;Domingo;CSA;Vasco;VASCO;Rei Pelé;0;3;AL;RJ;RJ
+33;17/11/2019;17:00;Domingo;Grêmio;Flamengo;FLAMENGO;Arena do Grêmio;0;1;RS;RJ;RJ
+34;24/11/2019;17:00;Domingo;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;1;MG;PR;PR
+34;24/11/2019;20:00;Domingo;Avaí;Chapecoense;CHAPECOENSE;Ressacada;0;1;SC;SC;SC
+34;24/11/2019;17:00;Domingo;Palmeiras;Grêmio;GRÊMIO;Allianz Parque;1;2;SP;RS;RS
+34;25/11/2019;21:00;Segunda-feira;CSA;Fluminense;FLUMINENSE;Rei Pelé;0;1;AL;RJ;RJ
+35;27/11/2019;20:30;Quarta-feira;Chapecoense;Botafogo-RJ;BOTAFOGO-RJ;Arena Condá;0;1;SC;RJ;RJ
+35;27/11/2019;20:30;Quarta-feira;Internacional;Goiás;GOIÁS;Beira Rio;1;2;RS;GO;GO
+35;28/11/2019;22:30;Quinta-feira;Cruzeiro;CSA;CSA;Mineirão;0;1;MG;AL;AL
+36;30/11/2019;20:00;Sábado;Botafogo-RJ;Internacional;INTERNACIONAL;Engenhão;0;1;RJ;RS;RS
+36;01/12/2019;19:00;Domingo;CSA;Bahia;BAHIA;Rei Pelé;1;2;AL;BA;BA
+36;01/12/2019;17:00;Domingo;Palmeiras;Flamengo;FLAMENGO;Allianz Parque;1;3;SP;RJ;RJ
+36;01/12/2019;17:00;Domingo;Goiás;Fortaleza;FORTALEZA;Serra Dourada;1;2;GO;CE;CE
+37;04/12/2019;20:30;Quarta-feira;Ceará;Corinthians;CORINTHIANS;Castelão;0;1;CE;SP;SP
+38;08/12/2019;17:00;Domingo;Corinthians;Fluminense;FLUMINENSE;Arena Corinthians;1;2;SP;RJ;RJ
+38;08/12/2019;17:00;Domingo;Cruzeiro;Palmeiras;PALMEIRAS;Mineirão;0;2;MG;SP;SP
+38;08/12/2019;17:00;Domingo;CSA;São Paulo;SÃO PAULO;Rei Pelé;1;2;AL;SP;SP
+1;08/08/2020;19:00;Sábado;Fortaleza;Athlético-PR;ATHLÉTICO-PR;Castelão;0;2;CE;PR;PR
+1;08/08/2020;19:30;Sábado;Coritiba;Internacional;INTERNACIONAL;Couto Pereira;0;1;PR;RS;RS
+1;09/08/2020;16:00;Domingo;Flamengo;Atletico-MG;ATLETICO-MG;Maracanã;0;1;RJ;MG;MG
+1;30/09/2020;21:30;Quarta-Feira;Botafogo-RJ;Bahia;BAHIA;Nilton Santos (Engenhão);1;2;RJ;BA;BA
+1;03/12/2020;19:00;Quinta-Feira;Goiás;São Paulo;SÃO PAULO;Serrinha;0;3;GO;SP;SP
+3;15/08/2020;19:30;Sábado;Coritiba;Flamengo;FLAMENGO;Couto Pereira;0;1;PR;RJ;RJ
+4;19/08/2020;19:30;Quarta-Feira;Athlético-PR;Palmeiras;PALMEIRAS;Arena da Baixada;0;1;PR;SP;SP
+4;19/08/2020;20:30;Quarta-Feira;Goiás;Fortaleza;FORTALEZA;Serrinha;1;3;GO;CE;CE
+4;20/08/2020;19:15;Quinta-Feira;Sport;Santos;SANTOS;Ilha do Retiro;0;1;PE;SP;SP
+4;20/08/2020;20:00;Quinta-Feira;Ceará;Vasco;VASCO;Castelão;0;3;CE;RJ;RJ
+5;22/08/2020;16:00;Sábado;Athlético-PR;Fluminense;FLUMINENSE;Arena da Baixada;0;1;PR;RJ;RJ
+5;23/08/2020;16:00;Domingo;Bragantino;Coritiba;CORITIBA;Nabi Abi Chedid;1;2;SP;PR;PR
+5;23/08/2020;19:00;Domingo;Sport;São Paulo;SÃO PAULO;Ilha do Retiro;0;1;PE;SP;SP
+6;29/08/2020;17:00;Sábado;Botafogo-RJ;Internacional;INTERNACIONAL;Nilton Santos (Engenhão);0;2;RJ;RS;RS
+6;30/08/2020;16:00;Domingo;Santos;Flamengo;FLAMENGO;Vila Belmiro;0;1;SP;RJ;RJ
+6;30/08/2020;18:00;Domingo;Atlético-GO;Ceará;CEARÁ;Olímpico Monumental;0;2;GO;CE;CE
+6;18/11/2020;19:00;Quarta-Feira;Atletico-MG;Athlético-PR;ATHLÉTICO-PR;Mineirão;0;2;MG;PR;PR
+7;02/09/2020;19:15;Quarta-Feira;Goiás;Corinthians;CORINTHIANS;Serrinha;1;2;GO;SP;SP
+7;02/09/2020;20:30;Quarta-Feira;Bahia;Flamengo;FLAMENGO;Pituaçu;3;5;BA;RJ;RJ
+7;03/09/2020;19:00;Quinta-Feira;Grêmio;Sport;SPORT;Arena do Grêmio;1;2;RS;PE;PE
+8;05/09/2020;21:00;Sábado;Ceará;Santos;SANTOS;Castelão;0;1;CE;SP;SP
+8;06/09/2020;11:00;Domingo;Bragantino;Palmeiras;PALMEIRAS;Nabi Abi Chedid;1;2;SP;SP;SP
+8;06/09/2020;20:30;Domingo;Coritiba;Atletico-MG;ATLETICO-MG;Couto Pereira;0;1;PR;MG;MG
+9;09/09/2020;21:30;Quarta-Feira;Fluminense;Flamengo;FLAMENGO;Maracanã;1;2;RJ;RJ;RJ
+9;10/09/2020;19:15;Quinta-Feira;Corinthians;Palmeiras;PALMEIRAS;Neo Química Arena;0;2;SP;SP;SP
+9;10/09/2020;19:15;Quinta-Feira;Bahia;Grêmio;GRÊMIO;Pituaçu;0;2;BA;RS;RS
+9;10/09/2020;21:00;Quinta-Feira;Vasco;Atlético-GO;ATLÉTICO-GO;São Januário;1;2;RJ;GO;GO
+10;13/09/2020;18:00;Domingo;Bahia;Atlético-GO;ATLÉTICO-GO;Pituaçu;0;1;BA;GO;GO
+10;13/09/2020;20:30;Domingo;Botafogo-RJ;Vasco;VASCO;Nilton Santos (Engenhão);2;3;RJ;RJ;RJ
+11;19/09/2020;21:00;Sábado;Atlético-GO;Atletico-MG;ATLETICO-MG;Olímpico Monumental;3;4;GO;MG;MG
+13;04/10/2020;18:15;Domingo;Bahia;Sport;SPORT;Pituaçu;1;2;BA;PE;PE
+13;04/10/2020;18:15;Domingo;Goiás;Santos;SANTOS;Serrinha;2;3;GO;SP;SP
+14;07/10/2020;20:30;Quarta-Feira;Goiás;Fluminense;FLUMINENSE;Serrinha;2;4;GO;RJ;RJ
+14;08/10/2020;21:00;Quinta-Feira;Bragantino;Internacional;INTERNACIONAL;Nabi Abi Chedid;0;2;SP;RS;RS
+15;10/10/2020;17:00;Sábado;Vasco;Flamengo;FLAMENGO;São Januário;1;2;RJ;RJ;RJ
+15;10/10/2020;19:00;Sábado;Palmeiras;São Paulo;SÃO PAULO;Allianz Parque;0;2;SP;SP;SP
+15;11/10/2020;18:15;Domingo;Sport;Botafogo-RJ;BOTAFOGO-RJ;Ilha do Retiro;1;2;PE;RJ;RJ
+16;14/10/2020;18:00;Quarta-Feira;Palmeiras;Coritiba;CORITIBA;Allianz Parque;1;3;SP;PR;PR
+16;14/10/2020;20:30;Quarta-Feira;Santos;Atlético-GO;ATLÉTICO-GO;Vila Belmiro;0;1;SP;GO;GO
+16;14/10/2020;21:30;Quarta-Feira;Sport;Internacional;INTERNACIONAL;Ilha do Retiro;3;5;PE;RS;RS
+16;14/10/2020;21:30;Quarta-Feira;Athlético-PR;Corinthians;CORINTHIANS;Arena da Baixada;0;1;PR;SP;SP
+17;17/10/2020;19:00;Sábado;Coritiba;Santos;SANTOS;Couto Pereira;1;2;PR;SP;SP
+17;18/10/2020;16:00;Domingo;Corinthians;Flamengo;FLAMENGO;Neo Química Arena;1;5;SP;RJ;RJ
+18;21/10/2020;21:30;Quarta-Feira;Vasco;Corinthians;CORINTHIANS;São Januário;1;2;RJ;SP;SP
+18;25/10/2020;16:00;Domingo;Atlético-GO;Palmeiras;PALMEIRAS;Olímpico Monumental;0;3;GO;SP;SP
+18;25/10/2020;18:15;Domingo;Athlético-PR;Grêmio;GRÊMIO;Arena da Baixada;1;2;PR;RS;RS
+19;31/10/2020;21:00;Sábado;Fortaleza;Fluminense;FLUMINENSE;Castelão;0;1;CE;RJ;RJ
+19;01/11/2020;16:00;Domingo;Flamengo;São Paulo;SÃO PAULO;Maracanã;1;4;RJ;SP;SP
+20;08/11/2020;16:00;Domingo;Vasco;Palmeiras;PALMEIRAS;São Januário;0;1;RJ;SP;SP
+20;08/11/2020;20:30;Domingo;Fluminense;Grêmio;GRÊMIO;Maracanã;0;1;RJ;RS;RS
+21;14/11/2020;16:30;Sábado;Sport;Vasco;VASCO;Ilha do Retiro;0;2;PE;RJ;RJ
+21;14/11/2020;17:00;Sábado;Goiás;Athlético-PR;ATHLÉTICO-PR;Serrinha;0;1;GO;PR;PR
+21;14/11/2020;19:00;Sábado;Corinthians;Atletico-MG;ATLETICO-MG;Neo Química Arena;1;2;SP;MG;MG
+21;14/11/2020;19:00;Sábado;Fortaleza;São Paulo;SÃO PAULO;Castelão;2;3;CE;SP;SP
+21;16/11/2020;18:00;Segunda-Feira;Coritiba;Bahia;BAHIA;Couto Pereira;1;2;PR;BA;BA
+21;16/11/2020;20:00;Segunda-Feira;Botafogo-RJ;Bragantino;BRAGANTINO;Nilton Santos (Engenhão);1;2;RJ;SP;SP
+22;22/11/2020;18:15;Domingo;Botafogo-RJ;Fortaleza;FORTALEZA;Nilton Santos (Engenhão);1;2;RJ;CE;CE
+22;22/11/2020;18:15;Domingo;Internacional;Fluminense;FLUMINENSE;Beira Rio;1;2;RS;RJ;RJ
+22;23/11/2020;20:00;Segunda-Feira;Sport;Atlético-GO;ATLÉTICO-GO;Ilha do Retiro;0;1;PE;GO;GO
+23;25/11/2020;21:30;Quarta-Feira;Coritiba;Corinthians;CORINTHIANS;Couto Pereira;0;1;PR;SP;SP
+23;28/11/2020;19:00;Sábado;Bahia;São Paulo;SÃO PAULO;Itaipava Arena Fonte Nova;1;3;BA;SP;SP
+23;30/11/2020;18:00;Segunda-Feira;Vasco;Ceará;CEARÁ;São Januário;1;4;RJ;CE;CE
+23;28/01/2021;20:00;Quinta-Feira;Grêmio;Flamengo;FLAMENGO;Arena do Grêmio;2;4;RS;RJ;RJ
+24;05/12/2020;17:00;Sábado;Botafogo-RJ;Flamengo;FLAMENGO;Nilton Santos (Engenhão);0;1;RJ;RJ;RJ
+24;05/12/2020;19:00;Sábado;Bahia;Ceará;CEARÁ;Itaipava Arena Fonte Nova;0;2;BA;CE;CE
+24;07/12/2020;20:00;Segunda-Feira;Atlético-GO;Goiás;GOIÁS;Antônio Accioly;0;1;GO;GO;GO
+25;12/12/2020;17:00;Sábado;Athlético-PR;Atletico-MG;ATLETICO-MG;Arena da Baixada;0;1;PR;MG;MG
+25;12/12/2020;21:00;Sábado;Ceará;Atlético-GO;ATLÉTICO-GO;Castelão;1;2;CE;GO;GO
+26;19/12/2020;21:00;Sábado;Coritiba;Botafogo-RJ;BOTAFOGO-RJ;Couto Pereira;1;2;PR;RJ;RJ
+26;20/12/2020;16:00;Domingo;Bragantino;Athlético-PR;ATHLÉTICO-PR;Nabi Abi Chedid;0;1;SP;PR;PR
+26;20/12/2020;20:30;Domingo;Fortaleza;Ceará;CEARÁ;Castelão;0;2;CE;CE;CE
+27;26/12/2020;21:00;Sábado;Fluminense;São Paulo;SÃO PAULO;Maracanã;1;2;RJ;SP;SP
+27;27/12/2020;16:00;Domingo;Botafogo-RJ;Corinthians;CORINTHIANS;Nilton Santos (Engenhão);0;2;RJ;SP;SP
+27;27/12/2020;16:00;Domingo;Bahia;Internacional;INTERNACIONAL;Itaipava Arena Fonte Nova;1;2;BA;RS;RS
+28;06/01/2021;19:15;Quarta-Feira;Botafogo-RJ;Athlético-PR;ATHLÉTICO-PR;Nilton Santos (Engenhão);0;2;RJ;PR;PR
+28;06/01/2021;20:30;Quarta-Feira;Coritiba;Goiás;GOIÁS;Couto Pereira;1;2;PR;GO;GO
+28;06/01/2021;21:30;Quarta-Feira;Flamengo;Fluminense;FLUMINENSE;Maracanã;1;2;RJ;RJ;RJ
+28;07/01/2021;19:00;Quinta-Feira;Ceará;Internacional;INTERNACIONAL;Castelão;0;2;CE;RS;RS
+29;09/01/2021;19:00;Sábado;Sport;Palmeiras;PALMEIRAS;Ilha do Retiro;0;1;PE;SP;SP
+29;10/01/2021;16:00;Domingo;Flamengo;Ceará;CEARÁ;Maracanã;0;2;RJ;CE;CE
+29;10/01/2021;16:00;Domingo;São Paulo;Santos;SANTOS;Morumbi;0;1;SP;SP;SP
+30;16/01/2021;21:00;Sábado;Vasco;Coritiba;CORITIBA;São Januário;0;1;RJ;PR;PR
+30;17/01/2021;20:30;Domingo;Ceará;Bragantino;BRAGANTINO;Castelão;1;2;CE;SP;SP
+30;18/01/2021;20:00;Segunda-Feira;Goiás;Flamengo;FLAMENGO;Serrinha;0;3;GO;RJ;RJ
+31;20/01/2021;17:00;Quarta-Feira;Botafogo-RJ;Atlético-GO;ATLÉTICO-GO;Nilton Santos (Engenhão);1;3;RJ;GO;GO
+31;20/01/2021;21:30;Quarta-Feira;São Paulo;Internacional;INTERNACIONAL;Morumbi;1;5;SP;RS;RS
+31;21/01/2021;19:00;Quinta-Feira;Goiás;Ceará;CEARÁ;Serrinha;0;4;GO;CE;CE
+32;24/01/2021;18:15;Domingo;Santos;Goiás;GOIÁS;Vila Belmiro;3;4;SP;GO;GO
+32;25/01/2021;20:00;Segunda-Feira;Corinthians;Bragantino;BRAGANTINO;Neo Química Arena;0;2;SP;SP;SP
+33;31/01/2021;16:00;Domingo;Ceará;Athlético-PR;ATHLÉTICO-PR;Castelão;0;2;CE;PR;PR
+33;01/02/2021;20:00;Segunda-Feira;Sport;Flamengo;FLAMENGO;Ilha do Retiro;0;3;PE;RJ;RJ
+34;03/02/2021;21:30;Quarta-Feira;Bahia;Fluminense;FLUMINENSE;Itaipava Arena Fonte Nova;0;1;BA;RJ;RJ
+34;05/02/2021;20:00;Sexta-Feira;Botafogo-RJ;Sport;SPORT;Nilton Santos (Engenhão);0;1;RJ;PE;PE
+35;08/02/2021;20:00;Segunda-Feira;Botafogo-RJ;Grêmio;GRÊMIO;Nilton Santos (Engenhão);2;5;RJ;RS;RS
+35;10/02/2021;19:00;Quarta-Feira;Internacional;Sport;SPORT;Beira Rio;1;2;RS;PE;PE
+36;14/02/2021;16:00;Domingo;Vasco;Internacional;INTERNACIONAL;São Januário;0;2;RJ;RS;RS
+36;14/02/2021;20:30;Domingo;Grêmio;São Paulo;SÃO PAULO;Arena do Grêmio;1;2;RS;SP;SP
+36;15/02/2021;18:00;Segunda-Feira;Ceará;Fluminense;FLUMINENSE;Castelão;1;3;CE;RJ;RJ
+37;20/02/2021;18:30;Sábado;Coritiba;Ceará;CEARÁ;Couto Pereira;0;2;PR;CE;CE
+37;20/02/2021;21:00;Sábado;Fortaleza;Bahia;BAHIA;Castelão;0;4;CE;BA;BA
+37;21/02/2021;16:00;Domingo;Sport;Atletico-MG;ATLETICO-MG;Ilha do Retiro;2;3;PE;MG;MG

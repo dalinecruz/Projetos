@@ -1,0 +1,190 @@
+3;13/04/2003;18h00;Domingo;Flamengo;Fluminense;FLAMENGO;Maracanã;4;1;RJ;RJ;RJ
+12;18/04/2003;20h30;Quarta-feira;Flamengo;Cruzeiro;FLAMENGO;Maracanã;3;0;RJ;MG;RJ
+7;03/05/2003;16h00;Sábado;Flamengo;Vitória;FLAMENGO;Maracanã;2;1;RJ;ES;RJ
+17;09/07/2003;20h30;Quarta-feira;Flamengo;Juventude;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+21;24/07/2003;20h30;Quinta-feira;Flamengo;Internacional;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+24;07/08/2003;20h30;Quinta-feira;Flamengo;Bahia;FLAMENGO;Maracanã;6;0;RJ;BA;RJ
+27;20/08/2003;20h30;Quarta-feira;Flamengo;São Caetano;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+29;31/08/2003;16h00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+33;27/09/2003;18h00;Sábado;Flamengo;Athlético-PR;FLAMENGO;Maracanã;2;1;RJ;PR;RJ
+36;12/10/2003;18h00;Domingo;Flamengo;Vasco;FLAMENGO;Maracanã;2;1;RJ;RJ;RJ
+37;18/10/2003;18h00;Sábado;Flamengo;Paysandu;FLAMENGO;Maracanã;2;0;RJ;PA;RJ
+39;26/10/2003;18h00;Domingo;Flamengo;Grêmio;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+41;06/11/2003;21h30;Quinta-feira;Flamengo;Atletico-MG;FLAMENGO;Maracanã;3;2;RJ;MG;RJ
+43;22/11/2003;18h00;Sábado;Flamengo;Criciúma;FLAMENGO;Maracanã;1;0;RJ;SC;RJ
+9;13/06/2004;18h00;Domingo;Flamengo;Athlético-PR;FLAMENGO;Raulino de Oliveira;3;0;RJ;PR;RJ
+12;04/07/2004;18h00;Domingo;Flamengo;Paysandu;FLAMENGO;Raulino de Oliveira;4;1;RJ;PA;RJ
+22;08/08/2004;16h00;Domingo;Flamengo;São Paulo;FLAMENGO;Raulino de Oliveira;1;0;RJ;SP;RJ
+24;14/08/2004;18h00;Sábado;Flamengo;Grêmio;FLAMENGO;Maracanã;3;0;RJ;RS;RJ
+26;21/08/2004;16h00;Sábado;Flamengo;Paraná;FLAMENGO;Raulino de Oliveira;2;1;RJ;PR;RJ
+28;02/09/2004;20h30;Quinta-feira;Flamengo;Vitória;FLAMENGO;Raulino de Oliveira;2;0;RJ;ES;RJ
+31;19/09/2004;16h00;Domingo;Flamengo;Goiás;FLAMENGO;Raulino de Oliveira;4;0;RJ;GO;RJ
+36;17/10/2004;18h00;Domingo;Flamengo;Criciúma;FLAMENGO;Raulino de Oliveira;3;1;RJ;SC;RJ
+40;06/11/2004;18h00;Sábado;Flamengo;Guarani;FLAMENGO;Raulino de Oliveira;1;0;RJ;SP;RJ
+46;19/12/2004;16h00;Domingo;Flamengo;Cruzeiro;FLAMENGO;Raulino de Oliveira;6;2;RJ;MG;RJ
+4;15/05/2005;18h10;Domingo;Flamengo;Santos;FLAMENGO;Luso Brasileiro;2;1;RJ;SP;RJ
+12;17/07/2005;16h00;Domingo;Flamengo;Vasco;FLAMENGO;Raulino de Oliveira;1;0;RJ;RJ;RJ
+17;03/08/2005;21h45;Quarta-feira;Flamengo;Ponte Preta;FLAMENGO;Luso Brasileiro;1;0;RJ;SP;RJ
+21;21/08/2005;18h10;Domingo;Flamengo;Paysandu;FLAMENGO;Luso Brasileiro;2;1;RJ;PA;RJ
+26;17/09/2005;18h10;Sábado;Flamengo;São Caetano;FLAMENGO;Luso Brasileiro;2;0;RJ;SP;RJ
+35;31/10/2005;20h30;Segunda-feira;Flamengo;Coritiba;FLAMENGO;Luso Brasileiro;2;1;RJ;PR;RJ
+37;06/11/2005;16h00;Domingo;Flamengo;Botafogo-RJ;FLAMENGO;Raulino de Oliveira;3;1;RJ;RJ;RJ
+39;16/11/2005;19h30;Quarta-feira;Flamengo;Fortaleza;FLAMENGO;Luso Brasileiro;3;0;RJ;CE;RJ
+2;23/04/2006;16h00;Domingo;Flamengo;Juventude;FLAMENGO;Maracanã;3;1;RJ;RS;RJ
+4;07/05/2006;18h10;Domingo;Flamengo;Botafogo-RJ;FLAMENGO;Maracanã;1;0;RJ;RJ;RJ
+9;31/05/2006;21h45;Quarta-feira;Flamengo;Palmeiras;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+15;05/08/2006;18h10;Sábado;Flamengo;Goiás;FLAMENGO;Maracanã;1;0;RJ;GO;RJ
+18;19/08/2006;18h10;Sábado;Flamengo;Grêmio;FLAMENGO;Maracanã;1;0;RJ;RS;RJ
+25;21/09/2006;20h30;Quinta-feira;Flamengo;Cruzeiro;FLAMENGO;Maracanã;1;0;RJ;MG;RJ
+27;04/10/2006;20h30;Quarta-feira;Flamengo;Fluminense;FLAMENGO;Maracanã;4;1;RJ;RJ;RJ
+29;15/10/2006;16h00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;3;0;RJ;SP;RJ
+33;04/11/2006;18h10;Sábado;Flamengo;Athlético-PR;FLAMENGO;Maracanã;1;0;RJ;PR;RJ
+38;02/12/2006;18h10;Sábado;Flamengo;São Caetano;FLAMENGO;Raulino de Oliveira;4;1;RJ;SP;RJ
+14;25/07/2007;20h30;Quarta-feira;Flamengo;América-RN;FLAMENGO;Mário Helênio;3;1;RJ;RN;RJ
+19;11/08/2007;18h10;Sábado;Flamengo;Náutico;FLAMENGO;Maracanã;2;1;RJ;PE;RJ
+8;23/08/2007;20h30;Quinta-feira;Flamengo;Juventude;FLAMENGO;Maracanã;4;0;RJ;RS;RJ
+21;26/08/2007;18h10;Domingo;Flamengo;Goiás;FLAMENGO;Maracanã;3;1;RJ;GO;RJ
+24;05/09/2007;20h30;Quarta-feira;Flamengo;Figueirense;FLAMENGO;Maracanã;4;1;RJ;SC;RJ
+16;12/09/2007;20h30;Quarta-feira;Flamengo;Cruzeiro;FLAMENGO;Maracanã;3;1;RJ;MG;RJ
+28;29/09/2007;18h10;Sábado;Flamengo;Atletico-MG;FLAMENGO;Maracanã;1;0;RJ;MG;RJ
+10;04/10/2007;20h30;Quinta-feira;Flamengo;São Paulo;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+32;21/10/2007;18h10;Domingo;Flamengo;Grêmio;FLAMENGO;Maracanã;2;0;RJ;RS;RJ
+34;31/10/2007;21h45;Quarta-feira;Flamengo;Corinthians;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+36;11/11/2007;18h10;Domingo;Flamengo;Santos;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+37;25/11/2007;18h10;Domingo;Flamengo;Athlético-PR;FLAMENGO;Maracanã;2;0;RJ;PR;RJ
+1;11/05/2008;18h10;Domingo;Flamengo;Santos;FLAMENGO;Maracanã;3;1;RJ;SP;RJ
+3;24/05/2008;18h10;Sábado;Flamengo;Internacional;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+5;07/06/2008;18h10;Sábado;Flamengo;Figueirense;FLAMENGO;Maracanã;5;0;RJ;SC;RJ
+9;05/07/2008;18h10;Sábado;Flamengo;Náutico;FLAMENGO;Maracanã;3;0;RJ;PE;RJ
+11;06/07/2008;18h10;Domingo;Flamengo;Vasco;FLAMENGO;Maracanã;3;1;RJ;RJ;RJ
+19;09/08/2008;18h20;Sábado;Flamengo;Athlético-PR;FLAMENGO;Maracanã;1;0;RJ;PR;RJ
+21;21/08/2008;20h30;Quinta-feira;Flamengo;Grêmio;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+26;21/09/2008;18h10;Domingo;Flamengo;Ipatinga;FLAMENGO;Maracanã;1;0;RJ;MG;RJ
+27;27/09/2008;18h20;Sábado;Flamengo;Sport;FLAMENGO;Maracanã;2;1;RJ;PE;RJ
+31;23/10/2008;20h30;Quinta-feira;Flamengo;Coritiba;FLAMENGO;Maracanã;5;0;RJ;PR;RJ
+35;16/11/2008;17h00;Domingo;Flamengo;Palmeiras;FLAMENGO;Maracanã;5;2;RJ;SP;RJ
+4;31/05/2009;16h00;Domingo;Flamengo;Athlético-PR;FLAMENGO;Maracanã;2;1;RJ;PR;RJ
+7;21/06/2009;18h30;Domingo;Flamengo;Internacional;FLAMENGO;Maracanã;4;0;RJ;RS;RJ
+9;04/07/2009;18h30;Sábado;Flamengo;Vitória;FLAMENGO;Engenhão;2;1;RJ;ES;RJ
+15;30/07/2009;21h00;Quinta-feira;Flamengo;Atletico-MG;FLAMENGO;Maracanã;3;1;RJ;MG;RJ
+18;09/08/2009;16h00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+22;29/08/2009;18h30;Sábado;Flamengo;Santo André;FLAMENGO;Maracanã;3;0;RJ;SP;RJ
+24;12/09/2009;18h30;Sábado;Flamengo;Sport;FLAMENGO;Maracanã;3;0;RJ;PE;RJ
+25;20/09/2009;18h30;Domingo;Flamengo;Coritiba;FLAMENGO;Maracanã;3;0;RJ;PR;RJ
+27;04/10/2009;18h30;Domingo;Flamengo;Fluminense;FLAMENGO;Maracanã;2;0;RJ;RJ;RJ
+29;10/10/2009;16h10;Sábado;Flamengo;São Paulo;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+33;31/10/2009;18h30;Sábado;Flamengo;Santos;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+38;06/12/2009;17h00;Domingo;FLAMENGO;Grêmio;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+3;23/05/2010;16h00;Domingo;Flamengo;Grêmio Prudente;FLAMENGO;Maracanã;3;1;RJ;SP;RJ
+8;14/07/2010;21h00;Quarta-feira;Flamengo;Botafogo-RJ;FLAMENGO;Maracanã;1;0;RJ;RJ;RJ
+14;14/08/2010;18h30;Sábado;Flamengo;Ceará;FLAMENGO;Maracanã;1;0;RJ;CE;RJ
+28;07/10/2010;21h00;Quinta-feira;Flamengo;Atlético-GO;FLAMENGO;Raulino de Oliveira;2;0;RJ;GO;RJ
+30;16/10/2010;18h30;Sábado;Flamengo;Internacional;FLAMENGO;Engenhão;3;0;RJ;RS;RJ
+36;20/11/2010;19h30;Sábado;Flamengo;Guarani;FLAMENGO;Engenhão;2;1;RJ;SP;RJ
+1;21/05/2011;18h30;Sábado;Flamengo;Avaí;FLAMENGO;Cláudio Moacyr;4;0;RJ;SC;RJ
+6;25/06/2011;18h30;Sábado;Flamengo;Atletico-MG;FLAMENGO;Engenhão;4;1;RJ;MG;RJ
+8;06/07/2011;21h50;Quarta-feira;Flamengo;São Paulo;FLAMENGO;Engenhão;1;0;RJ;SP;RJ
+13;30/07/2011;18h30;Sábado;Flamengo;Grêmio;FLAMENGO;Engenhão;2;0;RJ;RS;RJ
+15;06/08/2011;18h30;Sábado;Flamengo;Coritiba;FLAMENGO;Engenhão;1;0;RJ;PR;RJ
+26;24/09/2011;18h00;Sábado;Flamengo;América-MG;FLAMENGO;Engenhão;2;1;RJ;MG;RJ
+28;09/10/2011;16h00;Domingo;Flamengo;Fluminense;FLAMENGO;Engenhão;3;2;RJ;RJ;RJ
+33;06/11/2011;17h00;Domingo;Flamengo;Cruzeiro;FLAMENGO;Engenhão;5;1;RJ;MG;RJ
+37;27/11/2011;17h00;Domingo;Flamengo;Internacional;FLAMENGO;Cláudio Moacyr;1;0;RJ;RS;RJ
+4;09/06/2012;18h30;Sábado;Flamengo;Coritiba;FLAMENGO;Engenhão;3;1;RJ;PR;RJ
+5;17/06/2012;16h00;Domingo;Flamengo;Santos;FLAMENGO;Engenhão;1;0;RJ;SP;RJ
+7;01/07/2012;18h30;Domingo;Flamengo;Atlético-GO;FLAMENGO;Engenhão;3;2;RJ;GO;RJ
+16;11/08/2012;21h00;Sábado;Flamengo;Náutico;FLAMENGO;Raulino de Oliveira;2;0;RJ;PE;RJ
+18;19/08/2012;18h30;Domingo;Flamengo;Vasco;FLAMENGO;Engenhão;1;0;RJ;RJ;RJ
+14;26/09/2012;22h00;Quarta-feira;Flamengo;Atletico-MG;FLAMENGO;Engenhão;2;1;RJ;MG;RJ
+32;21/10/2012;16h00;Domingo;Flamengo;São Paulo;FLAMENGO;Engenhão;1;0;RJ;SP;RJ
+34;03/11/2012;21h00;Sábado;Flamengo;Figueirense;FLAMENGO;Raulino de Oliveira;1;0;RJ;SC;RJ
+11;04/08/2013;16:00;Domingo;Flamengo;Atletico-MG;FLAMENGO;Mané Garrincha;3;0;RJ;MG;RJ
+18;04/09/2013;19:30;Quarta-feira;Flamengo;Vitória;FLAMENGO;Maracanã;2;1;RJ;ES;RJ
+20;12/09/2013;21:00;Quinta-feira;Flamengo;Santos;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+24;29/09/2013;16:00;Domingo;Flamengo;Criciúma;FLAMENGO;Maracanã;4;1;RJ;SC;RJ
+27;10/10/2013;21:00;Quinta-feira;Flamengo;Internacional;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
+29;16/10/2013;21:50;Quarta-feira;Flamengo;Bahia;FLAMENGO;Maracanã;2;1;RJ;BA;RJ
+32;03/11/2013;20:30;Domingo;Flamengo;Fluminense;FLAMENGO;Maracanã;1;0;RJ;RJ;RJ
+36;24/11/2013;18:00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+3;04/05/2014;16h00;Domingo;Flamengo;Palmeiras;FLAMENGO;Maracanã;4;2;RJ;SP;RJ
+12;27/07/2014;18h30;Domingo;Flamengo;Botafogo-RJ;FLAMENGO;Maracanã;1;0;RJ;RJ;RJ
+14;10/08/2014;16h00;Domingo;Flamengo;Sport;FLAMENGO;Maracanã;1;0;RJ;PE;RJ
+16;20/08/2014;22h00;Quarta-feira;Flamengo;Atletico-MG;FLAMENGO;Maracanã;2;1;RJ;MG;RJ
+21;14/09/2014;16h00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+28;12/10/2014;16h00;Domingo;Flamengo;Cruzeiro;FLAMENGO;Maracanã;3;0;RJ;MG;RJ
+30;22/10/2014;19h30;Quarta-feira;Flamengo;Internacional;FLAMENGO;Maracanã;2;0;RJ;RS;RJ
+32;02/11/2014;19h30;Domingo;Flamengo;Chapecoense;FLAMENGO;Maracanã;3;0;RJ;SC;RJ
+34;16/11/2014;17h00;Domingo;Flamengo;Coritiba;FLAMENGO;Maracanã;3;2;RJ;PR;RJ
+37;29/11/2014;21h00;Sábado;Flamengo;Vitória;FLAMENGO;Arena da Amazônia;4;0;RJ;ES;RJ
+6;06/06/2015;18h30;Sábado;Flamengo;Chapecoense;FLAMENGO;Maracanã;1;0;RJ;SC;RJ
+14;18/07/2015;18h30;Sábado;Flamengo;Grêmio;FLAMENGO;Maracanã;1;0;RJ;RS;RJ
+18;12/08/2015;19h30;Quarta-feira;Flamengo;Athlético-PR;FLAMENGO;Maracanã;3;2;RJ;PR;RJ
+20;23/08/2015;16h00;Domingo;Flamengo;São Paulo;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+22;02/09/2015;21h00;Quarta-feira;Flamengo;Avaí;FLAMENGO;Arena das Dunas;3;0;RJ;SC;RJ
+24;10/09/2015;21h00;Quinta-feira;Flamengo;Cruzeiro;FLAMENGO;Maracanã;2;0;RJ;MG;RJ
+29;04/10/2015;11h00;Domingo;Flamengo;Joinville;FLAMENGO;Maracanã;2;0;RJ;SC;RJ
+34;08/11/2015;17h00;Domingo;Flamengo;Goiás;FLAMENGO;Maracanã;4;1;RJ;GO;RJ
+1;14/05/2016;16:00;Sábado;Flamengo;Sport;FLAMENGO;Raulino de Oliveira;1;0;RJ;PE;RJ
+5;02/06/2016;21:00;Quinta-feira;Flamengo;Vitória;FLAMENGO;Raulino de Oliveira;1;0;RJ;ES;RJ
+12;29/06/2016;19:30;Quarta-feira;Flamengo;Internacional;FLAMENGO;Kléber Andrade;1;0;RJ;RS;RJ
+14;10/07/2016;11:00;Domingo;Flamengo;Atletico-MG;FLAMENGO;Mané Garrincha;2;0;RJ;MG;RJ
+16;25/07/2016;20:00;Segunda-feira;Flamengo;América-MG;FLAMENGO;Kléber Andrade;2;1;RJ;MG;RJ
+19;06/08/2016;18:30;Sábado;Flamengo;Athlético-PR;FLAMENGO;Kléber Andrade;1;0;RJ;PR;RJ
+21;21/08/2016;11:00;Domingo;Flamengo;Grêmio;FLAMENGO;Mané Garrincha;2;1;RJ;RS;RJ
+23;07/09/2016;21:45;Quarta-feira;Flamengo;Ponte Preta;FLAMENGO;Kléber Andrade;2;1;RJ;SP;RJ
+26;18/09/2016;11:00;Domingo;Flamengo;Figueirense;FLAMENGO;Pacaembu;2;0;RJ;SC;RJ
+27;25/09/2016;16:00;Domingo;Flamengo;Cruzeiro;FLAMENGO;Kléber Andrade;2;1;RJ;MG;RJ
+29;09/10/2016;17:00;Domingo;Flamengo;Santa Cruz;FLAMENGO;Pacaembu;3;0;RJ;PE;RJ
+37;27/11/2016;17:00;Domingo;Flamengo;Santos;FLAMENGO;Maracanã;2;0;RJ;SP;RJ
+7;14/06/2017;21:00;Quarta-feira;Flamengo;Ponte Preta;FLAMENGO;Luso Brasileiro;2;0;RJ;SP;RJ
+9;22/06/2017;21:00;Quinta-feira;Flamengo;Chapecoense;FLAMENGO;Luso Brasileiro;5;1;RJ;SC;RJ
+11;02/07/2017;16:00;Domingo;Flamengo;São Paulo;FLAMENGO;Luso Brasileiro;2;0;RJ;SP;RJ
+16;22/07/2017;19:00;Sábado;Flamengo;Coritiba;FLAMENGO;Luso Brasileiro;2;1;RJ;PR;RJ
+21;19/08/2017;19:00;Sábado;Flamengo;Atlético-GO;FLAMENGO;Luso Brasileiro;2;0;RJ;GO;RJ
+22;27/08/2017;16:00;Domingo;Flamengo;Athlético-PR;FLAMENGO;Luso Brasileiro;2;0;RJ;PR;RJ
+24;17/09/2017;16:00;Domingo;Flamengo;Sport;FLAMENGO;Luso Brasileiro;2;0;RJ;PE;RJ
+29;19/10/2017;21:00;Quinta-feira;Flamengo;Bahia;FLAMENGO;Luso Brasileiro;4;1;RJ;BA;RJ
+33;08/11/2017;21:45;Quarta-feira;Flamengo;Cruzeiro;FLAMENGO;Luso Brasileiro;2;0;RJ;MG;RJ
+36;19/11/2017;17:00;Domingo;Flamengo;Corinthians;FLAMENGO;Luso Brasileiro;3;0;RJ;SP;RJ
+2;21/04/2018;19:00;Sábado;Flamengo;América-MG;FLAMENGO;Maracanã;2;0;RJ;MG;RJ
+4;06/05/2018;16:00;Domingo;Flamengo;Internacional;FLAMENGO;Maracanã;2;0;RJ;RS;RJ
+8;31/05/2018;16:00;Quinta-feira;Flamengo;Bahia;FLAMENGO;Luso Brasileiro;2;0;RJ;BA;RJ
+9;03/06/2018;16:00;Domingo;Flamengo;Corinthians;FLAMENGO;Luso Brasileiro;1;0;RJ;SP;RJ
+11;10/06/2018;19:00;Domingo;Flamengo;Paraná;FLAMENGO;Luso Brasileiro;2;0;RJ;PR;RJ
+14;21/07/2018;19:00;Sábado;Flamengo;Botafogo-rj;FLAMENGO;Maracanã;2;0;RJ;RJ;RJ
+16;29/07/2018;16:00;Domingo;Flamengo;Sport;FLAMENGO;Maracanã;4;1;RJ;PE;RJ
+18;12/08/2018;16:00;Domingo;Flamengo;Cruzeiro;FLAMENGO;Maracanã;1;0;RJ;MG;RJ
+20;23/08/2018;19:30;Quinta-feira;Flamengo;Vitória;FLAMENGO;Maracanã;1;0;RJ;ES;RJ
+24;08/09/2018;21:00;Sábado;Flamengo;Chapecoense;FLAMENGO;Maracanã;2;0;RJ;SC;RJ
+26;23/09/2018;16:00;Domingo;Flamengo;Atletico-MG;FLAMENGO;Maracanã;2;1;RJ;MG;RJ
+29;13/10/2018;17:00;Sábado;Flamengo;Fluminense;FLAMENGO;Maracanã;3;0;RJ;RJ;RJ
+34;15/11/2018;17:00;Quinta-feira;Flamengo;Santos;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+36;21/11/2018;21:45;Quarta-feira;Flamengo;Grêmio;FLAMENGO;Maracanã;2;0;RJ;RS;RJ
+1;27/04/2019;21:00;Sábado;Flamengo;Cruzeiro;FLAMENGO;Maracanã;3;1;RJ;MG;RJ
+4;12/05/2019;11:00;Domingo;Flamengo;Chapecoense;FLAMENGO;Maracanã;2;1;RJ;SC;RJ
+6;26/05/2019;16:00;Domingo;Flamengo;Athlético-PR;FLAMENGO;Maracanã;3;2;RJ;PR;RJ
+7;01/06/2019;16:00;Sábado;Flamengo;Fortaleza;FLAMENGO;Engenhão;2;0;RJ;CE;RJ
+10;14/07/2019;11:00;Domingo;Flamengo;Goiás;FLAMENGO;Maracanã;6;1;RJ;GO;RJ
+12;28/07/2019;16:00;Domingo;Flamengo;Botafogo-RJ;FLAMENGO;Maracanã;3;2;RJ;RJ;RJ
+14;10/08/2019;19:00;Sábado;Flamengo;Grêmio;FLAMENGO;Maracanã;3;1;RJ;RS;RJ
+17;01/09/2019;16:00;Domingo;Flamengo;Palmeiras;FLAMENGO;Maracanã;3;0;RJ;SP;RJ
+19;14/09/2019;17:00;Sábado;Flamengo;Santos;FLAMENGO;Maracanã;1;0;RJ;SP;RJ
+21;25/09/2019;21:30;Quarta-feira;Flamengo;Internacional;FLAMENGO;Maracanã;3;1;RJ;RS;RJ
+24;10/10/2019;20:00;Quinta-feira;Flamengo;Atletico-MG;FLAMENGO;Maracanã;3;1;RJ;MG;RJ
+27;20/10/2019;19:00;Domingo;Flamengo;Fluminense;FLAMENGO;Maracanã;2;0;RJ;RJ;RJ
+28;27/10/2019;19:00;Domingo;Flamengo;CSA;FLAMENGO;Maracanã;1;0;RJ;AL;RJ
+30;03/11/2019;17:00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;4;1;RJ;SP;RJ
+32;10/11/2019;18:00;Domingo;Flamengo;Bahia;FLAMENGO;Maracanã;3;1;RJ;BA;RJ
+35;27/11/2019;22:30;Quarta-feira;Flamengo;Ceará;FLAMENGO;Maracanã;4;1;RJ;CE;RJ
+37;05/12/2019;21:00;Quinta-feira;Flamengo;Avaí;FLAMENGO;Maracanã;6;1;RJ;SC;RJ
+8;05/09/2020;17:00;Sábado;Flamengo;Fortaleza;FLAMENGO;Maracanã;2;1;RJ;CE;RJ
+11;13/10/2020;18:00;Terça-Feira;Flamengo;Goiás;FLAMENGO;Maracanã;2;1;RJ;GO;RJ
+13;04/10/2020;16:00;Domingo;Flamengo;Athlético-PR;FLAMENGO;Maracanã;3;1;RJ;PR;RJ
+14;07/10/2020;19:15;Quarta-Feira;Flamengo;Sport;FLAMENGO;Maracanã;3;0;RJ;PE;RJ
+22;21/11/2020;19:00;Sábado;Flamengo;Coritiba;FLAMENGO;Maracanã;3;1;RJ;PR;RJ
+25;13/12/2020;16:00;Domingo;Flamengo;Santos;FLAMENGO;Maracanã;4;1;RJ;SP;RJ
+26;20/12/2020;18:15;Domingo;Flamengo;Bahia;FLAMENGO;Maracanã;4;3;RJ;BA;RJ
+31;21/01/2021;19:00;Quinta-Feira;Flamengo;Palmeiras;FLAMENGO;Mané Garrincha;2;0;RJ;SP;RJ
+34;04/02/2021;21:00;Quinta-Feira;Flamengo;Vasco;FLAMENGO;Maracanã;2;0;RJ;RJ;RJ
+36;14/02/2021;16:00;Domingo;Flamengo;Corinthians;FLAMENGO;Maracanã;2;1;RJ;SP;RJ
+37;21/02/2021;16:00;Domingo;Flamengo;Internacional;FLAMENGO;Maracanã;2;1;RJ;RS;RJ
