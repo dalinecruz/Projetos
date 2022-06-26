@@ -1,0 +1,11 @@
+# -*- coding: iso-8859-1 -*-
+1) Explique a diferença entre classes e objetos e de um exemplo.
+
+	Uma classe é o agrupamento de características comuns a um determinado grupo de objetos. Criar uma classe é como manter um padrão pré-definido, como um projeto homologado que poderá ser utilizado sempre que necessário.
+	O objeto da classe é justamente a execução desse projeto, no qual se utiliza de seus atributos e metodos comuns para, assim, começar a existir.
+
+2) Explique o que ́e programação orientada a objetos e descreva um de seus benefícios.
+	
+	É um modo de programação criado para aproximar a forma de visão do mundo real ao método de programar.
+	Dessa forma adaptou o conceito de objetos com as mesmas caracteristicas agrupando-os em classes para reaproveitamento e melhor entendimento do código.
+	
