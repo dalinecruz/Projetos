@@ -7,8 +7,8 @@ Created on 21 de jun. de 2022
 import matplotlib.pyplot as plt
 
 def map (nome_arquivo):
-    arquivo = open(nome_arquivo + ".csv", "r", encoding = "utf8")
-    nomes = []
+    arquivo = open(nome_arquivo + ".txt", "r", encoding = "utf8")
+    municipios = {}
     tamanho = arquivo.readlines()
     cont = 0
     while(len(tamanho) > cont):
@@ -17,21 +17,20 @@ def map (nome_arquivo):
         if(cont == 0):
             cont += 1
             continue;
-       
-        nome = dados[1].split(" ")
+        municipio = dados[0]
+        expect = dados[1]
         cont += 1
         
-        for i in range(len(nome)):
-            if(nome[i] == " " or nome[i] == "" or nome[i] == "de" or nome[i] == "da" or nome[i] == "do" or nome[i] == "dos" or nome[i] == "e"):
-                continue
-            nomes.append(nome[i])
-            
-    nomes.sort(key=None, reverse=False)
-    mapa = {}
-    for nome in nomes:
-        mapa[nome] = nomes.count(nome)
+        for i in range(len(municipio)-1):
+            municipios[municipio[i]] = expect[i]
     
-    return mapa
+    #municipios.sort(key=None, reverse=True)
+    '''mapa = {}
+    
+    for municipio in municipios:
+        mapa[municipio] = municipios.)
+    ''' 
+    return municipios
 
 
 def reduce_mapa(mapa):
@@ -66,7 +65,7 @@ def grava_imagem(mapa):
     plt.close()
 
 
-mapa = map("alunos2022")
+mapa = map("MunicipiosExpectativa")
 print(mapa)
 #mapa_reduce = reduce_mapa(mapa)    
 #grava_imagem(mapa)
