@@ -1,0 +1,66 @@
+15;28/06/2003;16h00;Sábado;Fortaleza;Vasco;VASCO;Castelão;0;1;CE;RJ;RJ
+41;05/11/2003;21h30;Quarta-feira;Paysandu;Vasco;VASCO;Mangueirão;1;2;PA;RJ;RJ
+6;15/05/2004;18h00;Sábado;Paysandu;Vasco;VASCO;Mangueirão;1;2;PA;RJ;RJ
+11;27/06/2004;16h00;Domingo;Internacional;Vasco;VASCO;Beira Rio;1;3;RS;RJ;RJ
+14;10/07/2004;16h00;Sábado;Flamengo;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+28;02/09/2004;20h30;Quinta-feira;Grêmio;Vasco;VASCO;Olímpico Monumental;1;2;RS;RJ;RJ
+38;27/10/2004;21h50;Quarta-feira;Coritiba;Vasco;VASCO;Couto Pereira;0;1;PR;RJ;RJ
+13;20/07/2005;21h45;Quarta-feira;Santos;Vasco;VASCO;Vila Belmiro;2;3;SP;RJ;RJ
+19;10/08/2005;20h30;Quarta-feira;Paysandu;Vasco;VASCO;Mangueirão;0;2;PA;RJ;RJ
+37;06/11/2005;16h00;Domingo;São Caetano;Vasco;VASCO;Anacleto Campanella;1;2;SP;RJ;RJ
+2;23/04/2006;16h00;Domingo;Ponte Preta;Vasco;VASCO;Moisés Lucarelli;1;2;SP;RJ;RJ
+4;07/05/2006;16h00;Domingo;Grêmio;Vasco;VASCO;Olímpico Monumental;1;2;RS;RJ;RJ
+12;16/07/2006;18h10;Domingo;Flamengo;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+18;20/08/2006;16h00;Domingo;Santos;Vasco;VASCO;Vila Belmiro;0;2;SP;RJ;RJ
+20;27/08/2006;16h00;Domingo;Internacional;Vasco;VASCO;Beira Rio;1;2;RS;RJ;RJ
+29;15/10/2006;18h10;Domingo;Santa Cruz;Vasco;VASCO;Arruda;0;4;PE;RJ;RJ
+36;19/11/2006;16h00;Domingo;São Caetano;Vasco;VASCO;Anacleto Campanella;0;1;SP;RJ;RJ
+1;13/05/2007;18h10;Domingo;América-RN;Vasco;VASCO;Machadão;0;1;RN;RJ;RJ
+16;01/08/2007;21h45;Quarta-feira;Internacional;Vasco;VASCO;Beira Rio;0;2;RS;RJ;RJ
+34;31/10/2007;21h45;Quarta-feira;Goiás;Vasco;VASCO;Serra Dourada;2;3;GO;RJ;RJ
+37;28/11/2007;21h45;Quarta-feira;Corinthians;Vasco;VASCO;Pacaembu;0;1;SP;RJ;RJ
+21;21/08/2008;20h30;Quinta-feira;Portuguesa;Vasco;VASCO;Antônio Guimarães;0;1;SP;RJ;RJ
+31;22/10/2008;22h00;Quarta-feira;Goiás;Vasco;VASCO;Serra Dourada;2;4;GO;RJ;RJ
+33;02/11/2008;19h10;Domingo;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+37;30/11/2008;17h00;Domingo;Coritiba;Vasco;VASCO;Couto Pereira;0;2;PR;RJ;RJ
+14;15/08/2010;16h00;Domingo;Grêmio Prudente;Vasco;VASCO;Prudentão;1;2;SP;RJ;RJ
+19;04/09/2010;18h30;Sábado;Ceará;Vasco;VASCO;Castelão;0;2;CE;RJ;RJ
+1;21/05/2011;18h30;Sábado;Ceará;Vasco;VASCO;Presidente Vargas;1;3;CE;RJ;RJ
+6;26/06/2011;18h30;Domingo;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+11;24/07/2011;16h00;Domingo;Atletico-MG;Vasco;VASCO;Ipatingão;1;2;MG;RJ;RJ
+13;31/07/2011;16h00;Domingo;São Paulo;Vasco;VASCO;Morumbi;0;2;SP;RJ;RJ
+17;17/08/2011;19h30;Quarta-feira;Avaí;Vasco;VASCO;Ressacada;0;2;SC;RJ;RJ
+26;25/09/2011;16h00;Domingo;Cruzeiro;Vasco;VASCO;Arena do Jacaré;0;3;MG;RJ;RJ
+31;23/10/2011;16h00;Domingo;Bahia;Vasco;VASCO;Pituaçu;0;2;BA;RJ;RJ
+37;27/11/2011;17h00;Domingo;Fluminense;Vasco;VASCO;Engenhão;1;2;RJ;RJ;RJ
+2;26/05/2012;18h30;Sábado;Portuguesa;Vasco;VASCO;Canindé;0;1;SP;RJ;RJ
+4;10/06/2012;17h00;Domingo;Bahia;Vasco;VASCO;Pituaçu;1;2;BA;RJ;RJ
+10;18/07/2012;21h50;Quarta-feira;São Paulo;Vasco;VASCO;Morumbi;0;1;SP;RJ;RJ
+15;08/08/2012;19h30;Quarta-feira;Sport;Vasco;VASCO;Ilha do Retiro;0;2;PE;RJ;RJ
+28;06/10/2012;16h20;Sábado;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+36;17/11/2012;19h30;Sábado;Coritiba;Vasco;VASCO;Couto Pereira;1;2;PR;RJ;RJ
+38;02/12/2012;17h00;Domingo;Fluminense;Vasco;VASCO;Engenhão;1;2;RJ;RJ;RJ
+8;21/07/2013;18:30;Domingo;Fluminense;Vasco;VASCO;Maracanã;1;3;RJ;RJ;RJ
+13;11/08/2013;16:00;Domingo;Coritiba;Vasco;VASCO;Couto Pereira;0;1;PR;RJ;RJ
+18;05/09/2013;21:00;Quinta-feira;Náutico;Vasco;VASCO;Arena Pernambuco;0;3;PE;RJ;RJ
+14;19/07/2015;16h00;Domingo;Fluminense;Vasco;VASCO;Maracanã;1;2;RJ;RJ;RJ
+24;09/09/2015;19h30;Quarta-feira;Ponte Preta;Vasco;VASCO;Moisés Lucarelli;0;1;SP;RJ;RJ
+28;27/09/2015;16h00;Domingo;Flamengo;Vasco;VASCO;Maracanã;1;2;RJ;RJ;RJ
+34;08/11/2015;17h00;Domingo;Palmeiras;Vasco;VASCO;Allianz Parque;0;2;SP;RJ;RJ
+36;22/11/2015;17h00;Domingo;Joinville;Vasco;VASCO;Arena Joinville;1;2;SC;RJ;RJ
+13;12/07/2017;21:45;Quarta-feira;Vitória;Vasco;VASCO;Barradão;1;4;ES;RJ;RJ
+16;23/07/2017;19:00;Domingo;Atletico-MG;Vasco;VASCO;Independência;1;2;MG;RJ;RJ
+22;26/08/2017;16:00;Sábado;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+27;11/10/2017;21:45;Quarta-feira;Avaí;Vasco;VASCO;Ressacada;1;2;SC;RJ;RJ
+29;18/10/2017;19:30;Quarta-feira;Atlético-GO;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+33;08/11/2017;21:45;Quarta-feira;Santos;Vasco;VASCO;Vila Belmiro;1;2;SP;RJ;RJ
+37;26/11/2017;17:00;Domingo;Cruzeiro;Vasco;VASCO;Mineirão;0;1;MG;RJ;RJ
+32;03/11/2018;18:00;Sábado;Fluminense;Vasco;VASCO;Maracanã;0;1;RJ;RJ;RJ
+14;11/08/2019;19:00;Domingo;Goiás;Vasco;VASCO;Serra Dourada;0;1;GO;RJ;RJ
+19;14/09/2019;19:00;Sábado;Chapecoense;Vasco;VASCO;Arena Condá;1;2;SC;RJ;RJ
+21;02/10/2019;19:15;Quarta-feira;Atletico-MG;Vasco;VASCO;Arena Condá;1;2;MG;RJ;RJ
+27;20/10/2019;16:00;Domingo;Internacional;Vasco;VASCO;Beira Rio;0;1;RS;RJ;RJ
+32;10/11/2019;19:00;Domingo;CSA;Vasco;VASCO;Rei Pelé;0;3;AL;RJ;RJ
+4;20/08/2020;20:00;Quinta-Feira;Ceará;Vasco;VASCO;Castelão;0;3;CE;RJ;RJ
+10;13/09/2020;20:30;Domingo;Botafogo-RJ;Vasco;VASCO;Nilton Santos (Engenhão);2;3;RJ;RJ;RJ
+21;14/11/2020;16:30;Sábado;Sport;Vasco;VASCO;Ilha do Retiro;0;2;PE;RJ;RJ
