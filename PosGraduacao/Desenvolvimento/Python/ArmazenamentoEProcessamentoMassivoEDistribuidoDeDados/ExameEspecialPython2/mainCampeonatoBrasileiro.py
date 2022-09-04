@@ -9,7 +9,7 @@ from ExameEspecialPython2.CampeonatoBrasileiro import CampeonatoBrasileiro
 
 def leArquivo(nomeArquivo):
     campeonato = []
-    arquivo = open(nomeArquivo + ".txt", "r", encoding = "latin-1")
+    arquivo = open(nomeArquivo + ".txt", "r")
     tamanho = arquivo.readlines()
     cont = 0
     
@@ -115,37 +115,48 @@ def gravaDerrotas_time(nomeArquivo, campeonato, time):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
 
-#Lê arquivo original com todos os jogos                  
+#Le arquivo original com todos os jogos                  
 lista_jogos = leArquivo("jogos")
 #Separa em dois arquivos de capeoes: mandantes e visitantes
 grava_mandantesCampeoes("mandantesCampeoes.txt", lista_jogos)
 grava_visitantesCampeoes("visitantesCampeoes.txt", lista_jogos)
 gravaTimes_maiusculo("times_up.txt", lista_jogos)
-
-#Grava nova lista com os nomes dos times em maiúsculo
+#Grava nova lista com os nomes dos times em maiÃºsculo
 lista_jogosUp = leArquivo("times_up")
-
-#Recebe o time para filtrar
+#Recebe o time favorito para filtragem
 time = input("Informe o seu time: ")
-
-#Lê arquivo de mandantes vencedores
+#Le arquivo de mandantes vencedores
 timeCampeao = leArquivo("mandantesCampeoes")
-
 #Grava arquvivo com os jogos em que o time venceu como mandante
 gravaTime_mandanteCampeao(time+"_mandanteCampeao.txt", timeCampeao, time.upper())
-
-#Lê arquivo de visitantes vencedores
+#LÃª arquivo de visitantes vencedores
 timeCampeao = leArquivo("visitantesCampeoes")
-
 #Grava arquvivo com os jogos em que o time venceu como visitante
 gravaTime_visitanteCampeao(time+"_visitanteCampeao.txt", timeCampeao, time.upper())
-
 #Grava arquvivo com todas os jogos perdidos pelo time indicado
 gravaDerrotas_time(time+"_Vencido.txt", lista_jogosUp, time.upper())
-
-#gera xlsx
-df = pd.read_csv(time+"_visitanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
-file_name = time+"_visitanteCampeao.xlsx"
-df.to_excel(file_name)
-print("ok")
+#Cria Dataframes iniciais
+df_visitante = pd.read_csv(time+"_visitanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
+df_mandante = pd.read_csv(time+"_mandanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
+#Especifica o nome da planilha a ser gerada
+file_name = time+"_vitorias.xlsx"
+#file_name2 = time+"_mandanteCampeao.xlsx"
+#Exclui as colunas desnecessarias
+df_visitante2 = df_visitante.loc[:, ~df_visitante.columns.isin(['Rodada', 'Data', 'Horário', 'Dia do Jogo', 'Vencedor', 'Campo', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])]
+df_mandante2 = df_mandante.loc[:, ~df_mandante.columns.isin(['Rodada', 'Data', 'Horário', 'Dia do Jogo', 'Vencedor', 'Campo', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])]
+#Renomeia as colunas
+df_visitante3 = df_visitante2.set_axis(['Adversário', 'Meu time', 'Placar do adversário', 'Placar do '+time.capitalize()], axis=1, inplace=False)
+df_mandante3 = df_mandante2.set_axis(['Meu time', 'Adversário', 'Placar do '+time.capitalize(), 'Placar do adversário'], axis=1, inplace=False)
+#Duplica coluna para criar coluna de mando de campo
+df_visitante3['Mando de campo'] = df_visitante3['Adversário'] 
+df_mandante3['Mando de campo'] = df_mandante3['Meu time'] 
+#Reordena as colunas
+df_visitante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Placar do '+time.capitalize(), 'Placar do adversário'])
+df_mandante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Placar do '+time.capitalize(), 'Placar do adversário'])
+#Masclando os dataframes criados
+df_mesclado_vitorias = pd.concat([df_visitante3, df_mandante3])
+#Gerando a planilha de vitorias
+df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
+#Exibe mensagem
+print("Planilha gerada com sucesso!")
             
