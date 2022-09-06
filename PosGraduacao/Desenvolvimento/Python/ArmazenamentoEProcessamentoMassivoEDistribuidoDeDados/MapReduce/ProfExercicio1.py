@@ -67,5 +67,6 @@ def grava_imagem(mapa):
 
 
 mapa = map("alunos2022")
-mapa_reduce = reduce_mapa(mapa)    
-grava_imagem(mapa)
+print(mapa)
+#mapa_reduce = reduce_mapa(mapa)    
+#grava_imagem(mapa)
