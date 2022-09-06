@@ -63,6 +63,39 @@ def grava_visitantesCampeoes(nomeArquivo, campeonato):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
     
+def grava_jogosUp(nomeArquivo, campeonato):
+    arquivo = open(nomeArquivo, "w+")
+    lista_jogos = []
+    jogo = ""
+    
+    for dados in campeonato:
+        jogo = dados
+        lista_jogos.append(jogo)
+            
+    for time in lista_jogos:
+        arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante.upper() + ";" + time.time_visitante.upper() + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
+    arquivo.close()
+    
+def grava_jogosTimePerdeu(nomeArquivo, campeonato, time):
+    arquivo = open(nomeArquivo, "w+")
+    lista_jogos = []
+    time = str(time)
+    jogo = ""
+    
+    for dados in campeonato:
+        if(time in dados.time_mandante):
+            if(dados.time_vencedor != '-' and time not in dados.time_vencedor):
+                jogo = dados
+                lista_jogos.append(jogo)
+        if(time in dados.time_visitante):
+            if(dados.time_vencedor != '-' and time not in dados.time_vencedor):
+                jogo = dados
+                lista_jogos.append(jogo)
+            
+    for time in lista_jogos:
+        arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante.upper() + ";" + time.time_visitante.upper() + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
+    arquivo.close()
+      
 def gravaTime_mandanteCampeao(nomeArquivo, campeonato, time):
     arquivo = open(nomeArquivo, "+w")
     lista_timeCampeao = []
@@ -92,49 +125,26 @@ def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
     for time in lista_timeCampeao:
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
-    
-def gravaTimes_maiusculo(nomeArquivo, campeonato):
-    arquivo = open(nomeArquivo, "+w")
-    
-    for dados in campeonato:
-        arquivo.write(str(dados.rodada + ";" + dados.data + ";" + dados.horario + ";" + dados.dia_jogo + ";" + dados.time_mandante.upper() + ";" + dados.time_visitante.upper() + ";" + dados.time_vencedor.upper() + ";" + dados.campo + ";" + dados.placar_mandante + ";" + dados.placar_visitante + ";" + dados.estado_mandante + ";" + dados.estado_visitante + ";" + dados.estado_vencedor))
-    arquivo.close()
-    
-def gravaDerrotas_time(nomeArquivo, campeonato, time):
-    arquivo = open(nomeArquivo, "+w")
-    lista_derrotasTime = []
-    time = str(time)
-    derrota = ""
-    
-    for dados in campeonato:
-        if (time == dados.time_mandante and time != dados.time_vencedor):
-            derrota = dados
-            lista_derrotasTime.append(derrota)
-            
-    for time in lista_derrotasTime:
-        arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
-    arquivo.close()
-
+         
 #Le arquivo original com todos os jogos                  
 lista_jogos = leArquivo("jogos")
 #Separa em dois arquivos de capeoes: mandantes e visitantes
 grava_mandantesCampeoes("mandantesCampeoes.txt", lista_jogos)
 grava_visitantesCampeoes("visitantesCampeoes.txt", lista_jogos)
-gravaTimes_maiusculo("times_up.txt", lista_jogos)
-#Grava nova lista com os nomes dos times em maiÃºsculo
-lista_jogosUp = leArquivo("times_up")
+grava_jogosUp("jogosUp.txt", lista_jogos)
+jogos_up = leArquivo("jogosUp")
 #Recebe o time favorito para filtragem
 time = input("Informe o seu time: ")
-#Le arquivo de mandantes vencedores
+#Grava jogos que o time não venceu
+grava_jogosTimePerdeu("jogos"+time+"Perdeu.txt", jogos_up, time.upper())
+#Le arquivo de mandantes vencedores e perdedores
 timeCampeao = leArquivo("mandantesCampeoes")
 #Grava arquvivo com os jogos em que o time venceu como mandante
 gravaTime_mandanteCampeao(time+"_mandanteCampeao.txt", timeCampeao, time.upper())
-#LÃª arquivo de visitantes vencedores
+#Le arquivo de visitantes vencedores e perdedores
 timeCampeao = leArquivo("visitantesCampeoes")
 #Grava arquvivo com os jogos em que o time venceu como visitante
 gravaTime_visitanteCampeao(time+"_visitanteCampeao.txt", timeCampeao, time.upper())
-#Grava arquvivo com todas os jogos perdidos pelo time indicado
-gravaDerrotas_time(time+"_Vencido.txt", lista_jogosUp, time.upper())
 #Cria Dataframes iniciais
 df_visitante = pd.read_csv(time+"_visitanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
 df_mandante = pd.read_csv(time+"_mandanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
