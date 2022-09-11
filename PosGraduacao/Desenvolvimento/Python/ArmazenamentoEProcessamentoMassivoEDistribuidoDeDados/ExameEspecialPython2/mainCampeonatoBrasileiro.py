@@ -217,7 +217,6 @@ print("Gráfico Ok!")
 print("Planilha Ok!")
 
 ## Apaga arquivos desnecessários ##
-'''
 if os.path.isfile(file_name2):
     os.remove(file_name2)
 else:    ## Show an error ##
@@ -226,7 +225,7 @@ else:    ## Show an error ##
 if os.path.isfile(file_name3):
     os.remove(file_name3)
 else:    ## Show an error ##
-    print("Erro: %s, arquivo não existe" %file_name3)'''
+    print("Erro: %s, arquivo não existe" %file_name3)
 
 if os.path.isfile("mandantesCampeoes.txt"):
     os.remove("mandantesCampeoes.txt")
