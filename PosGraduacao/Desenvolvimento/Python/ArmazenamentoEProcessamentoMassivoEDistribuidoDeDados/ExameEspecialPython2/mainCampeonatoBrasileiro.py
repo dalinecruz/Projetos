@@ -136,17 +136,14 @@ def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
     
-def grafico(nomeArquivoVitorias, nomeArquivoDerrotas):
-    #with open(nomeArquivoVitorias, 'rb') as f:
-    #    arquivoVitorias = f.read()
+def grafico(nomeArquivoVitorias, nomeArquivoDerrotas, time):
     arquivoVitorias = open(nomeArquivoVitorias, "r", encoding = 'UTF-8')
-    #with open(nomeArquivoDerrotas, 'rb') as f:
-    #    arquivoDerrotas = f.read()
     arquivoDerrotas = open(nomeArquivoDerrotas, "r", encoding = 'UTF-8')
     tamanhoVitorias = arquivoVitorias.readlines()
     tamanhoDerrotas = arquivoDerrotas.readlines()
     contVitorias = 0
     contDerrotas = 0
+    time = time.capitalize()
     
     while(len(tamanhoVitorias) > contVitorias):
         contVitorias += 1
@@ -160,13 +157,15 @@ def grafico(nomeArquivoVitorias, nomeArquivoDerrotas):
     percentDerrotas = float(contDerrotas * 100 / total)
     
     altura = [percentVitorias, percentDerrotas]
-    barras = ('% Vitórias', '% Derrotas')
-    y_pos = np.arange(len(barras))
+    largura = [0.2,0.2]
+    x_pos = [0,0.3]
+    barras = ('% Vitórias '+time, '% Derrotas '+time)
+    #y_pos = np.arange(len(barras))
 
-    plt.bar(y_pos, altura, color=['blue', 'red'])
-    plt.xticks(y_pos, barras)
+    plt.bar(x_pos, altura, largura, color=['blue', 'red'])
+    plt.xticks(x_pos, barras)
     plt.show()
-         
+    
 #Le arquivo original com todos os jogos                  
 lista_jogos = leArquivo("jogos")
 #Separa em dois arquivos de capeoes: mandantes e visitantes
@@ -211,7 +210,7 @@ df_mesclado_vitorias = pd.concat([df_visitante3, df_mandante3])
 df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
 df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
 #Cria Gráfico
-grafico(file_name3, file_name2)
+grafico(file_name3, file_name2, time)
 #Exibe mensagem
 print("Gráfico Ok!")
 print("Planilha Ok!")
