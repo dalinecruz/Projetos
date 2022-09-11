@@ -219,6 +219,7 @@ else:
     #Cria Gráfico
     grafico(file_name3, file_name2, time)
     print("Planilha Ok!")
+    print("Arquivos com vitórias como mandante e visitante, Ok!")
 
 ##REmove arquivos desnecessários##
 if os.path.isfile(file_name2):
@@ -245,13 +246,3 @@ if os.path.isfile("jogosUp.txt"):
     os.remove("jogosUp.txt")
 else:    ## Show an error ##
     print("Erro ao remover jogosUp.txt, o arquivo não existe")
-   
-if os.path.isfile(time+"_mandanteCampeao.txt"):
-    os.remove(time+"_mandanteCampeao.txt")
-else:    ## Show an error ##
-    print("Erro ao remover %s_mandanteCampeao.txt, o arquivo não existe" %time)
-    
-if os.path.isfile(time+"_visitanteCampeao.txt"):
-    os.remove(time+"_visitanteCampeao.txt")
-else:    ## Show an error ##
-    print("Erro ao remover %s_visitanteeCampeao.txt, o arquivo não existe" %time)
