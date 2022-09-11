@@ -6,7 +6,6 @@ Created on 03 de set. de 2022
 '''
 import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
 import os
 from ExameEspecialPython2.CampeonatoBrasileiro import CampeonatoBrasileiro
 
@@ -131,10 +130,11 @@ def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
         if(time == dados.time_vencedor):
             campeao = dados
             lista_timeCampeao.append(campeao)
-            
+                      
     for time in lista_timeCampeao:
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
+
     
 def grafico(nomeArquivoVitorias, nomeArquivoDerrotas, time):
     arquivoVitorias = open(nomeArquivoVitorias, "r", encoding = 'UTF-8')
@@ -164,7 +164,6 @@ def grafico(nomeArquivoVitorias, nomeArquivoDerrotas, time):
         largura = [0.2,0.2]
         x_pos = [0,0.3]
         barras = ('% Vitórias '+time, '% Derrotas '+time)
-        #y_pos = np.arange(len(barras))
 
         plt.bar(x_pos, altura, largura, color=['blue', 'red'])
         plt.xticks(x_pos, barras)
@@ -212,47 +211,47 @@ df_mandante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Placa
 #Masclando os dataframes criados
 df_mesclado_vitorias = pd.concat([df_visitante3, df_mandante3])
 #Gerando a planilha e o txt de vitorias
-df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
-df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
-#Cria Gráfico
-grafico(file_name3, file_name2, time)
-#Exibe mensagem
-
-print("Planilha Ok!")
-#print(time.upper())
+if os.stat(time+"_visitanteCampeao.txt").st_size == 0 and os.stat(time+"_mandanteCampeao.txt").st_size == 0:
+    print("Não foi possível gerar a planilha, pois o time informado não foi encontrado no arquivo original, verifique a grafia correta do nome do time!")
+else:
+    df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
+    df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
+    #Cria Gráfico
+    grafico(file_name3, file_name2, time)
+    print("Planilha Ok!")
 
 ##REmove arquivos desnecessários##
-'''if os.path.isfile(file_name2):
+if os.path.isfile(file_name2):
     os.remove(file_name2)
 else:
-    print("Erro: %s, arquivo não existe" %file_name2)'''
+    print("Erro ao remover %s, o arquivo não existe" %file_name2)
     
 if os.path.isfile(file_name3):
     os.remove(file_name3)
 else:    ## Show an error ##
-    print("Erro: %s, arquivo não existe" %file_name3)
+    print("Erro ao remover %s, o arquivo não existe" %file_name3)
 
 if os.path.isfile("mandantesCampeoes.txt"):
     os.remove("mandantesCampeoes.txt")
 else:    ## Show an error ##
-    print("Erro: mandantesCampeoes.txt, arquivo não existe")
+    print("Erro ao remover mandantesCampeoes.txt, o arquivo não existe")
     
 if os.path.isfile("visitantesCampeoes.txt"):
     os.remove("visitantesCampeoes.txt")
 else:    ## Show an error ##
-    print("Erro: visitantesCampeoes.txt, arquivo não existe")
+    print("Erro ao remover visitantesCampeoes.txt, o arquivo não existe")
  
 if os.path.isfile("jogosUp.txt"):
     os.remove("jogosUp.txt")
 else:    ## Show an error ##
-    print("Erro: jogosUp.txt, arquivo não existe")
+    print("Erro ao remover jogosUp.txt, o arquivo não existe")
    
 if os.path.isfile(time+"_mandanteCampeao.txt"):
     os.remove(time+"_mandanteCampeao.txt")
 else:    ## Show an error ##
-    print("Erro: %s_mandanteCampeao.txt, arquivo não existe" %time)
+    print("Erro ao remover %s_mandanteCampeao.txt, o arquivo não existe" %time)
     
 if os.path.isfile(time+"_visitanteCampeao.txt"):
     os.remove(time+"_visitanteCampeao.txt")
 else:    ## Show an error ##
-    print("Erro: %s_visitanteeCampeao.txt, arquivo não existe" %time)
+    print("Erro ao remover %s_visitanteeCampeao.txt, o arquivo não existe" %time)
