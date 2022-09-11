@@ -7,6 +7,7 @@ Created on 03 de set. de 2022
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import os
 from ExameEspecialPython2.CampeonatoBrasileiro import CampeonatoBrasileiro
 
 ##Lê o arquvio de jogos##
@@ -159,10 +160,10 @@ def grafico(nomeArquivoVitorias, nomeArquivoDerrotas):
     percentDerrotas = float(contDerrotas * 100 / total)
     
     altura = [percentVitorias, percentDerrotas]
-    barras = ('% Vitorias', '% Derrotas')
+    barras = ('% Vitórias', '% Derrotas')
     y_pos = np.arange(len(barras))
 
-    plt.bar(y_pos, altura)
+    plt.bar(y_pos, altura, color=['blue', 'red'])
     plt.xticks(y_pos, barras)
     plt.show()
          
@@ -190,9 +191,8 @@ df_visitante = pd.read_csv(time+"_visitanteCampeao.txt", delimiter= ';', names=[
 df_mandante = pd.read_csv(time+"_mandanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
 #Especifica o nome da planilha a ser gerada
 file_name = time+"_vitorias.xlsx"
-file_name2 = "jogos"+time+"Perdeu.txt"
-file_name3 = time+"_vitorias.txt"
-#file_name2 = time+"_mandanteCampeao.xlsx"
+file_name2 = "jogos"+time+"Perdeu.txt" #será utilizado para a geração do gráfico
+file_name3 = time+"_vitorias.txt" #será utilizado para a geração do gráfico
 #Exclui as colunas desnecessarias
 df_visitante2 = df_visitante.loc[:, ~df_visitante.columns.isin(['Rodada', 'Data', 'Horário', 'Dia do Jogo', 'Vencedor', 'Campo', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])]
 df_mandante2 = df_mandante.loc[:, ~df_mandante.columns.isin(['Rodada', 'Data', 'Horário', 'Dia do Jogo', 'Vencedor', 'Campo', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])]
@@ -207,12 +207,48 @@ df_visitante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Plac
 df_mandante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Placar do '+time.capitalize(), 'Placar do adversário'])
 #Masclando os dataframes criados
 df_mesclado_vitorias = pd.concat([df_visitante3, df_mandante3])
-#Gerando a planilha de vitorias
+#Gerando a planilha e o txt de vitorias
 df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
 df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
 #Cria Gráfico
 grafico(file_name3, file_name2)
 #Exibe mensagem
 print("Gráfico Ok!")
-print("Planilha gerada com sucesso!")
-            
+print("Planilha Ok!")
+
+## Apaga arquivos desnecessários ##
+'''
+if os.path.isfile(file_name2):
+    os.remove(file_name2)
+else:    ## Show an error ##
+    print("Erro: %s, arquivo não existe" %file_name2)
+    
+if os.path.isfile(file_name3):
+    os.remove(file_name3)
+else:    ## Show an error ##
+    print("Erro: %s, arquivo não existe" %file_name3)'''
+
+if os.path.isfile("mandantesCampeoes.txt"):
+    os.remove("mandantesCampeoes.txt")
+else:    ## Show an error ##
+    print("Erro: mandantesCampeoes.txt, arquivo não existe")
+    
+if os.path.isfile("visitantesCampeoes.txt"):
+    os.remove("visitantesCampeoes.txt")
+else:    ## Show an error ##
+    print("Erro: visitantesCampeoes.txt, arquivo não existe")
+    
+if os.path.isfile("jogosUp.txt"):
+    os.remove("jogosUp.txt")
+else:    ## Show an error ##
+    print("Erro: jogosUp.txt, arquivo não existe")
+    
+if os.path.isfile(time+"_mandanteCampeao.txt"):
+    os.remove(time+"_mandanteCampeao.txt")
+else:    ## Show an error ##
+    print("Erro: %s_mandanteCampeao.txt, arquivo não existe" %time)
+    
+if os.path.isfile(time+"_visitanteCampeao.txt"):
+    os.remove(time+"_visitanteCampeao.txt")
+else:    ## Show an error ##
+    print("Erro: %s_visitanteeCampeao.txt, arquivo não existe" %time)
