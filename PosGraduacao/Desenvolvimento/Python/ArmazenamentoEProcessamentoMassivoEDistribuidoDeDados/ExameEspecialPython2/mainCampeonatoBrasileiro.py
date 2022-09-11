@@ -153,18 +153,23 @@ def grafico(nomeArquivoVitorias, nomeArquivoDerrotas, time):
           
     total = contDerrotas + (contVitorias - 1) #contVitorias tem uma linha a mais por conta do titulo das colunas
     
-    percentVitorias = float((contVitorias - 1) * 100 / total)
-    percentDerrotas = float(contDerrotas * 100 / total)
+    if contVitorias==0 or contDerrotas==0:
+        print("O time não foi encontrado, por favor, verifique a ortografia do nome.")    
+        return 0
+    else:
+        percentVitorias = float((contVitorias - 1) * 100 / total)
+        percentDerrotas = float(contDerrotas * 100 / total)
     
-    altura = [percentVitorias, percentDerrotas]
-    largura = [0.2,0.2]
-    x_pos = [0,0.3]
-    barras = ('% Vitórias '+time, '% Derrotas '+time)
-    #y_pos = np.arange(len(barras))
+        altura = [percentVitorias, percentDerrotas]
+        largura = [0.2,0.2]
+        x_pos = [0,0.3]
+        barras = ('% Vitórias '+time, '% Derrotas '+time)
+        #y_pos = np.arange(len(barras))
 
-    plt.bar(x_pos, altura, largura, color=['blue', 'red'])
-    plt.xticks(x_pos, barras)
-    plt.show()
+        plt.bar(x_pos, altura, largura, color=['blue', 'red'])
+        plt.xticks(x_pos, barras)
+        plt.show()
+        print("Gráfico Ok!")
     
 #Le arquivo original com todos os jogos                  
 lista_jogos = leArquivo("jogos")
@@ -212,15 +217,15 @@ df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
 #Cria Gráfico
 grafico(file_name3, file_name2, time)
 #Exibe mensagem
-print("Gráfico Ok!")
+
 print("Planilha Ok!")
 #print(time.upper())
 
 ##REmove arquivos desnecessários##
-if os.path.isfile(file_name2):
+'''if os.path.isfile(file_name2):
     os.remove(file_name2)
 else:
-    print("Erro: %s, arquivo não existe" %file_name2)
+    print("Erro: %s, arquivo não existe" %file_name2)'''
     
 if os.path.isfile(file_name3):
     os.remove(file_name3)
