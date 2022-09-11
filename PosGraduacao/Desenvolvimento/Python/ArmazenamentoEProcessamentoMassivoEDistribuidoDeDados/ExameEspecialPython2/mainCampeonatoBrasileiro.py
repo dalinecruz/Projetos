@@ -4,9 +4,12 @@ Created on 03 de set. de 2022
 
 @author: daline
 '''
+import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 from ExameEspecialPython2.CampeonatoBrasileiro import CampeonatoBrasileiro
 
+##Lê o arquvio de jogos##
 def leArquivo(nomeArquivo):
     campeonato = []
     arquivo = open(nomeArquivo + ".txt", "r")
@@ -34,7 +37,8 @@ def leArquivo(nomeArquivo):
         cont += 1
     arquivo.close()
     return campeonato
-        
+
+##Grava arquivo com todas as partidas cujos mandantes venceram##     
 def grava_mandantesCampeoes(nomeArquivo, campeonato):
     arquivo = open(nomeArquivo, "w+")
     lista_mandantesCampeoes = []
@@ -49,6 +53,7 @@ def grava_mandantesCampeoes(nomeArquivo, campeonato):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
 
+##Grava arquivo com todas as partidas cujos visitantes venceram##   
 def grava_visitantesCampeoes(nomeArquivo, campeonato):
     arquivo = open(nomeArquivo, "w+")
     lista_visitantesCampeoes = []
@@ -63,6 +68,7 @@ def grava_visitantesCampeoes(nomeArquivo, campeonato):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
     
+##Grava arquivo com todos os times em mandante, visitante e vencedor com letras maiúsculasm##    
 def grava_jogosUp(nomeArquivo, campeonato):
     arquivo = open(nomeArquivo, "w+")
     lista_jogos = []
@@ -76,6 +82,7 @@ def grava_jogosUp(nomeArquivo, campeonato):
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante.upper() + ";" + time.time_visitante.upper() + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
     
+##Grava arquivo com todas as partidas perdidas pelo time informado##
 def grava_jogosTimePerdeu(nomeArquivo, campeonato, time):
     arquivo = open(nomeArquivo, "w+")
     lista_jogos = []
@@ -95,7 +102,8 @@ def grava_jogosTimePerdeu(nomeArquivo, campeonato, time):
     for time in lista_jogos:
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante.upper() + ";" + time.time_visitante.upper() + ";" + time.time_vencedor.upper() + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
-      
+
+##Grava arquivo com todas as partidas vencidas pelo time informado enquanto mandante##     
 def gravaTime_mandanteCampeao(nomeArquivo, campeonato, time):
     arquivo = open(nomeArquivo, "+w")
     lista_timeCampeao = []
@@ -110,7 +118,8 @@ def gravaTime_mandanteCampeao(nomeArquivo, campeonato, time):
     for time in lista_timeCampeao:
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
-    
+
+##Grava arquivo com todas as partidas vencidas pelo time informado enquanto visitante## 
 def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
     arquivo = open(nomeArquivo, "+w")
     lista_timeCampeao = []
@@ -125,6 +134,37 @@ def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
     for time in lista_timeCampeao:
         arquivo.write(str(time.rodada + ";" + time.data + ";" + time.horario + ";" + time.dia_jogo + ";" + time.time_mandante + ";" + time.time_visitante + ";" + time.time_vencedor + ";" + time.campo + ";" + time.placar_mandante + ";" + time.placar_visitante + ";" + time.estado_mandante + ";" + time.estado_visitante + ";" + time.estado_vencedor))
     arquivo.close()
+    
+def grafico(nomeArquivoVitorias, nomeArquivoDerrotas):
+    #with open(nomeArquivoVitorias, 'rb') as f:
+    #    arquivoVitorias = f.read()
+    arquivoVitorias = open(nomeArquivoVitorias, "r", encoding = 'Latin-1')
+    #with open(nomeArquivoDerrotas, 'rb') as f:
+    #    arquivoDerrotas = f.read()
+    arquivoDerrotas = open(nomeArquivoDerrotas, "r", encoding = 'Latin-1')
+    tamanhoVitorias = arquivoVitorias.readlines()
+    tamanhoDerrotas = arquivoDerrotas.readlines()
+    contVitorias = 0
+    contDerrotas = 0
+    
+    while(len(tamanhoVitorias) > contVitorias):
+        contVitorias += 1
+        
+    while(len(tamanhoDerrotas) > contDerrotas):
+        contDerrotas += 1
+          
+    total = contDerrotas + (contVitorias - 1) #contVitorias tem uma linha a mais por conta do titulo das colunas
+    
+    percentVitorias = float((contVitorias - 1) * 100 / total)
+    percentDerrotas = float(contDerrotas * 100 / total)
+    
+    altura = [percentVitorias, percentDerrotas]
+    barras = ('% Vitorias', '% Derrotas')
+    y_pos = np.arange(len(barras))
+
+    plt.bar(y_pos, altura)
+    plt.xticks(y_pos, barras)
+    plt.show()
          
 #Le arquivo original com todos os jogos                  
 lista_jogos = leArquivo("jogos")
@@ -150,6 +190,8 @@ df_visitante = pd.read_csv(time+"_visitanteCampeao.txt", delimiter= ';', names=[
 df_mandante = pd.read_csv(time+"_mandanteCampeao.txt", delimiter= ';', names=['Rodada','Data', 'Horário', 'Dia do Jogo', 'Mandante', 'Visitante', 'Vencedor', 'Campo', 'Placar Mandante', 'Placar Visitante', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])
 #Especifica o nome da planilha a ser gerada
 file_name = time+"_vitorias.xlsx"
+file_name2 = "jogos"+time+"Perdeu.txt"
+file_name3 = time+"_vitorias.txt"
 #file_name2 = time+"_mandanteCampeao.xlsx"
 #Exclui as colunas desnecessarias
 df_visitante2 = df_visitante.loc[:, ~df_visitante.columns.isin(['Rodada', 'Data', 'Horário', 'Dia do Jogo', 'Vencedor', 'Campo', 'Estado Mandante', 'Estado Visitante', 'Estado Vencedor'])]
@@ -167,6 +209,10 @@ df_mandante3.reindex(columns=['Meu time', 'Adversário', 'Mando de campo', 'Placa
 df_mesclado_vitorias = pd.concat([df_visitante3, df_mandante3])
 #Gerando a planilha de vitorias
 df_mesclado_vitorias.reset_index(drop=True).to_excel(file_name)
+df_mesclado_vitorias.reset_index(drop=True).to_csv(file_name3)
+#Cria Gráfico
+grafico(file_name3, file_name2)
 #Exibe mensagem
+print("Gráfico Ok!")
 print("Planilha gerada com sucesso!")
             
