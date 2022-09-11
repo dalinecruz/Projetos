@@ -13,7 +13,7 @@ from ExameEspecialPython2.CampeonatoBrasileiro import CampeonatoBrasileiro
 ##Lê o arquvio de jogos##
 def leArquivo(nomeArquivo):
     campeonato = []
-    arquivo = open(nomeArquivo + ".txt", "r")
+    arquivo = open(nomeArquivo + ".txt", "r", encoding = 'UTF-8')
     tamanho = arquivo.readlines()
     cont = 0
     
@@ -41,7 +41,7 @@ def leArquivo(nomeArquivo):
 
 ##Grava arquivo com todas as partidas cujos mandantes venceram##     
 def grava_mandantesCampeoes(nomeArquivo, campeonato):
-    arquivo = open(nomeArquivo, "w+")
+    arquivo = open(nomeArquivo, "w+", encoding = 'UTF-8')
     lista_mandantesCampeoes = []
     campeao = ""
     
@@ -56,7 +56,7 @@ def grava_mandantesCampeoes(nomeArquivo, campeonato):
 
 ##Grava arquivo com todas as partidas cujos visitantes venceram##   
 def grava_visitantesCampeoes(nomeArquivo, campeonato):
-    arquivo = open(nomeArquivo, "w+")
+    arquivo = open(nomeArquivo, "w+", encoding = 'UTF-8')
     lista_visitantesCampeoes = []
     campeao = ""
     
@@ -71,7 +71,7 @@ def grava_visitantesCampeoes(nomeArquivo, campeonato):
     
 ##Grava arquivo com todos os times em mandante, visitante e vencedor com letras maiúsculasm##    
 def grava_jogosUp(nomeArquivo, campeonato):
-    arquivo = open(nomeArquivo, "w+")
+    arquivo = open(nomeArquivo, "w+", encoding = 'UTF-8')
     lista_jogos = []
     jogo = ""
     
@@ -85,7 +85,7 @@ def grava_jogosUp(nomeArquivo, campeonato):
     
 ##Grava arquivo com todas as partidas perdidas pelo time informado##
 def grava_jogosTimePerdeu(nomeArquivo, campeonato, time):
-    arquivo = open(nomeArquivo, "w+")
+    arquivo = open(nomeArquivo, "w+", encoding = 'UTF-8')
     lista_jogos = []
     time = str(time)
     jogo = ""
@@ -106,7 +106,7 @@ def grava_jogosTimePerdeu(nomeArquivo, campeonato, time):
 
 ##Grava arquivo com todas as partidas vencidas pelo time informado enquanto mandante##     
 def gravaTime_mandanteCampeao(nomeArquivo, campeonato, time):
-    arquivo = open(nomeArquivo, "+w")
+    arquivo = open(nomeArquivo, "+w", encoding = 'UTF-8')
     lista_timeCampeao = []
     time = str(time)
     campeao = ""
@@ -122,7 +122,7 @@ def gravaTime_mandanteCampeao(nomeArquivo, campeonato, time):
 
 ##Grava arquivo com todas as partidas vencidas pelo time informado enquanto visitante## 
 def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
-    arquivo = open(nomeArquivo, "+w")
+    arquivo = open(nomeArquivo, "+w", encoding = 'UTF-8')
     lista_timeCampeao = []
     time = str(time)
     campeao = ""
@@ -139,10 +139,10 @@ def gravaTime_visitanteCampeao(nomeArquivo, campeonato, time):
 def grafico(nomeArquivoVitorias, nomeArquivoDerrotas):
     #with open(nomeArquivoVitorias, 'rb') as f:
     #    arquivoVitorias = f.read()
-    arquivoVitorias = open(nomeArquivoVitorias, "r", encoding = 'Latin-1')
+    arquivoVitorias = open(nomeArquivoVitorias, "r", encoding = 'UTF-8')
     #with open(nomeArquivoDerrotas, 'rb') as f:
     #    arquivoDerrotas = f.read()
-    arquivoDerrotas = open(nomeArquivoDerrotas, "r", encoding = 'Latin-1')
+    arquivoDerrotas = open(nomeArquivoDerrotas, "r", encoding = 'UTF-8')
     tamanhoVitorias = arquivoVitorias.readlines()
     tamanhoDerrotas = arquivoDerrotas.readlines()
     contVitorias = 0
@@ -215,11 +215,12 @@ grafico(file_name3, file_name2)
 #Exibe mensagem
 print("Gráfico Ok!")
 print("Planilha Ok!")
+#print(time.upper())
 
-## Apaga arquivos desnecessários ##
+##REmove arquivos desnecessários##
 if os.path.isfile(file_name2):
     os.remove(file_name2)
-else:    ## Show an error ##
+else:
     print("Erro: %s, arquivo não existe" %file_name2)
     
 if os.path.isfile(file_name3):
@@ -236,12 +237,12 @@ if os.path.isfile("visitantesCampeoes.txt"):
     os.remove("visitantesCampeoes.txt")
 else:    ## Show an error ##
     print("Erro: visitantesCampeoes.txt, arquivo não existe")
-    
+ 
 if os.path.isfile("jogosUp.txt"):
     os.remove("jogosUp.txt")
 else:    ## Show an error ##
     print("Erro: jogosUp.txt, arquivo não existe")
-    
+   
 if os.path.isfile(time+"_mandanteCampeao.txt"):
     os.remove(time+"_mandanteCampeao.txt")
 else:    ## Show an error ##
