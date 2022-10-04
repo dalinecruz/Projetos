@@ -1,2 +1,1 @@
- #ExerciciosCursos
- Atividades executadas en cursos
+Atividades executadas em cursos
